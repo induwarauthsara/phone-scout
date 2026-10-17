@@ -1,5 +1,11 @@
 # Phone Scout
 
+[Live dashboard](https://induwarauthsara.github.io/phone-scout/) · [Public repository](https://github.com/induwarauthsara/phone-scout)
+
+GitHub Pages serves the root of `main`. The daily Codex search commits and pushes
+updated JSON and its generated data bundle. Repository content, preferences and
+research logs are public, as approved by the owner. Publication failures are logged.
+
 Open **index.html** in a browser. The four linked views are Offers, Phone targets,
 Instructions and Activity. No installation or internet is required to view saved data.
 

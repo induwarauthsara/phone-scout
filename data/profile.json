@@ -17,8 +17,10 @@
   "workload": "GPS and hotspot throughout the day, frequent photos and video.",
   "endurance": "6–9 hours between 80% and 20%; not verified for any candidate.",
   "lastStockAudit": "2026-10-17T11:38:13.342Z",
-  "updatedAt": "2026-10-17T11:38:13.342Z",
+  "updatedAt": "2026-10-17T14:58:27.654Z",
   "searchTime": "8:00 AM",
   "batteryGoal": "6–9h · 80% → 20%",
-  "locationConfirmedAt": "2026-10-17T11:38:13.342Z"
+  "locationConfirmedAt": "2026-10-17T11:38:13.342Z",
+  "siteUrl": "https://induwarauthsara.github.io/phone-scout/",
+  "repositoryUrl": "https://github.com/induwarauthsara/phone-scout"
 }
