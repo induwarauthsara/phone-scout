@@ -1,0 +1,448 @@
+{
+  "updatedAt": "2026-10-17T11:38:13.342Z",
+  "lastStockAudit": "2026-10-17T11:38:13.342Z",
+  "active": [
+    {
+      "id": "green-13r-256",
+      "name": "OnePlus 13R",
+      "seller": "Greenware",
+      "storage": "12GB / 256GB",
+      "condition": "New (advertised)",
+      "cashPrice": 155000,
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
+      "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
+      "reason": "Best lower-cost battery/performance candidate. Compare cameras against your Pixel; no promised camera upgrade.",
+      "koko": {
+        "supported": true,
+        "monthly": 51666.67,
+        "total": 155000,
+        "evidence": "Product installment line: or 3 X LKR. 51,666.67 with Koko logo.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 1,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "One year advertised; issuer and display coverage need confirmation",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "green-15r-256",
+      "name": "OnePlus 15R",
+      "seller": "Greenware",
+      "storage": "12GB / 256GB",
+      "condition": "New (advertised)",
+      "cashPrice": 194000,
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
+      "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
+      "reason": "Battery/performance-first target. Verify global model, camera tradeoffs and local warranty; copied retailer specifications are inconsistent.",
+      "koko": {
+        "supported": true,
+        "monthly": 64666.67,
+        "total": 194000,
+        "evidence": "Product installment line: or 3 X LKR. 64,666.67 with Koko logo.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 2,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "Confirm exact local warranty",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "smartdealz-15plus-256",
+      "name": "iPhone 15 Plus",
+      "seller": "Smart Dealz Lanka · ikman",
+      "storage": "256GB",
+      "condition": "Used",
+      "cashPrice": 175000,
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
+      "address": "Colombo 3; exact shop/unit address to confirm",
+      "reason": "Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.",
+      "koko": {
+        "supported": null,
+        "monthly": null,
+        "total": null,
+        "evidence": "KOKO terms not visible in the live target-ad content during this check.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false
+      },
+      "rank": 3,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "Not confirmed; inspect specific unit",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "SIM/region not disclosed",
+      "batteryHealth": null
+    },
+    {
+      "id": "toyo-15t-512",
+      "name": "Xiaomi 15T",
+      "seller": "Toyo",
+      "storage": "12GB / 512GB",
+      "condition": "New (advertised)",
+      "cashPrice": 163500,
+      "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
+      "address": "210/10, Airtel Market, Main Street, Colombo 11",
+      "reason": "Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.",
+      "koko": {
+        "supported": true,
+        "monthly": 58860,
+        "total": 176580,
+        "evidence": "KOKO Pay panel: Rs.176,580.00; 3 X Rs.58,860.00.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 4,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "Default: one year SOFTWARE ONLY. Hardware+software option +Rs.10,000; display-line terms unknown.",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed",
+      "priceFrom": true
+    },
+    {
+      "id": "green-13r-512",
+      "name": "OnePlus 13R",
+      "seller": "Greenware",
+      "storage": "16GB / 512GB",
+      "condition": "New (advertised)",
+      "cashPrice": 192000,
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
+      "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
+      "reason": "More storage for frequent video; costs Rs.37,000 above the 256GB offer with the same camera compromises.",
+      "koko": {
+        "supported": true,
+        "monthly": 64000,
+        "total": 192000,
+        "evidence": "Product installment line: or 3 X LKR.64,000.00 with Koko logo.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 5,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "ps-15-256",
+      "name": "iPhone 15",
+      "seller": "Present Solution",
+      "storage": "256GB · Black selected",
+      "condition": "Used",
+      "cashPrice": 175000,
+      "url": "https://presentsolution.lk/product/iphone-15-pre-owned/",
+      "address": "1-35R, First Floor, Liberty Plaza, Colombo 03",
+      "reason": "Black + 256GB selected: Rs.175,000. Page warns prices/availability require confirmation. Prefer Plus for your endurance priority; battery health unknown.",
+      "koko": {
+        "supported": true,
+        "monthly": 58333.33,
+        "total": 175000,
+        "evidence": "Selected Black/256GB shows 3 X Rs.58,333.33 with links labelled koko.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 6,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "Page advertises 1 month hardware / 6 months software; confirm unit-specific terms",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed",
+      "addressSource": "https://presentsolution.lk/privacy-policy/"
+    },
+    {
+      "id": "xmobile-s25-256",
+      "name": "Samsung Galaxy S25",
+      "seller": "XMobile",
+      "storage": "12GB / 256GB",
+      "condition": "New (advertised)",
+      "cashPrice": 197990,
+      "url": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
+      "address": "42N, Ground Floor, Liberty Plaza, Colombo 03",
+      "reason": "Compact flagship alternative; battery priority lower than larger phones. Page asks buyers to verify availability. Selected warranty price and installment amount need checking.",
+      "koko": {
+        "supported": true,
+        "monthly": null,
+        "total": null,
+        "totalConfirmed": false,
+        "evidence": "Merchant official About Us page explicitly supports KOKO installments. Product-specific current installment quote not captured in this check.",
+        "source": "https://xmobile.lk/about-us/",
+        "scope": "merchant",
+        "checkedAt": "2026-10-17T11:38:13.342Z"
+      },
+      "rank": 7,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "Selectable; software-only option observed, hardware terms unconfirmed",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed",
+      "addressSource": "https://xmobile.lk/about-us/"
+    },
+    {
+      "id": "toyo-nothing3apro-256",
+      "name": "Nothing Phone (3a) Pro",
+      "seller": "Toyo",
+      "storage": "12GB / 256GB",
+      "condition": "New (advertised)",
+      "cashPrice": 145000,
+      "url": "https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
+      "address": "210/10, Airtel Market, Main Street, Colombo 11",
+      "reason": "Lower-price OS alternative. Midrange performance and battery/camera tradeoffs place it below the flagship candidates for your workload.",
+      "koko": {
+        "supported": true,
+        "monthly": 52200,
+        "total": 156600,
+        "evidence": "KOKO Pay panel: Rs.156,600.00; 3 X Rs.52,200.00.",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "totalConfirmed": false,
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+      },
+      "rank": 8,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+      },
+      "firstSeen": "2026-10-17",
+      "warranty": "One year company warranty selected; confirm issuer/display coverage",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; inspect before paying",
+      "variant": "Exact region not confirmed"
+    }
+  ],
+  "history": [
+    {
+      "id": "history-1",
+      "name": "HONOR 400 Pro 12GB/512GB - Toyo - advertised retail/new; confirm sealed status",
+      "status": "out_of_stock_or_conflicting",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+      "details": "#1 HONOR 400 Pro 12GB/512GB - Toyo - advertised retail/new; confirm sealed status\nCash/bank: 182,990. KOKO total: 197,629.20; 3 x 65,876.40 (8% above cash).\nWhy first: strongest camera/battery/performance balance to test within the cap.\nTradeoffs: compare moving subjects, indoor photos, skin tones and zoom against\nyour Pixel; do not assume higher megapixels mean better photos. Try MagicOS first.\nRegion: not established. Merchant says 6000mAh; other sellers list 5300mAh.\nInspect exact regional SKU and battery specification before ranking it as 6000mAh.\nWarranty: one year advertised; page has generic official-warranty wording, but\nissuer and applicable option are unconfirmed. Display-line cover unknown.\nStock: order controls shown; selected colour/warranty stock unconfirmed.\nLocation: Toyo, 210/10, Airtel Market, Main Street, Colombo 11.\nTesting before payment: UNKNOWN. Contact published: 0777 044 881 / 0777 358 378.\nSource: https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-2",
+      "name": "OnePlus 13R 12GB/256GB - Greenware - advertised retail/new; confirm sealed status",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
+      "details": "#2 OnePlus 13R 12GB/256GB - Greenware - advertised retail/new; confirm sealed status\nCash: 155,000. KOKO widget: 3 x 51,666.67; total about 155,000.01 rounding.\nWhy: compelling battery/performance value near the preferred budget; 6000mAh\nconfirmed by OnePlus specifications. Test camera carefully before leaving Pixel.\nTradeoffs: camera versatility, especially ultrawide/selfie and long zoom, may\ndisappoint a Pixel 7 Pro owner. Camera parity is not established by this research.\nRegion: unknown; exclude flashed China Ace models presented as global 13R.\nWarranty: one year advertised; issuer/local enforceability and line cover unknown.\nStock: add-to-basket shown; actual shop stock unknown. KOKO final total unconfirmed.\nLocations: 42 P, Ground Floor, Liberty Plaza, Colombo 03; 154 Galle Rd, Colombo 04.\nTesting before payment: UNKNOWN. Contact published: 0777 648 648.\nSource: https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage\nSpecs: https://www.oneplus.com/us/13r/specs",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-3",
+      "name": "Xiaomi 15T 12GB/512GB - Toyo - advertised retail/new; confirm sealed status",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
+      "details": "#3 Xiaomi 15T 12GB/512GB - Toyo - advertised retail/new; confirm sealed status\nCash FROM 163,500. Displayed KOKO total 176,580; 3 x 58,860 (8% uplift).\nImportant: FROM price and selectable warranty mean final chosen option can cost more.\nWhy: worthwhile camera/storage alternative between the first two price points.\nTradeoffs: test HyperOS preference, camera processing, notifications and hotspot\nstability. Pixel camera equivalence and your battery target remain unproven.\nRegion: unknown. Xiaomi global specs are the reference, not copied retailer text.\nWarranty: one year advertised; exact issuer/option/line cover unconfirmed.\nStock: order controls shown, chosen option unconfirmed. Test-before-pay UNKNOWN.\nLocation/contact: Toyo, Colombo 11, as above.\nSource: https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\nSpecs: https://www.mi.com/global/product/xiaomi-15t/specs/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-4",
+      "name": "OnePlus 13R 16GB/512GB - Greenware - advertised retail/new; confirm sealed status",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
+      "details": "#4 OnePlus 13R 16GB/512GB - Greenware - advertised retail/new; confirm sealed status\nCash 192,000. KOKO widget 3 x 64,000 = 192,000; checkout total unconfirmed.\nWhy: more storage, useful for frequent video; lower value than #2 if 256GB is enough.\nSame camera, region and local warranty verification needs as #2.\nStock: merchant listing, actual availability unknown. One-year warranty advertised.\nLocation: Greenware Colombo 03/04 as above. Test-before-pay UNKNOWN.\nSource: https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-5",
+      "name": "Nothing Phone (3a) Pro 12GB/256GB - Toyo - retail/new; confirm sealed status",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
+      "details": "#5 Nothing Phone (3a) Pro 12GB/256GB - Toyo - retail/new; confirm sealed status\nCash 145,000. KOKO total 156,600; 3 x 52,200 (8% uplift).\nWhy: lower-cost alternative if OS feel matters; try its camera in person.\nTradeoffs: do not treat this midrange model as a guaranteed Pixel flagship\nperformance or camera replacement. Lower priority for demanding camera/hotspot use.\nRegion: exact SKU unknown; listing says TRCSL. One-year warranty advertised,\nissuer and line cover unknown. Order controls shown; actual stock unknown.\nLocation/contact: Toyo Colombo 11 as above. Test-before-pay UNKNOWN.\nSource: https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-6",
+      "name": "Used iPhone 15 Plus 256GB - advertised 175,000, Colombo 3.",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
+      "details": "W1 Used iPhone 15 Plus 256GB - advertised 175,000, Colombo 3.\nThis is the first Apple model I would investigate for your battery/camera balance.\nSearch index says posted 16 October; direct listing retrieval failed.\nSeller identity/address, battery health, repairs, stock, warranty, KOKO and testing\npermission are all UNKNOWN. Do not pay based on the indexed advertisement.\nTarget battery health >=90% as a buying preference, with corroborating history.\n60Hz screen and no dedicated telephoto are compromises versus Pixel 7 Pro.\nCheck USB-C convenience, video, shutter response and whether iOS suits your workflow.\nSource lead: https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227\nApple specifications: https://support.apple.com/en-us/111830",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-7",
+      "name": "OnePlus 15R 12GB/256GB - Greenware, product page 193,000; category 194,000.",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
+      "details": "W2 OnePlus 15R 12GB/256GB - Greenware, product page 193,000; category 194,000.\nPromising battery/performance candidate, but seller descriptions are inconsistent\nacross variants and exact regional hardware needs checking. Global specs page\ncould not be extracted. Do not infer camera quality or KOKO total from vague text.\nKOKO category widget 3 x 64,666.67; reconcile with actual variant price first.\nOne-year warranty/region/display cover/stock/test-before-pay unconfirmed.\nLocation: Greenware Colombo 03/04 above.\nSource: https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g\nCategory: https://www.greenware.lk/mobile-phones/oneplus",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-8",
+      "name": "Used iPhone 15 - Present Solution, 155,000-175,000 across variants.",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://presentsolution.lk/product/iphone-15-pre-owned/",
+      "details": "W3 Used iPhone 15 - Present Solution, 155,000-175,000 across variants.\nKOKO shown. Exact 256GB price, battery health, repairs, warranty, shop address and\ntest-before-pay unknown. Smaller phone is less aligned with the battery priority.\nSource: https://presentsolution.lk/product/iphone-15-pre-owned/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-9",
+      "name": "Used iPhone 15 Pro - Present Solution, 200,000-245,000 across variants.",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://presentsolution.lk/product-category/pre-owned-phones-in-sri-lanka/mobile-phones/iphone/pre-owned-iphone-15-series-in-sri-lanka/",
+      "details": "W4 Used iPhone 15 Pro - Present Solution, 200,000-245,000 across variants.\nStarting price alone is not a confirmed affordable 256GB unit. KOKO shown.\nPrefer Plus/Pro Max investigation for endurance; do not buy Pro just for the name.\nSource: https://presentsolution.lk/product-category/pre-owned-phones-in-sri-lanka/mobile-phones/iphone/pre-owned-iphone-15-series-in-sri-lanka/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-10",
+      "name": "Samsung Galaxy S25 256GB - under-budget aggregator leads 198,500-198,900,",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://presentsolution.lk/product/samsung-galaxy-s25-sri-lanka/",
+      "details": "W5 Samsung Galaxy S25 256GB - under-budget aggregator leads 198,500-198,900,\nbut merchant Present Solution page showed 203,999 (over budget), KOKO displayed.\nDo not treat aggregator quotes as live inventory. Compact model is a lower\nbattery-priority choice for all-day navigation/hotspot/camera. Check S24+/S25+\nand used Ultra variants only with verified price/condition and local warranty.\nMerchant: https://presentsolution.lk/product/samsung-galaxy-s25-sri-lanka/\nLead: https://www.ideabeam.com/Mobile/product-amp/samsung-galaxy-s25-256gb-price.html",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-11",
+      "name": "Vivo V60 12GB/256GB - Toyo adjacent-product link advertises 179,740;",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://toyo.lk/product/vivo-v60-5g-12gb-ram-256gb/",
+      "details": "W6 Vivo V60 12GB/256GB - Toyo adjacent-product link advertises 179,740;\nactual product page blocked by bot verification. Camera/battery-oriented model\nworth investigating, but no verified full offer or KOKO terms obtained today.\nSource lead: https://toyo.lk/product/vivo-v60-5g-12gb-ram-256gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-12",
+      "name": "Oppo Reno 14 F 12GB/512GB - Toyo 149,740 cash; 161,719.20 KOKO,",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://toyo.lk/product/oppo-reno-14-f-5g-12gb-ram-512gb/",
+      "details": "W7 Oppo Reno 14 F 12GB/512GB - Toyo 149,740 cash; 161,719.20 KOKO,\n3 x 53,906.40. Lower-priority alternative: do not exchange flagship camera and\nperformance for battery capacity alone. Stock, exact SKU and testing unknown.\nSource: https://toyo.lk/product/oppo-reno-14-f-5g-12gb-ram-512gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-13",
+      "name": "Newer Honor 600 Pro: SimplyTek listing approximately 310,000 before its",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://www.simplytek.lk/collections/all/products/honor-600-pro-smartphone",
+      "details": "W8 Newer Honor 600 Pro: SimplyTek listing approximately 310,000 before its\ndisplayed service fee; outside cap. Monitor reductions rather than stretch budget.\nSource: https://www.simplytek.lk/collections/all/products/honor-600-pro-smartphone",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-14",
+      "name": "HONOR 400 Pro 12/512GB - XMobile: reported 191,999; KOKO advertised",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+      "details": "U1 HONOR 400 Pro 12/512GB - XMobile: reported 191,999; KOKO advertised\n3 x 63,999.67 (~191,999.01 rounding). Retailer reportedly says 5300mAh:\ndo not assume the preferred 6000mAh variant. Stock/warranty unconfirmed.\nhttps://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-15",
+      "name": "vivo V60 12/256GB - Celltronics: reported 179,990. KOKO total unknown.",
+      "status": "out_of_stock_or_conflicting",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/",
+      "details": "U2 vivo V60 12/256GB - Celltronics: reported 179,990. KOKO total unknown.\nOrdering reportedly available; actual stock/warranty/testing unconfirmed.\nhttps://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-16",
+      "name": "Samsung Galaxy S25 12/256GB - XMobile: reported 197,990.",
+      "status": "restored",
+      "reason": "Restored to the current shortlist after correcting the overly strict stock rule. This old record is preserved as history.",
+      "url": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
+      "details": "U3 Samsung Galaxy S25 12/256GB - XMobile: reported 197,990.\nKOKO advertised 3 x 65,996.67 (~197,990.01 rounding); final quote unknown.\nhttps://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-17",
+      "name": "Samsung Galaxy S25 FE 8/256GB - XMobile: reported 179,990.",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
+      "details": "U4 Samsung Galaxy S25 FE 8/256GB - XMobile: reported 179,990.\nKOKO advertised 3 x 59,996.67 (~179,990.01 rounding); final quote unknown.\nhttps://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-18",
+      "name": "Used iPhone 15 Plus 128GB - seller reportedly claims 97% health,",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-128gb-used-for-sale-colombo-754",
+      "details": "U5 Used iPhone 15 Plus 128GB - seller reportedly claims 97% health,\n175,000 and KOKO. Exact total/availability/warranty unclear; 128GB is a\nstorage compromise. Reported address from earlier finding: 250 1/1,\nLiberty Plaza, Colombo; confirm seller identity and exact shop.\nhttps://ikman.lk/en/ad/apple-iphone-15-plus-128gb-used-for-sale-colombo-754",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-19",
+      "name": "Used iPhone 16 Plus 256GB - Dehiwala: reported 190,000, 96% health,",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": "https://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-54",
+      "details": "U6 Used iPhone 16 Plus 256GB - Dehiwala: reported 190,000, 96% health,\neSIM-only. Advertisement reportedly dates to April (year not established in\npasted assessment); stale until reverified. KOKO unspecified. Confirm your\ncarrier's eSIM support and the actual unit, repairs and network lock.\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-54",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "history-20",
+      "name": "User-shown iPhone 16 256GB: asking 195,000, 89% health, 369 cycles,",
+      "status": "unconfirmed",
+      "reason": "Removed from current offers in stock audit; retained only as history. See the full audit log for exact evidence.",
+      "url": null,
+      "details": "U7 User-shown iPhone 16 256GB: asking 195,000, 89% health, 369 cycles,\nfirst used September 2025; coverage reportedly expired 19 September 2026.\nNo seller URL/address supplied. Earlier assessment flags possible model-name\nversus model-number mismatch. UNKNOWN until actual device inspected.\nDisposition: lower-priority / pass at quoted price for battery requirements.\nDo not present the earlier 180,000-185,000 negotiation suggestion as a deal.",
+      "checkedAt": "2026-10-17T16:43:17+05:30"
+    }
+  ]
+}

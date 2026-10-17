@@ -1,0 +1,24 @@
+{
+  "title": "Your next phone",
+  "timezone": "Asia/Colombo",
+  "schedule": "Every day · 8:00 AM",
+  "budgetTarget": 150000,
+  "budgetMax": 200000,
+  "currency": "LKR",
+  "storage": "256GB or more",
+  "location": "Colombo & nearby suburbs only · Kandy excluded",
+  "currentPhone": "Pixel 7 Pro",
+  "priorities": [
+    "Battery endurance",
+    "Camera quality",
+    "Performance & signal",
+    "Local display warranty"
+  ],
+  "workload": "GPS and hotspot throughout the day, frequent photos and video.",
+  "endurance": "6–9 hours between 80% and 20%; not verified for any candidate.",
+  "lastStockAudit": "2026-10-17T11:38:13.342Z",
+  "updatedAt": "2026-10-17T11:38:13.342Z",
+  "searchTime": "8:00 AM",
+  "batteryGoal": "6–9h · 80% → 20%",
+  "locationConfirmedAt": "2026-10-17T11:38:13.342Z"
+}

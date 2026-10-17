@@ -1,0 +1,409 @@
+{
+  "entries": [
+    {
+      "id": "legacy-0",
+      "timestamp": "2026-10-17 (historical; time not recorded)",
+      "type": "maintenance",
+      "title": "Initial research and file organization",
+      "body": "PHONE SEARCH LOG - APPEND ONLY\nTimezone: Asia/Colombo. Historical entries retain their original precision.\nThis file records searches and file maintenance separately.\nPrevious history migrated from phone_offers.txt:\nCHANGE LOG\n2026-10-17: Initial research; five merchant candidates ranked, separate cash-price\nindex, eight watchlist entries, exclusions and practical test checklist created.\nDaily 08:00 Asia/Colombo automation activated. No sellers contacted or reservations made.\n\r\n2026-10-17: Split strategy into phone_search.txt and store results into phone_offers.txt.\r\nImported user-pasted historical leads with unverified status; daily automation updated\r\nto read both files. No new web verification performed during this reorganization.",
+      "source": "Migrated from original text log"
+    },
+    {
+      "id": "legacy-1",
+      "timestamp": "2026-10-17 16:33:51 +05:30",
+      "type": "maintenance",
+      "title": "FILE MAINTENANCE - COMPLETED",
+      "body": "[2026-10-17 16:33:51 +05:30] FILE MAINTENANCE - COMPLETED\r\nCreated phone_instructions.txt and phone_logs.txt. Moved workflow/ranking/test\r\nrules out of phone_search.txt; migrated existing history from phone_offers.txt.\r\nKept personal requirements and target models in phone_search.txt and retained\r\nall store offers. No new web search; offer verification timestamps unchanged.\r\nDaily automation updated to use all four files and append a log each run.",
+      "source": "Migrated from original text log"
+    },
+    {
+      "id": "legacy-2",
+      "timestamp": "2026-10-17 16:43:17 +05:30",
+      "type": "stock_audit",
+      "title": "STOCK AUDIT / RULE UPDATE - COMPLETED WITH VERIFICATION LIMITATIONS",
+      "body": "[2026-10-17 16:43:17 +05:30] STOCK AUDIT / RULE UPDATE - COMPLETED WITH VERIFICATION LIMITATIONS\nReason: user requires live stock checks before addition and every run.\nRemoved listed phone due to unavailable stock:\n- Toyo HONOR 400 Pro 12/512GB, old rank #1, cash 182,990.\n  User screenshot explicitly OUT OF STOCK. Reopened web extraction and live browser\n  showed order buttons without explicit target availability; conflicting signals.\n  Status: OUT_OF_STOCK_REPORTED / STOCK_CONFLICT. Removed; do not restore without\n  explicit positive fresh availability for the exact variant.\n  https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/\n- Celltronics vivo V60 12/256GB, historical U2, cash 179,990:\n  live target product page marked SOLD OUT. Status OUT_OF_STOCK.\n  https://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/\n\nRemoved former ranked offers due to STOCK_UNCONFIRMED, not proven sold out:\n- Greenware OnePlus 13R 12/256GB (#2, 155,000): live product reviewed;\n  no explicit target stock message. Sold Out texts belonged to other products.\n- Toyo Xiaomi 15T 12/512GB (#3, from 163,500): colour unselected; no explicit\n  positive target stock, related-product badges ignored.\n- Greenware OnePlus 13R 16/512GB (#4, 192,000): no explicit target stock message.\n- Toyo Nothing Phone (3a) Pro 12/256GB (#5, 145,000): target page reviewed,\n  explicit positive target stock not established.\nAll five ranked entries and their price-index entries removed, leaving zero.\n\nOther prior leads re-opened in live browser:\n- Ikman 15 Plus 256GB Colombo 3: ad accessible; actual stock unconfirmed.\n- Greenware 15R 256GB: no explicit target availability; related Sold Out ignored.\n- Present Solution iPhone 15 / 15-series category / S25: browser-check or robot\n  verification page; no bypass attempted. STOCK_UNCONFIRMED.\n- Toyo vivo V60: no usable availability evidence. STOCK_UNCONFIRMED.\n- Toyo Reno14F: no explicit target stock; related in-stock badges ignored.\n- SimplyTek Honor 600 Pro: remains over budget; related-item stock not target proof.\n- XMobile Honor400Pro: navigation timed out. STOCK_UNCONFIRMED.\n- XMobile S25 and S25FE: explicit notice to verify availability, no target in-stock\n  confirmation; related-product In stock ignored. STOCK_UNCONFIRMED.\n- Ikman 15 Plus128 / 16 Plus Dehiwala: no usable explicit stock evidence.\n- Ikman 16 Plus Kandy: ad accessible but actual stock unconfirmed; also outside\n  location and budget. Not eligible.\nHistorical exclusions already marked sold out or over budget were migrated to\nlogs without claiming they were freshly checked. U7 lacks seller URL, not checkable.\n\nFiles: phone_instructions.txt updated; phone_offers.txt now current stock-verified\noffers only; previous complete offer snapshot preserved below for history/retry.\nphone_search.txt unchanged (model targets remain valid).\nNo purchase, reservation, cart mutation or seller contact performed.\nNext runs must recheck all current entries and retry prior leads using exact\nvariant-specific stock evidence. No qualifying stock confirmed in this audit.\n\nFull pre-audit snapshot retained in the original archive entry and offer history.",
+      "source": "Migrated from original text log"
+    },
+    {
+      "id": "legacy-full",
+      "timestamp": "2026-10-17 (historical archive)",
+      "type": "archive",
+      "title": "Original complete log · preserved without changes",
+      "body": "PHONE SEARCH LOG - APPEND ONLY\nTimezone: Asia/Colombo. Historical entries retain their original precision.\nThis file records searches and file maintenance separately.\nPrevious history migrated from phone_offers.txt:\nCHANGE LOG\n2026-10-17: Initial research; five merchant candidates ranked, separate cash-price\nindex, eight watchlist entries, exclusions and practical test checklist created.\nDaily 08:00 Asia/Colombo automation activated. No sellers contacted or reservations made.\n\r\n2026-10-17: Split strategy into phone_search.txt and store results into phone_offers.txt.\r\nImported user-pasted historical leads with unverified status; daily automation updated\r\nto read both files. No new web verification performed during this reorganization.\r\n\r\n\r\n\r\n[2026-10-17 16:33:51 +05:30] FILE MAINTENANCE - COMPLETED\r\nCreated phone_instructions.txt and phone_logs.txt. Moved workflow/ranking/test\r\nrules out of phone_search.txt; migrated existing history from phone_offers.txt.\r\nKept personal requirements and target models in phone_search.txt and retained\r\nall store offers. No new web search; offer verification timestamps unchanged.\r\nDaily automation updated to use all four files and append a log each run.\r\n\n[2026-10-17 16:43:17 +05:30] STOCK AUDIT / RULE UPDATE - COMPLETED WITH VERIFICATION LIMITATIONS\nReason: user requires live stock checks before addition and every run.\nRemoved listed phone due to unavailable stock:\n- Toyo HONOR 400 Pro 12/512GB, old rank #1, cash 182,990.\n  User screenshot explicitly OUT OF STOCK. Reopened web extraction and live browser\n  showed order buttons without explicit target availability; conflicting signals.\n  Status: OUT_OF_STOCK_REPORTED / STOCK_CONFLICT. Removed; do not restore without\n  explicit positive fresh availability for the exact variant.\n  https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/\n- Celltronics vivo V60 12/256GB, historical U2, cash 179,990:\n  live target product page marked SOLD OUT. Status OUT_OF_STOCK.\n  https://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/\n\nRemoved former ranked offers due to STOCK_UNCONFIRMED, not proven sold out:\n- Greenware OnePlus 13R 12/256GB (#2, 155,000): live product reviewed;\n  no explicit target stock message. Sold Out texts belonged to other products.\n- Toyo Xiaomi 15T 12/512GB (#3, from 163,500): colour unselected; no explicit\n  positive target stock, related-product badges ignored.\n- Greenware OnePlus 13R 16/512GB (#4, 192,000): no explicit target stock message.\n- Toyo Nothing Phone (3a) Pro 12/256GB (#5, 145,000): target page reviewed,\n  explicit positive target stock not established.\nAll five ranked entries and their price-index entries removed, leaving zero.\n\nOther prior leads re-opened in live browser:\n- Ikman 15 Plus 256GB Colombo 3: ad accessible; actual stock unconfirmed.\n- Greenware 15R 256GB: no explicit target availability; related Sold Out ignored.\n- Present Solution iPhone 15 / 15-series category / S25: browser-check or robot\n  verification page; no bypass attempted. STOCK_UNCONFIRMED.\n- Toyo vivo V60: no usable availability evidence. STOCK_UNCONFIRMED.\n- Toyo Reno14F: no explicit target stock; related in-stock badges ignored.\n- SimplyTek Honor 600 Pro: remains over budget; related-item stock not target proof.\n- XMobile Honor400Pro: navigation timed out. STOCK_UNCONFIRMED.\n- XMobile S25 and S25FE: explicit notice to verify availability, no target in-stock\n  confirmation; related-product In stock ignored. STOCK_UNCONFIRMED.\n- Ikman 15 Plus128 / 16 Plus Dehiwala: no usable explicit stock evidence.\n- Ikman 16 Plus Kandy: ad accessible but actual stock unconfirmed; also outside\n  location and budget. Not eligible.\nHistorical exclusions already marked sold out or over budget were migrated to\nlogs without claiming they were freshly checked. U7 lacks seller URL, not checkable.\n\nFiles: phone_instructions.txt updated; phone_offers.txt now current stock-verified\noffers only; previous complete offer snapshot preserved below for history/retry.\nphone_search.txt unchanged (model targets remain valid).\nNo purchase, reservation, cart mutation or seller contact performed.\nNext runs must recheck all current entries and retry prior leads using exact\nvariant-specific stock evidence. No qualifying stock confirmed in this audit.\n\nBEGIN PRE-AUDIT OFFER SNAPSHOT (HISTORICAL; NOT CURRENT STOCK)\nSTORE FINDINGS - COLOMBO PHONE OFFERS\nRelated files: phone_search.txt = needs/models; phone_instructions.txt = rules; phone_logs.txt = history.\nUpdated organization: 17 October 2026, Asia/Colombo.\nPrices in LKR. Existing web findings last researched 17 October 2026 around 16:30.\nDaily refresh at 08:00 Asia/Colombo. Ascending suitability rank: #1 best offer.\nSeparate cash-price index below. All stock/testing/warranty claims need the\nverification status recorded with the individual offer.\nCRITICAL VERIFICATION STATUS\nNo offer is fully purchase-qualified yet: permission to test before payment is\nUNKNOWN for every seller. An order button does not prove stock, and store pickup\ndoes not mean a shop permits opening a sealed phone before purchase.\nActive candidates below have merchant product-page prices, not guaranteed stock.\nWarranty display-line coverage is UNKNOWN unless later explicitly documented.\nNo OLED phone is guaranteed immune to display lines, including iPhones.\nGet local written coverage; never assume overseas lifetime cover applies here.\nKOKO approval and your available spending limit must cover the actual transaction.\n\nACTIVE MERCHANT CANDIDATES - PROVISIONAL SUITABILITY ORDER\n\n#1 HONOR 400 Pro 12GB/512GB - Toyo - advertised retail/new; confirm sealed status\nCash/bank: 182,990. KOKO total: 197,629.20; 3 x 65,876.40 (8% above cash).\nWhy first: strongest camera/battery/performance balance to test within the cap.\nTradeoffs: compare moving subjects, indoor photos, skin tones and zoom against\nyour Pixel; do not assume higher megapixels mean better photos. Try MagicOS first.\nRegion: not established. Merchant says 6000mAh; other sellers list 5300mAh.\nInspect exact regional SKU and battery specification before ranking it as 6000mAh.\nWarranty: one year advertised; page has generic official-warranty wording, but\nissuer and applicable option are unconfirmed. Display-line cover unknown.\nStock: order controls shown; selected colour/warranty stock unconfirmed.\nLocation: Toyo, 210/10, Airtel Market, Main Street, Colombo 11.\nTesting before payment: UNKNOWN. Contact published: 0777 044 881 / 0777 358 378.\nSource: https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/\n\n#2 OnePlus 13R 12GB/256GB - Greenware - advertised retail/new; confirm sealed status\nCash: 155,000. KOKO widget: 3 x 51,666.67; total about 155,000.01 rounding.\nWhy: compelling battery/performance value near the preferred budget; 6000mAh\nconfirmed by OnePlus specifications. Test camera carefully before leaving Pixel.\nTradeoffs: camera versatility, especially ultrawide/selfie and long zoom, may\ndisappoint a Pixel 7 Pro owner. Camera parity is not established by this research.\nRegion: unknown; exclude flashed China Ace models presented as global 13R.\nWarranty: one year advertised; issuer/local enforceability and line cover unknown.\nStock: add-to-basket shown; actual shop stock unknown. KOKO final total unconfirmed.\nLocations: 42 P, Ground Floor, Liberty Plaza, Colombo 03; 154 Galle Rd, Colombo 04.\nTesting before payment: UNKNOWN. Contact published: 0777 648 648.\nSource: https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage\nSpecs: https://www.oneplus.com/us/13r/specs\n\n#3 Xiaomi 15T 12GB/512GB - Toyo - advertised retail/new; confirm sealed status\nCash FROM 163,500. Displayed KOKO total 176,580; 3 x 58,860 (8% uplift).\nImportant: FROM price and selectable warranty mean final chosen option can cost more.\nWhy: worthwhile camera/storage alternative between the first two price points.\nTradeoffs: test HyperOS preference, camera processing, notifications and hotspot\nstability. Pixel camera equivalence and your battery target remain unproven.\nRegion: unknown. Xiaomi global specs are the reference, not copied retailer text.\nWarranty: one year advertised; exact issuer/option/line cover unconfirmed.\nStock: order controls shown, chosen option unconfirmed. Test-before-pay UNKNOWN.\nLocation/contact: Toyo, Colombo 11, as above.\nSource: https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\nSpecs: https://www.mi.com/global/product/xiaomi-15t/specs/\n\n#4 OnePlus 13R 16GB/512GB - Greenware - advertised retail/new; confirm sealed status\nCash 192,000. KOKO widget 3 x 64,000 = 192,000; checkout total unconfirmed.\nWhy: more storage, useful for frequent video; lower value than #2 if 256GB is enough.\nSame camera, region and local warranty verification needs as #2.\nStock: merchant listing, actual availability unknown. One-year warranty advertised.\nLocation: Greenware Colombo 03/04 as above. Test-before-pay UNKNOWN.\nSource: https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage\n\n#5 Nothing Phone (3a) Pro 12GB/256GB - Toyo - retail/new; confirm sealed status\nCash 145,000. KOKO total 156,600; 3 x 52,200 (8% uplift).\nWhy: lower-cost alternative if OS feel matters; try its camera in person.\nTradeoffs: do not treat this midrange model as a guaranteed Pixel flagship\nperformance or camera replacement. Lower priority for demanding camera/hotspot use.\nRegion: exact SKU unknown; listing says TRCSL. One-year warranty advertised,\nissuer and line cover unknown. Order controls shown; actual stock unknown.\nLocation/contact: Toyo Colombo 11 as above. Test-before-pay UNKNOWN.\nSource: https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/\n\nASCENDING CASH-PRICE INDEX - ACTIVE CANDIDATES\n145,000 - Nothing Phone (3a) Pro 256GB, Toyo (#5)\n155,000 - OnePlus 13R 256GB, Greenware (#2)\n163,500 FROM - Xiaomi 15T 512GB, Toyo (#3; option price unconfirmed)\n182,990 - Honor 400 Pro 512GB, Toyo (#1)\n192,000 - OnePlus 13R 512GB, Greenware (#4)\n\nWATCHLIST - NOT VERIFIED ACTIVE DEALS\n\nW1 Used iPhone 15 Plus 256GB - advertised 175,000, Colombo 3.\nThis is the first Apple model I would investigate for your battery/camera balance.\nSearch index says posted 16 October; direct listing retrieval failed.\nSeller identity/address, battery health, repairs, stock, warranty, KOKO and testing\npermission are all UNKNOWN. Do not pay based on the indexed advertisement.\nTarget battery health >=90% as a buying preference, with corroborating history.\n60Hz screen and no dedicated telephoto are compromises versus Pixel 7 Pro.\nCheck USB-C convenience, video, shutter response and whether iOS suits your workflow.\nSource lead: https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227\nApple specifications: https://support.apple.com/en-us/111830\n\nW2 OnePlus 15R 12GB/256GB - Greenware, product page 193,000; category 194,000.\nPromising battery/performance candidate, but seller descriptions are inconsistent\nacross variants and exact regional hardware needs checking. Global specs page\ncould not be extracted. Do not infer camera quality or KOKO total from vague text.\nKOKO category widget 3 x 64,666.67; reconcile with actual variant price first.\nOne-year warranty/region/display cover/stock/test-before-pay unconfirmed.\nLocation: Greenware Colombo 03/04 above.\nSource: https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g\nCategory: https://www.greenware.lk/mobile-phones/oneplus\n\nW3 Used iPhone 15 - Present Solution, 155,000-175,000 across variants.\nKOKO shown. Exact 256GB price, battery health, repairs, warranty, shop address and\ntest-before-pay unknown. Smaller phone is less aligned with the battery priority.\nSource: https://presentsolution.lk/product/iphone-15-pre-owned/\n\nW4 Used iPhone 15 Pro - Present Solution, 200,000-245,000 across variants.\nStarting price alone is not a confirmed affordable 256GB unit. KOKO shown.\nPrefer Plus/Pro Max investigation for endurance; do not buy Pro just for the name.\nSource: https://presentsolution.lk/product-category/pre-owned-phones-in-sri-lanka/mobile-phones/iphone/pre-owned-iphone-15-series-in-sri-lanka/\n\nW5 Samsung Galaxy S25 256GB - under-budget aggregator leads 198,500-198,900,\nbut merchant Present Solution page showed 203,999 (over budget), KOKO displayed.\nDo not treat aggregator quotes as live inventory. Compact model is a lower\nbattery-priority choice for all-day navigation/hotspot/camera. Check S24+/S25+\nand used Ultra variants only with verified price/condition and local warranty.\nMerchant: https://presentsolution.lk/product/samsung-galaxy-s25-sri-lanka/\nLead: https://www.ideabeam.com/Mobile/product-amp/samsung-galaxy-s25-256gb-price.html\n\nW6 Vivo V60 12GB/256GB - Toyo adjacent-product link advertises 179,740;\nactual product page blocked by bot verification. Camera/battery-oriented model\nworth investigating, but no verified full offer or KOKO terms obtained today.\nSource lead: https://toyo.lk/product/vivo-v60-5g-12gb-ram-256gb/\n\nW7 Oppo Reno 14 F 12GB/512GB - Toyo 149,740 cash; 161,719.20 KOKO,\n3 x 53,906.40. Lower-priority alternative: do not exchange flagship camera and\nperformance for battery capacity alone. Stock, exact SKU and testing unknown.\nSource: https://toyo.lk/product/oppo-reno-14-f-5g-12gb-ram-512gb/\n\nW8 Newer Honor 600 Pro: SimplyTek listing approximately 310,000 before its\ndisplayed service fee; outside cap. Monitor reductions rather than stretch budget.\nSource: https://www.simplytek.lk/collections/all/products/honor-600-pro-smartphone\n\nUSER-PROVIDED HISTORICAL LEADS - NOT RECHECKED DURING THIS FILE SPLIT\nImported 17 October 2026. Attachments report research on 13 October 2026.\nThe pasted iPhone assessment has no research timestamp. Import date is NOT a\nlive stock check. Unknown unless stated: selected stock, exact shop address,\ntesting permission, warranty issuer/display cover and final KOKO quote.\n\nU1 HONOR 400 Pro 12/512GB - XMobile: reported 191,999; KOKO advertised\n3 x 63,999.67 (~191,999.01 rounding). Retailer reportedly says 5300mAh:\ndo not assume the preferred 6000mAh variant. Stock/warranty unconfirmed.\nhttps://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/\n\nU2 vivo V60 12/256GB - Celltronics: reported 179,990. KOKO total unknown.\nOrdering reportedly available; actual stock/warranty/testing unconfirmed.\nhttps://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/\n\nU3 Samsung Galaxy S25 12/256GB - XMobile: reported 197,990.\nKOKO advertised 3 x 65,996.67 (~197,990.01 rounding); final quote unknown.\nhttps://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/\n\nU4 Samsung Galaxy S25 FE 8/256GB - XMobile: reported 179,990.\nKOKO advertised 3 x 59,996.67 (~179,990.01 rounding); final quote unknown.\nhttps://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/\n\nU5 Used iPhone 15 Plus 128GB - seller reportedly claims 97% health,\n175,000 and KOKO. Exact total/availability/warranty unclear; 128GB is a\nstorage compromise. Reported address from earlier finding: 250 1/1,\nLiberty Plaza, Colombo; confirm seller identity and exact shop.\nhttps://ikman.lk/en/ad/apple-iphone-15-plus-128gb-used-for-sale-colombo-754\n\nU6 Used iPhone 16 Plus 256GB - Dehiwala: reported 190,000, 96% health,\neSIM-only. Advertisement reportedly dates to April (year not established in\npasted assessment); stale until reverified. KOKO unspecified. Confirm your\ncarrier's eSIM support and the actual unit, repairs and network lock.\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-54\n\nU7 User-shown iPhone 16 256GB: asking 195,000, 89% health, 369 cycles,\nfirst used September 2025; coverage reportedly expired 19 September 2026.\nNo seller URL/address supplied. Earlier assessment flags possible model-name\nversus model-number mismatch. UNKNOWN until actual device inspected.\nDisposition: lower-priority / pass at quoted price for battery requirements.\nDo not present the earlier 180,000-185,000 negotiation suggestion as a deal.\n\nOUT-OF-AREA AND OVER-BUDGET WATCHLIST\nU8 Lyca Premium Mobile, Akurana/Kandy - used iPhone 16 Plus 256GB:\nreported 208,500 negotiable, claimed 94% health, matching-IMEI box and KOKO.\nPosted reportedly 7 October; year not explicit in pasted assessment.\nReplacement warranty claimed, duration unknown. Exact installment total unknown.\nFails Colombo location and asking-price cap. Keep separate unless user changes\nlocation preference and a qualifying final all-in quote is confirmed.\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-256gb-used-for-sale-kandy-14\n\nHISTORICAL EXCLUDED LEAD\nU9 HONOR 400 Pro 12/512GB - SimplyTek: prior pasted research says 199,999,\nsold out, installment total approximately 206,000 (above cap).\nDo not treat as current stock or current price.\nhttps://www.simplytek.lk/products/honor-400-pro-5g-smartphone\nARCHIVE / EXCLUDED OFFERS\nHonor 400 Pro DreamTek 150,990: page explicitly SOLD OUT; not an available bargain.\nhttps://www.dreamtek.lk/product/honor-400-pro-5g-smartphone-12gb-ram-512gb-200mp-ois-camera-100w-charging-brand-new/\nXiaomi 15T 512GB Life Mobile: OUT OF STOCK and conflicting installment totals.\nhttps://lifemobile.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\nHonor 400 Pro ClickMart 190,000: OUT OF STOCK.\nhttps://clickmart.lk/product/honor-400-pro-5g-12-512gb/\nUsed iPhone 15 Pro Max Present Solution: starting 235,000, outside cap.\n\n\r\nRun and change history: see phone_logs.txt.\r\n\r\n\nEND PRE-AUDIT OFFER SNAPSHOT\r\n",
+      "source": "Original phone_logs.txt; exact text preserved"
+    },
+    {
+      "id": "dashboard-migration",
+      "timestamp": "2026-10-17T11:19:56.580Z",
+      "type": "maintenance",
+      "title": "Migrated to a data-driven dashboard",
+      "body": "Created separate JSON records for profile, model targets, instructions, offers and append-only logs. No new stock checks. Current active offers remain empty. Original text files retained as frozen backups. Daily automation will now update JSON and rebuild the data bundle.",
+      "source": "Local file maintenance"
+    },
+    {
+      "id": "dashboard-validation-1792236148937",
+      "timestamp": "2026-10-17T11:22:28.933Z",
+      "type": "maintenance",
+      "title": "Dashboard checked and daily automation connected",
+      "body": "Verified local HTTP browser rendering, sidebar navigation, phone-target filtering, stock-rule view and full activity history. JSON bundle validation and JavaScript syntax checks passed. Daily 08:00 Asia/Colombo automation now reads/writes JSON and runs build-data.mjs. No stock research performed. Active offers remain empty. Direct file navigation could not be browser-tested because the preview browser disallows file URLs; the static HTML uses a separate generated script bundle so it does not depend on local JSON fetch.",
+      "source": "Local implementation and browser preview"
+    },
+    {
+      "id": "corrected-research-1792237093348",
+      "timestamp": "2026-10-17T11:38:13.342Z",
+      "type": "stock_audit",
+      "title": "Corrected stock policy · restored 8 Colombo offers; KOKO evidence recorded",
+      "queries": [
+        {
+          "query": "site:ikman.lk \"iPhone 16 256GB\" \"Colombo\" \"195,000\"",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:greenware.lk \"Pixel 9\" \"256\" price",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:presentsolution.lk \"iPhone 15\" \"Pre-Owned\"",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:ikman.lk \"iPhone 16 Plus\" \"Dehiwala\" \"190,000\"",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:greenware.lk/mobile-phones/google \"Pixel 9\" \"256\" (no results)",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:presentsolution.lk/product/iphone-15-pre-owned/",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "Google Pixel 9 256GB Sri Lanka price Colombo Koko",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:presentsolution.lk \"Address\" Colombo",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        },
+        {
+          "query": "site:xmobile.lk \"Address\" \"Colombo\"",
+          "method": "Web search",
+          "checkedAt": "2026-10-17T11:38:13.342Z"
+        }
+      ],
+      "findings": [
+        {
+          "title": "OnePlus 13R · Greenware",
+          "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
+          "outcome": "included",
+          "reason": "Best lower-cost battery/performance candidate. Compare cameras against your Pixel; no promised camera upgrade.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 155000
+        },
+        {
+          "title": "OnePlus 15R · Greenware",
+          "url": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
+          "outcome": "included",
+          "reason": "Battery/performance-first target. Verify global model, camera tradeoffs and local warranty; copied retailer specifications are inconsistent.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 194000
+        },
+        {
+          "title": "iPhone 15 Plus · Smart Dealz Lanka · ikman",
+          "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
+          "outcome": "included",
+          "reason": "Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.",
+          "stock": "not_stated",
+          "koko": null,
+          "cashPrice": 175000
+        },
+        {
+          "title": "Xiaomi 15T · Toyo",
+          "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
+          "outcome": "included",
+          "reason": "Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 163500
+        },
+        {
+          "title": "OnePlus 13R · Greenware",
+          "url": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
+          "outcome": "included",
+          "reason": "More storage for frequent video; costs Rs.37,000 above the 256GB offer with the same camera compromises.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 192000
+        },
+        {
+          "title": "iPhone 15 · Present Solution",
+          "url": "https://presentsolution.lk/product/iphone-15-pre-owned/",
+          "outcome": "included",
+          "reason": "Black + 256GB selected: Rs.175,000. Page warns prices/availability require confirmation. Prefer Plus for your endurance priority; battery health unknown.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 175000
+        },
+        {
+          "title": "Samsung Galaxy S25 · XMobile",
+          "url": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
+          "outcome": "included",
+          "reason": "Compact flagship alternative; battery priority lower than larger phones. Page asks buyers to verify availability. Selected warranty price and installment amount need checking.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 197990
+        },
+        {
+          "title": "Nothing Phone (3a) Pro · Toyo",
+          "url": "https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
+          "outcome": "included",
+          "reason": "Lower-price OS alternative. Midrange performance and battery/camera tradeoffs place it below the flagship candidates for your workload.",
+          "stock": "not_stated",
+          "koko": true,
+          "cashPrice": 145000
+        },
+        {
+          "title": "Toyo HONOR400Pro",
+          "url": "https://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+          "outcome": "excluded",
+          "reason": "User screenshot explicitly out of stock; live order buttons do not resolve the conflicting negative evidence."
+        },
+        {
+          "title": "Celltronics vivo V60",
+          "url": "https://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/",
+          "outcome": "excluded",
+          "reason": "Live target page SOLD OUT."
+        },
+        {
+          "title": "Pixel9 256GB · XMobile",
+          "url": "https://xmobile.lk/product/google-pixel-9-12gb-ram-256gb/",
+          "outcome": "excluded",
+          "reason": "Rs.255,500 exceeds200k; same target in bundle also marked Out of stock. KOKO shown3x91,980 in bundle; not a qualifying offer."
+        },
+        {
+          "title": "Pixel9 256GB · Life Mobile",
+          "url": "https://lifemobile.lk/product/google-pixel-9-12gb-ram-256gb/",
+          "outcome": "excluded",
+          "reason": "Target explicitly Out of stock. From259,428.57 also above cap. KOKO3x81,720 shown with inconsistent total."
+        },
+        {
+          "title": "iPhone16Plus Dehiwala",
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-54",
+          "outcome": "hold",
+          "reason": "Indexed190k/96% health/eSIM-only; current browser rendered shell without target details. Not labelled sold out; retain research lead and retry."
+        },
+        {
+          "title": "iPhone16 256GB Smart Dealz",
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-used-for-sale-colombo-542",
+          "outcome": "hold",
+          "reason": "Indexed195k/KOKO; current browser only shell, no target details. Health number unknown. Keep lead, not sold-out claim."
+        },
+        {
+          "title": "Kandy iPhone16Plus",
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-plus-256gb-used-for-sale-kandy-14",
+          "outcome": "excluded",
+          "reason": "User confirmed Colombo only; Kandy excluded;208500 also over cap."
+        },
+        {
+          "title": "Other regular16 ikman ads / full-set duplicates",
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-35",
+          "outcome": "hold",
+          "reason": "Search results195k;85%+ minimum battery claim below preference, duplicated boilerplate and inaccurate feature claims. Not directly verified; not recommended."
+        },
+        {
+          "title": "Used iPhone16 Colombo6",
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-used-for-sale-colombo-462",
+          "outcome": "hold",
+          "reason": "Indexed195k,claimed93% health; April posting stale and stated warranty through August2026 has passed. Direct verification needed."
+        },
+        {
+          "title": "Other Pixel9 search results",
+          "outcome": "hold",
+          "reason": "Toyo, Genius Mobile, iCentre, LuxuryX, Tikri and ikman Pixel9 leads found. Selected variant/price/location require direct check; LuxuryX189k is variant ambiguous; Tikri204990 over cap. Not auto-labelled sold out."
+        },
+        {
+          "title": "Non-phone search results / merchant address pages",
+          "outcome": "excluded",
+          "reason": "Trade-in PDFs, customs PDFs, support discussions, phone cases, chargers, mouse, Galaxy M15 and Redmi Note13 test-site results are irrelevant or weaker fit; address pages used only to establish merchant location. No unsupported phone recommendation from these."
+        }
+      ],
+      "body": "CORRECTION: Missing an explicit In stock badge was wrongly treated as a removal reason. New rule retains live listings as Stock not stated, removes explicit negatives, and preserves blocked existing listings with check-failed warning. User confirmed Colombo/suburbs only, Kandy excluded.\n\nSEARCHES\n- site:ikman.lk \"iPhone 16 256GB\" \"Colombo\" \"195,000\"\n- site:greenware.lk \"Pixel 9\" \"256\" price\n- site:presentsolution.lk \"iPhone 15\" \"Pre-Owned\"\n- site:ikman.lk \"iPhone 16 Plus\" \"Dehiwala\" \"190,000\"\n- site:greenware.lk/mobile-phones/google \"Pixel 9\" \"256\" (no results)\n- site:presentsolution.lk/product/iphone-15-pre-owned/\n- Google Pixel 9 256GB Sri Lanka price Colombo Koko\n- site:presentsolution.lk \"Address\" Colombo\n- site:xmobile.lk \"Address\" \"Colombo\"\n\nFINDINGS (INCLUDING REJECTED)\nOnePlus 13R · Greenware\nhttps://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage\nINCLUDED: Best lower-cost battery/performance candidate. Compare cameras against your Pixel; no promised camera upgrade.\n\nOnePlus 15R · Greenware\nhttps://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g\nINCLUDED: Battery/performance-first target. Verify global model, camera tradeoffs and local warranty; copied retailer specifications are inconsistent.\n\niPhone 15 Plus · Smart Dealz Lanka · ikman\nhttps://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227\nINCLUDED: Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.\n\nXiaomi 15T · Toyo\nhttps://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\nINCLUDED: Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.\n\nOnePlus 13R · Greenware\nhttps://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage\nINCLUDED: More storage for frequent video; costs Rs.37,000 above the 256GB offer with the same camera compromises.\n\niPhone 15 · Present Solution\nhttps://presentsolution.lk/product/iphone-15-pre-owned/\nINCLUDED: Black + 256GB selected: Rs.175,000. Page warns prices/availability require confirmation. Prefer Plus for your endurance priority; battery health unknown.\n\nSamsung Galaxy S25 · XMobile\nhttps://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/\nINCLUDED: Compact flagship alternative; battery priority lower than larger phones. Page asks buyers to verify availability. Selected warranty price and installment amount need checking.\n\nNothing Phone (3a) Pro · Toyo\nhttps://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/\nINCLUDED: Lower-price OS alternative. Midrange performance and battery/camera tradeoffs place it below the flagship candidates for your workload.\n\nToyo HONOR400Pro\nhttps://toyo.lk/product/honor-400-pro-5g-12gb-ram-512gb/\nEXCLUDED: User screenshot explicitly out of stock; live order buttons do not resolve the conflicting negative evidence.\n\nCelltronics vivo V60\nhttps://celltronics.lk/product/vivo-v60-5g-12gb-ram-256gb/\nEXCLUDED: Live target page SOLD OUT.\n\nPixel9 256GB · XMobile\nhttps://xmobile.lk/product/google-pixel-9-12gb-ram-256gb/\nEXCLUDED: Rs.255,500 exceeds200k; same target in bundle also marked Out of stock. KOKO shown3x91,980 in bundle; not a qualifying offer.\n\nPixel9 256GB · Life Mobile\nhttps://lifemobile.lk/product/google-pixel-9-12gb-ram-256gb/\nEXCLUDED: Target explicitly Out of stock. From259,428.57 also above cap. KOKO3x81,720 shown with inconsistent total.\n\niPhone16Plus Dehiwala\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-54\nHOLD: Indexed190k/96% health/eSIM-only; current browser rendered shell without target details. Not labelled sold out; retain research lead and retry.\n\niPhone16 256GB Smart Dealz\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-used-for-sale-colombo-542\nHOLD: Indexed195k/KOKO; current browser only shell, no target details. Health number unknown. Keep lead, not sold-out claim.\n\nKandy iPhone16Plus\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-256gb-used-for-sale-kandy-14\nEXCLUDED: User confirmed Colombo only; Kandy excluded;208500 also over cap.\n\nOther regular16 ikman ads / full-set duplicates\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-35\nHOLD: Search results195k;85%+ minimum battery claim below preference, duplicated boilerplate and inaccurate feature claims. Not directly verified; not recommended.\n\nUsed iPhone16 Colombo6\nhttps://ikman.lk/en/ad/apple-iphone-16-used-for-sale-colombo-462\nHOLD: Indexed195k,claimed93% health; April posting stale and stated warranty through August2026 has passed. Direct verification needed.\n\nOther Pixel9 search results\nSearch result group\nHOLD: Toyo, Genius Mobile, iCentre, LuxuryX, Tikri and ikman Pixel9 leads found. Selected variant/price/location require direct check; LuxuryX189k is variant ambiguous; Tikri204990 over cap. Not auto-labelled sold out.\n\nNon-phone search results / merchant address pages\nSearch result group\nEXCLUDED: Trade-in PDFs, customs PDFs, support discussions, phone cases, chargers, mouse, Galaxy M15 and Redmi Note13 test-site results are irrelevant or weaker fit; address pages used only to establish merchant location. No unsupported phone recommendation from these.\n\nChanges: Greenware15R now194000 (previous193000 product). Selected Present Solution Black iPhone15 256GB175000; KOKO3x58333.33. No seller contacted; no purchases. Stock not stated never relabelled confirmed. All other historical evidence preserved.",
+      "source": "Live product/ad pages, web searches and direct user clarification"
+    },
+    {
+      "id": "research-supplement-1792248138796",
+      "timestamp": "2026-10-17T14:42:18.794Z",
+      "type": "research",
+      "title": "Additional search-result ledger · unsuitable and pending leads",
+      "findings": [
+        {
+          "url": "https://toyo.lk/product/google-pixel-9-12gb-ram-256gb/",
+          "title": "Pixel9 Toyo",
+          "reason": "Search lead only; selected price and stock not directly inspected this run.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://www.geniusmobile.lk/shop/google-pixel-9-256gb/",
+          "title": "Pixel9 Genius",
+          "reason": "Indexed KOKO logo; actual offer not opened, no availability claim.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://icentre.lk/product/google-pixel-9-12gb-ram-256gb",
+          "title": "Pixel9 iCentre",
+          "reason": "Search lead; direct inspection pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://www.luxuryx.lk/public/google-pixel-9-price-in-sri-lanka",
+          "title": "Pixel9 LuxuryX",
+          "reason": "Indexed189000 with128/256 variants;256GB price not established.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://tikri.tech/phones/google-pixel-9-12gb-256gb",
+          "title": "Pixel9 Tikri",
+          "reason": "Aggregator204990 over budget; no merchant offer verified.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/google-pixel-9-256gb-used-for-sale-colombo-47",
+          "title": "Used Pixel9 Colombo",
+          "reason": "Indexed KOKO; direct verification pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/google-pixel-9-256gb5g-brand-new-for-sale-colombo",
+          "title": "New Pixel9 Nugegoda",
+          "reason": "Indexed KOKO; direct verification pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-68",
+          "title": "16Plus Dehiwala190000",
+          "reason": "Old May ad, eSIM256GB; not directly verified.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-98",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate-style old listing,85%+battery claim; not a confirmed high-health unit.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-76",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate-style old listing; direct verification pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-53",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate-style old listing; no new eligible unit established.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-40",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate search lead; no direct stock check.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-used-for-sale-colombo-303",
+          "title": "16 Nugegoda",
+          "reason": "Old indexed offer; exact condition not verified.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-67",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate-style lead; direct verification pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-86",
+          "title": "16 fullset Nugegoda",
+          "reason": "Duplicate-style lead; direct verification pending.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://test.presentsolution.lk/product/redmi-note-13-pro-4g/",
+          "title": "Redmi Note13 Pro4G test site",
+          "reason": "Address-search side result; test site and weaker fit, excluded.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://presentsolution.lk/product/galaxy-m15-5g/",
+          "title": "Galaxy M15",
+          "reason": "Address-search side result; not shortlisted for flagship camera/performance requirement.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://test.presentsolution.lk/product/rock-transparent-magsafe-case-for-iphone/",
+          "title": "MagSafe case",
+          "reason": "Accessory/test-site side result, not a phone.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://presentsolution.lk/privacy-policy/",
+          "title": "Present Solution address",
+          "reason": "Used to confirm1-35R Liberty Plaza Colombo03; no purchase recommendation.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://presentsolution.lk/delivery-returns/",
+          "title": "Present Solution returns/address",
+          "reason": "Location corroboration only.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://xmobile.lk/about-us/",
+          "title": "XMobile merchant details",
+          "reason": "Colombo03 address and official merchant-wide KOKO evidence.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        },
+        {
+          "url": "https://xmobile.lk/refund-return-policy/",
+          "title": "XMobile address/returns",
+          "reason": "Address corroboration only.",
+          "outcome": "not_added",
+          "provenance": "Web search result; direct opening only where stated"
+        }
+      ],
+      "body": "Pixel9 Toyo\nhttps://toyo.lk/product/google-pixel-9-12gb-ram-256gb/\nSearch lead only; selected price and stock not directly inspected this run.\n\nPixel9 Genius\nhttps://www.geniusmobile.lk/shop/google-pixel-9-256gb/\nIndexed KOKO logo; actual offer not opened, no availability claim.\n\nPixel9 iCentre\nhttps://icentre.lk/product/google-pixel-9-12gb-ram-256gb\nSearch lead; direct inspection pending.\n\nPixel9 LuxuryX\nhttps://www.luxuryx.lk/public/google-pixel-9-price-in-sri-lanka\nIndexed189000 with128/256 variants;256GB price not established.\n\nPixel9 Tikri\nhttps://tikri.tech/phones/google-pixel-9-12gb-256gb\nAggregator204990 over budget; no merchant offer verified.\n\nUsed Pixel9 Colombo\nhttps://ikman.lk/en/ad/google-pixel-9-256gb-used-for-sale-colombo-47\nIndexed KOKO; direct verification pending.\n\nNew Pixel9 Nugegoda\nhttps://ikman.lk/en/ad/google-pixel-9-256gb5g-brand-new-for-sale-colombo\nIndexed KOKO; direct verification pending.\n\n16Plus Dehiwala190000\nhttps://ikman.lk/en/ad/apple-iphone-16-plus-used-for-sale-colombo-68\nOld May ad, eSIM256GB; not directly verified.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-98\nDuplicate-style old listing,85%+battery claim; not a confirmed high-health unit.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-76\nDuplicate-style old listing; direct verification pending.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-53\nDuplicate-style old listing; no new eligible unit established.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-40\nDuplicate search lead; no direct stock check.\n\n16 Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-used-for-sale-colombo-303\nOld indexed offer; exact condition not verified.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-67\nDuplicate-style lead; direct verification pending.\n\n16 fullset Nugegoda\nhttps://ikman.lk/en/ad/apple-iphone-16-256gb-full-set-used-for-sale-colombo-86\nDuplicate-style lead; direct verification pending.\n\nRedmi Note13 Pro4G test site\nhttps://test.presentsolution.lk/product/redmi-note-13-pro-4g/\nAddress-search side result; test site and weaker fit, excluded.\n\nGalaxy M15\nhttps://presentsolution.lk/product/galaxy-m15-5g/\nAddress-search side result; not shortlisted for flagship camera/performance requirement.\n\nMagSafe case\nhttps://test.presentsolution.lk/product/rock-transparent-magsafe-case-for-iphone/\nAccessory/test-site side result, not a phone.\n\nPresent Solution address\nhttps://presentsolution.lk/privacy-policy/\nUsed to confirm1-35R Liberty Plaza Colombo03; no purchase recommendation.\n\nPresent Solution returns/address\nhttps://presentsolution.lk/delivery-returns/\nLocation corroboration only.\n\nXMobile merchant details\nhttps://xmobile.lk/about-us/\nColombo03 address and official merchant-wide KOKO evidence.\n\nXMobile address/returns\nhttps://xmobile.lk/refund-return-policy/\nAddress corroboration only.\n\nOther returned non-offer results included trade-in/customs PDFs and support discussions; excluded as nonmerchant/nonoffer background. Earlier direct page checks and exact query strings are retained in the preceding stock-audit entry.",
+      "source": "Fuller ledger of search results encountered during correction"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Local backups and one-time setup tools
+phone_*.txt
+migrate-data.mjs
+correct-workflow.mjs
+update-dashboard-labels.mjs
+*.tmp
+.pages-request.json
+.local-backup/
+node_modules/
+.env
+.env.*
+publication-review.md
