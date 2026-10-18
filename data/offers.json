@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T11:38:13.342Z",
-  "lastStockAudit": "2026-10-17T11:38:13.342Z",
+  "updatedAt": "2026-10-18T06:15:03.483Z",
+  "lastStockAudit": "2026-10-18T06:15:03.483Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -23,10 +23,16 @@
       },
       "rank": 1,
       "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "status": "check_failed",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
+        "method": "Web retrieval plus incomplete live-browser retry",
+        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -56,9 +62,15 @@
       "rank": 2,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
+        "method": "Live browser target content; unrelated badges ignored.",
+        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -87,9 +99,15 @@
       "rank": 3,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
+        "method": "Live browser target content; unrelated badges ignored.",
+        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "Not confirmed; inspect specific unit",
@@ -97,39 +115,6 @@
       "testing": "Not confirmed; inspect before paying",
       "variant": "SIM/region not disclosed",
       "batteryHealth": null
-    },
-    {
-      "id": "toyo-15t-512",
-      "name": "Xiaomi 15T",
-      "seller": "Toyo",
-      "storage": "12GB / 512GB",
-      "condition": "New (advertised)",
-      "cashPrice": 163500,
-      "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
-      "address": "210/10, Airtel Market, Main Street, Colombo 11",
-      "reason": "Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.",
-      "koko": {
-        "supported": true,
-        "monthly": 58860,
-        "total": 176580,
-        "evidence": "KOKO Pay panel: Rs.176,580.00; 3 X Rs.58,860.00.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
-      },
-      "rank": 4,
-      "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
-      },
-      "firstSeen": "2026-10-17",
-      "warranty": "Default: one year SOFTWARE ONLY. Hardware+software option +Rs.10,000; display-line terms unknown.",
-      "displayCoverage": "Not confirmed",
-      "testing": "Not confirmed; inspect before paying",
-      "variant": "Exact region not confirmed",
-      "priceFrom": true
     },
     {
       "id": "green-13r-512",
@@ -150,12 +135,18 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 5,
+      "rank": 4,
       "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "status": "check_failed",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
+        "method": "Web retrieval plus incomplete live-browser retry",
+        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -182,12 +173,18 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 6,
+      "rank": 5,
       "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "status": "check_failed",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
+        "method": "Web retrieval plus incomplete live-browser retry",
+        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "Page advertises 1 month hardware / 6 months software; confirm unit-specific terms",
@@ -208,20 +205,28 @@
       "reason": "Compact flagship alternative; battery priority lower than larger phones. Page asks buyers to verify availability. Selected warranty price and installment amount need checking.",
       "koko": {
         "supported": true,
-        "monthly": null,
-        "total": null,
+        "monthly": 65996.67,
+        "total": 197990,
         "totalConfirmed": false,
-        "evidence": "Merchant official About Us page explicitly supports KOKO installments. Product-specific current installment quote not captured in this check.",
-        "source": "https://xmobile.lk/about-us/",
-        "scope": "merchant",
-        "checkedAt": "2026-10-17T11:38:13.342Z"
+        "evidence": "Product price section shows Koko logos beside 3 X LKR65,996.67.",
+        "source": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
+        "scope": "product",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "provenance": "Product-page web retrieval; page may be cached",
+        "note": "Advertised installment amount; final selected-warranty price, fees and eligibility still require confirmation."
       },
-      "rank": 7,
+      "rank": 6,
       "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "status": "check_failed",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
+        "method": "Web retrieval plus incomplete live-browser retry",
+        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "Selectable; software-only option observed, hardware terms unconfirmed",
@@ -249,18 +254,64 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 8,
+      "rank": 7,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "evidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "method": "Live browser, target product/ad content; unrelated recommendations ignored."
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
+        "method": "Live browser target content; unrelated badges ignored.",
+        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
+        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year company warranty selected; confirm issuer/display coverage",
       "displayCoverage": "Not confirmed",
       "testing": "Not confirmed; inspect before paying",
       "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "appleshop-15plus-256",
+      "rank": 8,
+      "name": "iPhone 15 Plus",
+      "seller": "Apple Shop · ikman",
+      "storage": "256GB",
+      "condition": "Used",
+      "cashPrice": 169990,
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
+      "address": "Dehiwala listing; seller says next to ELITE Restaurant, Mount Lavinia. Confirm exact shop.",
+      "firstSeen": "2026-10-18",
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
+        "evidence": "Accessible target ad; no explicit sold-out status in retrieved content.",
+        "method": "Direct ad web retrieval; cached about3weeks, not seller-confirmed",
+        "checkWindow": {
+          "startedAt": "2026-10-18T05:43:43.579Z",
+          "endedAt": "2026-10-18T06:13:53.888Z"
+        }
+      },
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": null,
+        "total": null,
+        "evidence": "Ad explicitly says KOKO and credit-card payments available, conditions apply.",
+        "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
+        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "totalConfirmed": false,
+        "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
+      },
+      "warranty": "Seller claims1month hardware/phone-to-phone,1month green-display,3monthservice,lifetime software; all claims unverified.",
+      "displayCoverage": "Seller claims1month green-display warranty; written terms required.",
+      "testing": "Seller says inspection allowed; confirm actual permission before payment.",
+      "variant": "Region/SIM not established",
+      "batteryHealth": null,
+      "reason": "Lower-price Apple lead with explicit KOKO and display-warranty claims. Battery only advertised88%+; require a specific90%+ unit, preferably93–95%+. Header169990 conflicts with body170000; fullset174000. Not a guaranteed battery match."
     }
   ],
   "history": [
@@ -443,6 +494,15 @@
       "url": null,
       "details": "U7 User-shown iPhone 16 256GB: asking 195,000, 89% health, 369 cycles,\nfirst used September 2025; coverage reportedly expired 19 September 2026.\nNo seller URL/address supplied. Earlier assessment flags possible model-name\nversus model-number mismatch. UNKNOWN until actual device inspected.\nDisposition: lower-priority / pass at quoted price for battery requirements.\nDo not present the earlier 180,000-185,000 negotiation suggestion as a deal.",
       "checkedAt": "2026-10-17T16:43:17+05:30"
+    },
+    {
+      "id": "removed-1792304103504",
+      "name": "Xiaomi 15T 12GB / 512GB · Toyo",
+      "status": "out_of_stock_variant",
+      "reason": "Removed listed Black/software-warranty variant: selecting Black exposed an explicit Out of stock message. Other colours/hardware-warranty selection could not be reliably applied; no available replacement variant established.",
+      "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
+      "details": "{\"id\":\"toyo-15t-512\",\"name\":\"Xiaomi 15T\",\"seller\":\"Toyo\",\"storage\":\"12GB / 512GB\",\"condition\":\"New (advertised)\",\"cashPrice\":163500,\"url\":\"https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\",\"address\":\"210/10, Airtel Market, Main Street, Colombo 11\",\"reason\":\"Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.\",\"koko\":{\"supported\":true,\"monthly\":58860,\"total\":176580,\"evidence\":\"KOKO Pay panel: Rs.176,580.00; 3 X Rs.58,860.00.\",\"checkedAt\":\"2026-10-17T11:38:13.342Z\",\"totalConfirmed\":false,\"note\":\"Advertised plan; confirm final checkout fees and available KOKO limit.\"},\"rank\":4,\"stock\":{\"status\":\"out_of_stock\",\"evidence\":\"Out of stock\",\"checkedAt\":\"2026-10-18T06:15:03.483Z\",\"method\":\"Live browser after Black colour selection; software warranty remained selected\"},\"firstSeen\":\"2026-10-17\",\"warranty\":\"Default: one year SOFTWARE ONLY. Hardware+software option +Rs.10,000; display-line terms unknown.\",\"displayCoverage\":\"Not confirmed\",\"testing\":\"Not confirmed; inspect before paying\",\"variant\":\"Exact region not confirmed\",\"priceFrom\":true}",
+      "checkedAt": "2026-10-18T06:15:03.483Z"
     }
   ]
 }
