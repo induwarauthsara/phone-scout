@@ -6779,6 +6779,18 @@
         "site": "https://induwarauthsara.github.io/phone-scout/"
       },
       "body": "Research revision419a9a0e3728bcc212c64d67bd23385d49366a95 built successfully. Live offers JSON verified8shortlisted offers, new XMobile S25FE256GB179990 included, Toyo Nothing3aPro removed.10searches and308finding records saved; previous logs unchanged. Stock evidence distinguishes merchant metadata, published ads and failed checks. PresentSolution remains stale after HTTP403. SmartDealz KOKO now explicit; quote unknown. Private16Plus200000/93%health/598cycles held pending shop/testing/warranty criteria. No seller contacted. This separate append-only record preserves the earlier run log."
+    },
+    {
+      "id": "transport-2026-10-19",
+      "timestamp": "2026-10-19T03:31:00.126Z",
+      "type": "maintenance",
+      "title": "Publication connection reset resolved",
+      "source": "Git transport result and GitHub commit/Pages APIs",
+      "body": "Pushing publication-log commit13d03cf reported a connection reset and exited with failure. Follow-up GitHub API checks confirmed main already contains13d03cfb23ccea7da4cecd4276875c7cd017c3fd and its Pages build succeeded. No data loss, conflict, force push or user action needed. Daily research and publication log remain preserved.",
+      "publication": {
+        "status": "verified_after_transport_error",
+        "revision": "13d03cfb23ccea7da4cecd4276875c7cd017c3fd"
+      }
     }
   ]
 }
