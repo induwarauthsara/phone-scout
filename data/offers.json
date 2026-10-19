@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T06:15:03.483Z",
-  "lastStockAudit": "2026-10-18T06:15:03.483Z",
+  "updatedAt": "2026-10-19T03:07:41.808Z",
+  "lastStockAudit": "2026-10-19T03:07:41.808Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -16,23 +16,22 @@
         "supported": true,
         "monthly": 51666.67,
         "total": 155000,
-        "evidence": "Product installment line: or 3 X LKR. 51,666.67 with Koko logo.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Exact target product installment widget: 3 X LKR 51,666.67 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
+        "checkedAt": "2026-10-19T03:05:49.737Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
+        "scope": "product",
+        "selectedVariant": "12GB / 256GB"
       },
       "rank": 1,
       "stock": {
-        "status": "check_failed",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
-        "method": "Web retrieval plus incomplete live-browser retry",
-        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "status": "in_stock",
+        "checkedAt": "2026-10-19T03:02:47.956Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:02:47.956Z",
+        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
+        "method": "Live HTTP response; exact product structured metadata",
+        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -54,29 +53,65 @@
         "supported": true,
         "monthly": 64666.67,
         "total": 194000,
-        "evidence": "Product installment line: or 3 X LKR. 64,666.67 with Koko logo.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Exact target product installment widget: 3 X LKR 64,666.67 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
+        "checkedAt": "2026-10-19T03:05:51.661Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
+        "scope": "product",
+        "selectedVariant": "12GB / 256GB"
       },
       "rank": 2,
       "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
-        "method": "Live browser target content; unrelated badges ignored.",
-        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "status": "in_stock",
+        "checkedAt": "2026-10-19T03:02:48.170Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:02:48.170Z",
+        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
+        "method": "Live HTTP response; exact product structured metadata",
+        "previousEvidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
       "displayCoverage": "Not confirmed",
       "testing": "Not confirmed; inspect before paying",
       "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "xmobile-s25fe-256",
+      "rank": 3,
+      "name": "Samsung Galaxy S25 FE",
+      "seller": "XMobile",
+      "storage": "8GB / 256GB",
+      "condition": "New (advertised)",
+      "cashPrice": 179990,
+      "url": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
+      "address": "42 N, Ground Floor, Liberty Plaza, Colombo 03",
+      "variant": "Black or Dark Blue; 8GB/256GB; regional model not confirmed",
+      "warranty": "Selected variants: one year software and six months hardware warranty; obtain written exclusions.",
+      "displayCoverage": "Not confirmed",
+      "testing": "Not confirmed; obtain permission to test your SIM, hotspot and camera before paying.",
+      "reason": "Larger-screen camera/OS alternative with advertised hardware warranty at a lower price than S25. Compare camera results and sustained heat/battery under your workload; no endurance guarantee.",
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": 59996.67,
+        "total": 179990,
+        "fees": null,
+        "totalConfirmed": false,
+        "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
+        "evidence": "Target product summary and variant installment metadata show 3 X LKR 59,996.67 with Koko logo. Rounding: three installments sum179990.01.",
+        "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
+        "checkedAt": "2026-10-19T03:07:20.963Z",
+        "note": "Advertised plan; confirm final fees, eligibility and KOKO limit."
+      },
+      "stock": {
+        "status": "in_stock",
+        "checkedAt": "2026-10-19T03:06:53.071Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:06:53.071Z",
+        "evidence": "Exact Black and Dark Blue 8GB/256GB warranty variants have is_in_stock=true. White and Light Blue explicitly out of stock; excluded colours.",
+        "method": "Live HTTP target product variation metadata"
+      },
+      "firstSeen": "2026-10-19"
     },
     {
       "id": "smartdealz-15plus-256",
@@ -89,25 +124,25 @@
       "address": "Colombo 3; exact shop/unit address to confirm",
       "reason": "Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.",
       "koko": {
-        "supported": null,
+        "supported": true,
+        "scope": "product",
         "monthly": null,
         "total": null,
-        "evidence": "KOKO terms not visible in the live target-ad content during this check.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "totalConfirmed": false
+        "fees": null,
+        "totalConfirmed": false,
+        "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
+        "checkedAt": "2026-10-19T03:05:52.500Z",
+        "evidence": "Exact target ad payment section explicitly offers Koko three-month installments.",
+        "note": "Amount and fees not stated; do not assume cash price is the KOKO total."
       },
-      "rank": 3,
+      "rank": 4,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
-        "method": "Live browser target content; unrelated badges ignored.",
-        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "checkedAt": "2026-10-19T03:05:52.500Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:05:52.500Z",
+        "evidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock.",
+        "method": "Live HTTP response; target ad initialData and description",
+        "previousEvidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Not confirmed; inspect specific unit",
@@ -130,23 +165,22 @@
         "supported": true,
         "monthly": 64000,
         "total": 192000,
-        "evidence": "Product installment line: or 3 X LKR.64,000.00 with Koko logo.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
+        "evidence": "Exact target product installment widget: 3 X LKR 64,000.00 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
+        "checkedAt": "2026-10-19T03:05:54.556Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
+        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
+        "scope": "product",
+        "selectedVariant": "16GB / 512GB"
       },
-      "rank": 4,
+      "rank": 5,
       "stock": {
-        "status": "check_failed",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
-        "method": "Web retrieval plus incomplete live-browser retry",
-        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "status": "in_stock",
+        "checkedAt": "2026-10-19T03:02:48.056Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:02:48.056Z",
+        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
+        "method": "Live HTTP response; exact product structured metadata",
+        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -173,12 +207,12 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 5,
+      "rank": 6,
       "stock": {
         "status": "check_failed",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
-        "method": "Web retrieval plus incomplete live-browser retry",
+        "checkedAt": "2026-10-19T03:02:46.672Z",
+        "evidence": "Today direct HTTP check returned 403 / bot verification. Retained with stale previous evidence; availability and price are not freshly confirmed.",
+        "method": "Live HTTP attempt; failed target check",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
         "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
         "checkWindow": {
@@ -211,67 +245,26 @@
         "evidence": "Product price section shows Koko logos beside 3 X LKR65,996.67.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
         "scope": "product",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "checkedAt": "2026-10-19T03:07:21.239Z",
         "provenance": "Product-page web retrieval; page may be cached",
-        "note": "Advertised installment amount; final selected-warranty price, fees and eligibility still require confirmation."
+        "note": "Advertised installment amount; final selected-warranty price, fees and eligibility still require confirmation.",
+        "selectedVariant": "12GB/256GB; Silver Shadow/Icy Blue/Navy; 1-year software warranty"
       },
-      "rank": 6,
+      "rank": 7,
       "stock": {
-        "status": "check_failed",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date.",
-        "method": "Web retrieval plus incomplete live-browser retry",
-        "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "status": "in_stock",
+        "checkedAt": "2026-10-19T03:02:47.212Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:02:47.212Z",
+        "evidence": "Exact 12GB/256GB Silver Shadow, Icy Blue and Navy variations with one-year software-only warranty explicitly have is_in_stock=true in product variation metadata.",
+        "method": "Live HTTP response; exact product structured metadata",
+        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
       },
       "firstSeen": "2026-10-17",
-      "warranty": "Selectable; software-only option observed, hardware terms unconfirmed",
+      "warranty": "Selected available variants: one year SOFTWARE ONLY. Hardware and display-line coverage not established.",
       "displayCoverage": "Not confirmed",
       "testing": "Not confirmed; inspect before paying",
       "variant": "Exact region not confirmed",
       "addressSource": "https://xmobile.lk/about-us/"
-    },
-    {
-      "id": "toyo-nothing3apro-256",
-      "name": "Nothing Phone (3a) Pro",
-      "seller": "Toyo",
-      "storage": "12GB / 256GB",
-      "condition": "New (advertised)",
-      "cashPrice": 145000,
-      "url": "https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
-      "address": "210/10, Airtel Market, Main Street, Colombo 11",
-      "reason": "Lower-price OS alternative. Midrange performance and battery/camera tradeoffs place it below the flagship candidates for your workload.",
-      "koko": {
-        "supported": true,
-        "monthly": 52200,
-        "total": 156600,
-        "evidence": "KOKO Pay panel: Rs.156,600.00; 3 X Rs.52,200.00.",
-        "checkedAt": "2026-10-17T11:38:13.342Z",
-        "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
-      },
-      "rank": 7,
-      "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated.",
-        "method": "Live browser target content; unrelated badges ignored.",
-        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
-        "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
-      },
-      "firstSeen": "2026-10-17",
-      "warranty": "One year company warranty selected; confirm issuer/display coverage",
-      "displayCoverage": "Not confirmed",
-      "testing": "Not confirmed; inspect before paying",
-      "variant": "Exact region not confirmed"
     },
     {
       "id": "appleshop-15plus-256",
@@ -286,14 +279,11 @@
       "firstSeen": "2026-10-18",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
-        "lastSuccessfulCheckAt": "2026-10-18T06:15:03.483Z",
-        "evidence": "Accessible target ad; no explicit sold-out status in retrieved content.",
-        "method": "Direct ad web retrieval; cached about3weeks, not seller-confirmed",
-        "checkWindow": {
-          "startedAt": "2026-10-18T05:43:43.579Z",
-          "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        "checkedAt": "2026-10-19T03:05:56.510Z",
+        "lastSuccessfulCheckAt": "2026-10-19T03:05:56.510Z",
+        "evidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock.",
+        "method": "Live HTTP response; target ad initialData and description",
+        "previousEvidence": "Accessible target ad; no explicit sold-out status in retrieved content."
       },
       "koko": {
         "supported": true,
@@ -302,7 +292,7 @@
         "total": null,
         "evidence": "Ad explicitly says KOKO and credit-card payments available, conditions apply.",
         "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
-        "checkedAt": "2026-10-18T06:15:03.483Z",
+        "checkedAt": "2026-10-19T03:05:56.510Z",
         "totalConfirmed": false,
         "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
       },
@@ -503,6 +493,53 @@
       "url": "https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/",
       "details": "{\"id\":\"toyo-15t-512\",\"name\":\"Xiaomi 15T\",\"seller\":\"Toyo\",\"storage\":\"12GB / 512GB\",\"condition\":\"New (advertised)\",\"cashPrice\":163500,\"url\":\"https://toyo.lk/product/xiaomi-mi-15t-5g-12gb-ram-512gb/\",\"address\":\"210/10, Airtel Market, Main Street, Colombo 11\",\"reason\":\"Camera/storage alternative. FROM price uses software-only warranty; hardware+software option adds Rs.10,000. Recheck selected colour, final price and KOKO total.\",\"koko\":{\"supported\":true,\"monthly\":58860,\"total\":176580,\"evidence\":\"KOKO Pay panel: Rs.176,580.00; 3 X Rs.58,860.00.\",\"checkedAt\":\"2026-10-17T11:38:13.342Z\",\"totalConfirmed\":false,\"note\":\"Advertised plan; confirm final checkout fees and available KOKO limit.\"},\"rank\":4,\"stock\":{\"status\":\"out_of_stock\",\"evidence\":\"Out of stock\",\"checkedAt\":\"2026-10-18T06:15:03.483Z\",\"method\":\"Live browser after Black colour selection; software warranty remained selected\"},\"firstSeen\":\"2026-10-17\",\"warranty\":\"Default: one year SOFTWARE ONLY. Hardware+software option +Rs.10,000; display-line terms unknown.\",\"displayCoverage\":\"Not confirmed\",\"testing\":\"Not confirmed; inspect before paying\",\"variant\":\"Exact region not confirmed\",\"priceFrom\":true}",
       "checkedAt": "2026-10-18T06:15:03.483Z"
+    },
+    {
+      "id": "removed-nothing-20261019",
+      "name": "Nothing Phone (3a) Pro 12GB / 256GB · Toyo",
+      "status": "out_of_stock",
+      "reason": "Removed listed phone due to out-of-stock: all four exact product colour/warranty variants explicitly report Out of stock and is_in_stock=false.",
+      "url": "https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/",
+      "checkedAt": "2026-10-19T03:02:48.486Z",
+      "details": "{\"id\":\"toyo-nothing3apro-256\",\"name\":\"Nothing Phone (3a) Pro\",\"seller\":\"Toyo\",\"storage\":\"12GB / 256GB\",\"condition\":\"New (advertised)\",\"cashPrice\":145000,\"url\":\"https://toyo.lk/product/nothing-phone-3a-pro-12gb-ram-256gb/\",\"address\":\"210/10, Airtel Market, Main Street, Colombo 11\",\"reason\":\"Lower-price OS alternative. Midrange performance and battery/camera tradeoffs place it below the flagship candidates for your workload.\",\"koko\":{\"supported\":true,\"monthly\":52200,\"total\":156600,\"evidence\":\"KOKO Pay panel: Rs.156,600.00; 3 X Rs.52,200.00.\",\"checkedAt\":\"2026-10-17T11:38:13.342Z\",\"totalConfirmed\":false,\"note\":\"Advertised plan; confirm final checkout fees and available KOKO limit.\"},\"rank\":7,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-18T06:15:03.483Z\",\"evidence\":\"Live target page opened during this run; advertised offer retained, availability not explicitly stated.\",\"method\":\"Live browser target content; unrelated badges ignored.\",\"lastSuccessfulCheckAt\":\"2026-10-18T06:15:03.483Z\",\"previousEvidence\":\"Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.\",\"checkWindow\":{\"startedAt\":\"2026-10-18T05:43:43.579Z\",\"endedAt\":\"2026-10-18T06:13:53.888Z\"}},\"firstSeen\":\"2026-10-17\",\"warranty\":\"One year company warranty selected; confirm issuer/display coverage\",\"displayCoverage\":\"Not confirmed\",\"testing\":\"Not confirmed; inspect before paying\",\"variant\":\"Exact region not confirmed\"}",
+      "evidence": [
+        {
+          "attributes": {
+            "attribute_pa_colour": "black-2",
+            "attribute_pa_warranty": "1-year-company-warranty"
+          },
+          "price": 145000,
+          "isInStock": false,
+          "availabilityText": "&lt;p class=\"stock out-of-stock wd-style-bordered\"&gt;&lt;span&gt;Out of stock&lt;/span&gt;&lt;/p&gt;"
+        },
+        {
+          "attributes": {
+            "attribute_pa_colour": "black-2",
+            "attribute_pa_warranty": "1-year-software"
+          },
+          "price": 145000,
+          "isInStock": false,
+          "availabilityText": "&lt;p class=\"stock out-of-stock wd-style-bordered\"&gt;&lt;span&gt;Out of stock&lt;/span&gt;&lt;/p&gt;"
+        },
+        {
+          "attributes": {
+            "attribute_pa_colour": "gray",
+            "attribute_pa_warranty": "1-year-company-warranty"
+          },
+          "price": 145000,
+          "isInStock": false,
+          "availabilityText": "&lt;p class=\"stock out-of-stock wd-style-bordered\"&gt;&lt;span&gt;Out of stock&lt;/span&gt;&lt;/p&gt;"
+        },
+        {
+          "attributes": {
+            "attribute_pa_colour": "gray",
+            "attribute_pa_warranty": "1-year-hardware-1-year-software-rs-10000-00"
+          },
+          "price": 145000,
+          "isInStock": false,
+          "availabilityText": "&lt;p class=\"stock out-of-stock wd-style-bordered\"&gt;&lt;span&gt;Out of stock&lt;/span&gt;&lt;/p&gt;"
+        }
+      ]
     }
   ]
 }
