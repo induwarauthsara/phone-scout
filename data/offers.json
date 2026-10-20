@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T03:07:41.808Z",
-  "lastStockAudit": "2026-10-19T03:07:41.808Z",
+  "updatedAt": "2026-10-20T08:06:11.730Z",
+  "lastStockAudit": "2026-10-20T08:06:11.730Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -16,22 +16,24 @@
         "supported": true,
         "monthly": 51666.67,
         "total": 155000,
-        "evidence": "Exact target product installment widget: 3 X LKR 51,666.67 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
-        "checkedAt": "2026-10-19T03:05:49.737Z",
+        "evidence": "Target product installment line explicitly shows 3 X LKR 51666.67 with Koko logo.",
+        "checkedAt": "2026-10-20T07:47:07.429Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
         "scope": "product",
-        "selectedVariant": "12GB / 256GB"
+        "selectedVariant": "12GB / 256GB",
+        "fees": null,
+        "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "rank": 1,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-19T03:02:47.956Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:02:47.956Z",
-        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
-        "method": "Live HTTP response; exact product structured metadata",
-        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
+        "checkedAt": "2026-10-20T07:47:07.429Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:07.429Z",
+        "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -45,30 +47,32 @@
       "seller": "Greenware",
       "storage": "12GB / 256GB",
       "condition": "New (advertised)",
-      "cashPrice": 194000,
+      "cashPrice": 190000,
       "url": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
       "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
       "reason": "Battery/performance-first target. Verify global model, camera tradeoffs and local warranty; copied retailer specifications are inconsistent.",
       "koko": {
         "supported": true,
-        "monthly": 64666.67,
-        "total": 194000,
-        "evidence": "Exact target product installment widget: 3 X LKR 64,666.67 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
-        "checkedAt": "2026-10-19T03:05:51.661Z",
+        "monthly": 63333.33,
+        "total": 190000,
+        "evidence": "Target product installment line explicitly shows 3 X LKR 63333.33 with Koko logo.",
+        "checkedAt": "2026-10-20T07:47:07.763Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
         "scope": "product",
-        "selectedVariant": "12GB / 256GB"
+        "selectedVariant": "12GB / 256GB",
+        "fees": null,
+        "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "rank": 2,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-19T03:02:48.170Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:02:48.170Z",
-        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
-        "method": "Live HTTP response; exact product structured metadata",
-        "previousEvidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated."
+        "checkedAt": "2026-10-20T07:47:07.763Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:07.763Z",
+        "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -99,57 +103,21 @@
         "fees": null,
         "totalConfirmed": false,
         "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
-        "evidence": "Target product summary and variant installment metadata show 3 X LKR 59,996.67 with Koko logo. Rounding: three installments sum179990.01.",
+        "evidence": "Target product installment line explicitly shows 3 X LKR 59996.67 with Koko logo.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
-        "checkedAt": "2026-10-19T03:07:20.963Z",
-        "note": "Advertised plan; confirm final fees, eligibility and KOKO limit."
+        "checkedAt": "2026-10-20T07:47:55.332Z",
+        "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
+        "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-19T03:06:53.071Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:06:53.071Z",
-        "evidence": "Exact Black and Dark Blue 8GB/256GB warranty variants have is_in_stock=true. White and Light Blue explicitly out of stock; excluded colours.",
-        "method": "Live HTTP target product variation metadata"
+        "checkedAt": "2026-10-20T07:47:55.332Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:55.332Z",
+        "evidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact Black and Dark Blue 8GB/256GB warranty variants have is_in_stock=true. White and Light Blue explicitly out of stock; excluded colours."
       },
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "smartdealz-15plus-256",
-      "name": "iPhone 15 Plus",
-      "seller": "Smart Dealz Lanka · ikman",
-      "storage": "256GB",
-      "condition": "Used",
-      "cashPrice": 175000,
-      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
-      "address": "Colombo 3; exact shop/unit address to confirm",
-      "reason": "Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.",
-      "koko": {
-        "supported": true,
-        "scope": "product",
-        "monthly": null,
-        "total": null,
-        "fees": null,
-        "totalConfirmed": false,
-        "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
-        "checkedAt": "2026-10-19T03:05:52.500Z",
-        "evidence": "Exact target ad payment section explicitly offers Koko three-month installments.",
-        "note": "Amount and fees not stated; do not assume cash price is the KOKO total."
-      },
-      "rank": 4,
-      "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-19T03:05:52.500Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:05:52.500Z",
-        "evidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock.",
-        "method": "Live HTTP response; target ad initialData and description",
-        "previousEvidence": "Live target page opened during this run; advertised offer retained, availability not explicitly stated."
-      },
-      "firstSeen": "2026-10-17",
-      "warranty": "Not confirmed; inspect specific unit",
-      "displayCoverage": "Not confirmed",
-      "testing": "Not confirmed; inspect before paying",
-      "variant": "SIM/region not disclosed",
-      "batteryHealth": null
     },
     {
       "id": "green-13r-512",
@@ -165,22 +133,24 @@
         "supported": true,
         "monthly": 64000,
         "total": 192000,
-        "evidence": "Exact target product installment widget: 3 X LKR 64,000.00 with Koko logo. Advertised total; final eligibility/fees unconfirmed.",
-        "checkedAt": "2026-10-19T03:05:54.556Z",
+        "evidence": "Target product installment line explicitly shows 3 X LKR 64000 with Koko logo.",
+        "checkedAt": "2026-10-20T07:47:06.838Z",
         "totalConfirmed": false,
-        "note": "Advertised plan; confirm final checkout fees and available KOKO limit.",
+        "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
         "scope": "product",
-        "selectedVariant": "16GB / 512GB"
+        "selectedVariant": "16GB / 512GB",
+        "fees": null,
+        "provenance": "Live HTTP target product summary; no checkout performed"
       },
-      "rank": 5,
+      "rank": 4,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-19T03:02:48.056Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:02:48.056Z",
-        "evidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee.",
-        "method": "Live HTTP response; exact product structured metadata",
-        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
+        "checkedAt": "2026-10-20T07:47:06.838Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:06.838Z",
+        "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -207,12 +177,12 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 6,
+      "rank": 5,
       "stock": {
         "status": "check_failed",
-        "checkedAt": "2026-10-19T03:02:46.672Z",
-        "evidence": "Today direct HTTP check returned 403 / bot verification. Retained with stale previous evidence; availability and price are not freshly confirmed.",
-        "method": "Live HTTP attempt; failed target check",
+        "checkedAt": "2026-10-20T07:47:05.349Z",
+        "evidence": "Current live target check failed with HTTP403. Existing offer retained with stale previous evidence; no new stock/price confirmation.",
+        "method": "Live HTTP attempt; target not verified",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
         "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
         "checkWindow": {
@@ -242,22 +212,23 @@
         "monthly": 65996.67,
         "total": 197990,
         "totalConfirmed": false,
-        "evidence": "Product price section shows Koko logos beside 3 X LKR65,996.67.",
+        "evidence": "Target product installment line explicitly shows 3 X LKR 65996.67 with Koko logo.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
         "scope": "product",
-        "checkedAt": "2026-10-19T03:07:21.239Z",
-        "provenance": "Product-page web retrieval; page may be cached",
-        "note": "Advertised installment amount; final selected-warranty price, fees and eligibility still require confirmation.",
-        "selectedVariant": "12GB/256GB; Silver Shadow/Icy Blue/Navy; 1-year software warranty"
+        "checkedAt": "2026-10-20T07:47:05.907Z",
+        "provenance": "Live HTTP target product summary; no checkout performed",
+        "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
+        "selectedVariant": "12GB/256GB; Silver Shadow/Icy Blue/Navy; 1-year software warranty",
+        "fees": null
       },
-      "rank": 7,
+      "rank": 6,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-19T03:02:47.212Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:02:47.212Z",
-        "evidence": "Exact 12GB/256GB Silver Shadow, Icy Blue and Navy variations with one-year software-only warranty explicitly have is_in_stock=true in product variation metadata.",
-        "method": "Live HTTP response; exact product structured metadata",
-        "previousEvidence": "Live browser verification failed or timed out; existing listing retained. Retrieved search-page text may be cached. See previous evidence and last successful date."
+        "checkedAt": "2026-10-20T07:47:05.907Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:05.907Z",
+        "evidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact 12GB/256GB Silver Shadow, Icy Blue and Navy variations with one-year software-only warranty explicitly have is_in_stock=true in product variation metadata."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Selected available variants: one year SOFTWARE ONLY. Hardware and display-line coverage not established.",
@@ -268,7 +239,7 @@
     },
     {
       "id": "appleshop-15plus-256",
-      "rank": 8,
+      "rank": 7,
       "name": "iPhone 15 Plus",
       "seller": "Apple Shop · ikman",
       "storage": "256GB",
@@ -279,11 +250,11 @@
       "firstSeen": "2026-10-18",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-19T03:05:56.510Z",
-        "lastSuccessfulCheckAt": "2026-10-19T03:05:56.510Z",
-        "evidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock.",
-        "method": "Live HTTP response; target ad initialData and description",
-        "previousEvidence": "Accessible target ad; no explicit sold-out status in retrieved content."
+        "checkedAt": "2026-10-20T07:47:06.792Z",
+        "lastSuccessfulCheckAt": "2026-10-20T07:47:06.792Z",
+        "evidence": "Target ad is published with current seller and price; availability is not expressly stated. Published does not guarantee stock.",
+        "method": "Live HTTP; exact product structured metadata or target ad data",
+        "previousEvidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock."
       },
       "koko": {
         "supported": true,
@@ -292,7 +263,7 @@
         "total": null,
         "evidence": "Ad explicitly says KOKO and credit-card payments available, conditions apply.",
         "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
-        "checkedAt": "2026-10-19T03:05:56.510Z",
+        "checkedAt": "2026-10-20T07:47:06.792Z",
         "totalConfirmed": false,
         "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
       },
@@ -540,6 +511,15 @@
           "availabilityText": "&lt;p class=\"stock out-of-stock wd-style-bordered\"&gt;&lt;span&gt;Out of stock&lt;/span&gt;&lt;/p&gt;"
         }
       ]
+    },
+    {
+      "id": "removed-smartdealz-15plus-256-20261020",
+      "name": "iPhone 15 Plus 256GB · Smart Dealz Lanka · ikman",
+      "status": "deleted_or_expired",
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227",
+      "checkedAt": "2026-10-20T07:47:56.660Z",
+      "reason": "Removed listed phone due to unavailable listing: target ad returns HTTP410 Gone twice. No claim of physical stock shortage.",
+      "details": "{\"id\":\"smartdealz-15plus-256\",\"name\":\"iPhone 15 Plus\",\"seller\":\"Smart Dealz Lanka · ikman\",\"storage\":\"256GB\",\"condition\":\"Used\",\"cashPrice\":175000,\"url\":\"https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227\",\"address\":\"Colombo 3; exact shop/unit address to confirm\",\"reason\":\"Apple battery/video value candidate. Ad posted 16 October; battery health, cycles and repairs undisclosed. 60Hz and no dedicated telephoto.\",\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"source\":\"https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-227\",\"checkedAt\":\"2026-10-19T03:05:52.500Z\",\"evidence\":\"Exact target ad payment section explicitly offers Koko three-month installments.\",\"note\":\"Amount and fees not stated; do not assume cash price is the KOKO total.\"},\"rank\":4,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-19T03:05:52.500Z\",\"lastSuccessfulCheckAt\":\"2026-10-19T03:05:52.500Z\",\"evidence\":\"Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock.\",\"method\":\"Live HTTP response; target ad initialData and description\",\"previousEvidence\":\"Live target page opened during this run; advertised offer retained, availability not explicitly stated.\"},\"firstSeen\":\"2026-10-17\",\"warranty\":\"Not confirmed; inspect specific unit\",\"displayCoverage\":\"Not confirmed\",\"testing\":\"Not confirmed; inspect before paying\",\"variant\":\"SIM/region not disclosed\",\"batteryHealth\":null}"
     }
   ]
 }
