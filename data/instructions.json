@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:38:13.342Z",
+  "updatedAt": "2026-10-21T05:17:47.799Z",
   "sections": [
     {
       "id": "stock-policy",
@@ -15,6 +15,11 @@
       "id": "location",
       "title": "Colombo only · confirmed location filter",
       "body": "User explicitly confirmed Colombo and nearby suburbs only; exclude Kandy/Akurana and every other out-of-area seller from the shortlist. Do not show an out-of-area offer as an alternative to buy. Log rejected findings, their source and reason. Original historical logs may retain old source references as audit evidence, never as recommendations. Verify the merchant pickup address; testing permission is a separate unknown until established."
+    },
+    {
+      "id": "marketplace-pagination",
+      "title": "Ikman pages and Facebook Marketplace · added21October",
+      "body": "Browse live Ikman Colombo result pages newest first, preserving the user filters: discovery price ceiling Rs220000;128/256/512GB/1TB. Follow visible Next/page links: at least pages1-5 each daily run unless ended/blocked; continue further when relevant fresh leads warrant it and record exact coverage/stopping reason. This supplements model-specific web searches. A result card is discovery, not verified condition/stock/KOKO. Log every card, including promoted, duplicates, irrelevant, mislabelled and out-of-area results; inspect promising exact ads before listing. The purchase cap remains Rs200000 including known KOKO fees. Rs200001-220000 stays in research as over-budget negotiation leads; never assume a discount. Prefer256GB+,label128GB compromise. Also attempt Facebook Marketplace with Colombo explicitly selected and nearby-only seller locations verified. Public search worked21October2026; individual item details can require login. If blocked, log the actual access limitation and keep new inaccessible leads in research only. Do not bypass login/checkpoints or request/store credentials. Do not contact sellers,Send/Is this available,save/reserve/cart/buy. Publish only public phone-listing facts,never private/account/session information. Keep all existing corrected stock,KOKO,testing and ranking rules."
     },
     {
       "id": "workflow",
