@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:17:47.799Z",
+  "updatedAt": "2026-10-21T05:41:23.880Z",
   "models": [
     {
       "id": "model-1",
@@ -81,6 +81,16 @@
       "platform": "Apple",
       "condition": "Used",
       "mandatory": true
+    },
+    {
+      "id": "model-pixel9a",
+      "priority": 10,
+      "name": "Google Pixel 9a 8/256GB NEW",
+      "platform": "Android",
+      "condition": "New",
+      "mandatory": false,
+      "note": "New140000 cash Colombo shop lead discovered21October. Familiar OS/value alternative; no dedicated telephoto. Google lists5100mAh typical and TensorG4. Not a presumed fix for Pixel7Pro heat,signal or lines; test exact carrier/hotspot/camera workload. Verify local warranty and full KOKO total.",
+      "source": "https://store.google.com/product/pixel_9a_specs?hl=en-US"
     }
   ],
   "secondary": "SECOND SEARCH GROUP - COMPARE IF OFFERS IMPROVE\nXiaomi 15T / 15T Pro; Samsung S25 / S25 FE / S24+ / S25+ and used Ultra;\nNothing Phone (3a) Pro and newer equivalents; used iPhone 14 Plus / 14 Pro Max /\n15 Pro Max; Pixel 9 Pro as a separate alternative. Consider newer Honor, OnePlus,\nvivo, Oppo, Realme GT and POCO models only if camera, OS, warranty and total price\nare competitive. Never let a low gaming price override camera requirements.",
