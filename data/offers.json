@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T08:06:11.730Z",
-  "lastStockAudit": "2026-10-20T08:06:11.730Z",
+  "updatedAt": "2026-10-21T03:18:50.332Z",
+  "lastStockAudit": "2026-10-21T03:18:50.332Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -17,7 +17,7 @@
         "monthly": 51666.67,
         "total": 155000,
         "evidence": "Target product installment line explicitly shows 3 X LKR 51666.67 with Koko logo.",
-        "checkedAt": "2026-10-20T07:47:07.429Z",
+        "checkedAt": "2026-10-21T03:14:11.839Z",
         "totalConfirmed": false,
         "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
@@ -29,11 +29,11 @@
       "rank": 1,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-20T07:47:07.429Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:07.429Z",
+        "checkedAt": "2026-10-21T03:14:11.839Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:11.839Z",
         "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
+        "previousEvidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -56,7 +56,7 @@
         "monthly": 63333.33,
         "total": 190000,
         "evidence": "Target product installment line explicitly shows 3 X LKR 63333.33 with Koko logo.",
-        "checkedAt": "2026-10-20T07:47:07.763Z",
+        "checkedAt": "2026-10-21T03:14:12.196Z",
         "totalConfirmed": false,
         "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
@@ -68,11 +68,11 @@
       "rank": 2,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-20T07:47:07.763Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:07.763Z",
+        "checkedAt": "2026-10-21T03:14:12.196Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:12.196Z",
         "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
+        "previousEvidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -105,19 +105,58 @@
         "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
         "evidence": "Target product installment line explicitly shows 3 X LKR 59996.67 with Koko logo.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
-        "checkedAt": "2026-10-20T07:47:55.332Z",
+        "checkedAt": "2026-10-21T03:14:11.116Z",
         "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-20T07:47:55.332Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:55.332Z",
+        "checkedAt": "2026-10-21T03:14:11.116Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:11.116Z",
         "evidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact Black and Dark Blue 8GB/256GB warranty variants have is_in_stock=true. White and Light Blue explicitly out of stock; excluded colours."
+        "previousEvidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock."
       },
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "usedphones-s24ultra-256",
+      "name": "Samsung Galaxy S24 Ultra",
+      "seller": "Usedphones International Pvt Ltd 2 · ikman",
+      "storage": "12GB / 256GB",
+      "condition": "Used (seller advertised)",
+      "rank": 4,
+      "cashPrice": 189999,
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s24-ultra-dualsim-12-256gb-used-for-sale-colombo-2",
+      "address": "No.107 High Level Road, Pannipitiya 10230",
+      "addressSource": "https://ikman.lk/en/shops/usedphones-international",
+      "firstSeen": "2026-10-21",
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-21T03:16:28.944Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:16:28.944Z",
+        "evidence": "Exact ad is published with seller, Pannipitiya location, storage and advertised cash price. No target-specific stock notice; published listing does not guarantee inventory.",
+        "method": "Live HTTP target ad initialData + exact linked merchant profile"
+      },
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": null,
+        "total": null,
+        "fees": null,
+        "totalConfirmed": false,
+        "source": "https://ikman.lk/en/ad/samsung-galaxy-s24-ultra-dualsim-12-256gb-used-for-sale-colombo-2",
+        "checkedAt": "2026-10-21T03:16:28.944Z",
+        "selectedVariant": "12GB / 256GB; unit only",
+        "evidence": "Exact target ad explicitly states KOKO PAYMENT.",
+        "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
+      },
+      "displayCoverage": "Not stated; obtain written spontaneous display-line/repair terms.",
+      "testing": "Not confirmed; arrange inspection of the exact unit before payment.",
+      "batteryHealth": null,
+      "warranty": "Seller advertises3months SHOP warranty; hardware/battery/display scope not stated.",
+      "variant": "Seller claims Snapdragon, dualSIM and call recording; verify exact regional model, original ROM, SIM and all cameras.",
+      "reason": "Used camera/performance alternative with advertised3months shop warranty. Battery condition, repairs, display cover and testing permission unknown; compare cameras and heat/drain against Pixel. Unit-only189999; fullset195000;25W charger package200000.45W/60W packages203000/205000 exceed cap. KOKO total unknown."
     },
     {
       "id": "green-13r-512",
@@ -134,7 +173,7 @@
         "monthly": 64000,
         "total": 192000,
         "evidence": "Target product installment line explicitly shows 3 X LKR 64000 with Koko logo.",
-        "checkedAt": "2026-10-20T07:47:06.838Z",
+        "checkedAt": "2026-10-21T03:14:11.622Z",
         "totalConfirmed": false,
         "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
@@ -143,20 +182,60 @@
         "fees": null,
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
-      "rank": 4,
+      "rank": 5,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-20T07:47:06.838Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:06.838Z",
+        "checkedAt": "2026-10-21T03:14:11.622Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:11.622Z",
         "evidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact target product JSON-LD Offer explicitly states schema.org/InStock. This is merchant page metadata, not a physical inventory guarantee."
+        "previousEvidence": "Exact product JSON-LD Offer explicitly states schema.org/InStock. Merchant metadata, not physical inventory confirmation."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
       "displayCoverage": "Not confirmed",
       "testing": "Not confirmed; inspect before paying",
       "variant": "Exact region not confirmed"
+    },
+    {
+      "id": "usedphones-15-256",
+      "name": "iPhone 15",
+      "seller": "Usedphones International Pvt Ltd 2 · ikman",
+      "storage": "256GB",
+      "condition": "Used (seller advertised)",
+      "rank": 6,
+      "cashPrice": 179999,
+      "url": "https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-915",
+      "address": "No.107 High Level Road, Pannipitiya 10230",
+      "addressSource": "https://ikman.lk/en/shops/usedphones-international",
+      "firstSeen": "2026-10-21",
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-21T03:14:43.370Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:43.370Z",
+        "evidence": "Exact ad is published with seller, Pannipitiya location, storage and advertised cash price. No target-specific stock notice; published listing does not guarantee inventory.",
+        "method": "Live HTTP target ad initialData + exact linked merchant profile"
+      },
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": null,
+        "total": null,
+        "fees": null,
+        "totalConfirmed": false,
+        "source": "https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-915",
+        "checkedAt": "2026-10-21T03:14:43.370Z",
+        "selectedVariant": "256GB; unit only",
+        "evidence": "Exact target ad explicitly states KOKO PAYMENT.",
+        "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
+      },
+      "displayCoverage": "Not stated; obtain written spontaneous display-line/repair terms.",
+      "testing": "Not confirmed; arrange inspection of the exact unit before payment.",
+      "batteryHealth": 91,
+      "batteryHealthEvidence": "Seller claims91%; not measured or authenticated. Cycle count and parts/repair history undisclosed.",
+      "warranty": "Seller advertises6months SHOP warranty; hardware/battery/display scope and written exclusions unknown.",
+      "variant": "Seller claims ZP/A and5G; confirm on-device model/SIM/region.",
+      "reason": "Seller claims91% battery health and6months shop warranty. Smaller regular15 remains a lower battery-priority choice than a healthy Plus. Header179999 vs body180000 unit-only; cable183000/fullset185000. KOKO fee/total, cycles, repairs and test permission unknown."
     },
     {
       "id": "ps-15-256",
@@ -177,10 +256,10 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 5,
+      "rank": 7,
       "stock": {
         "status": "check_failed",
-        "checkedAt": "2026-10-20T07:47:05.349Z",
+        "checkedAt": "2026-10-21T03:14:10.584Z",
         "evidence": "Current live target check failed with HTTP403. Existing offer retained with stale previous evidence; no new stock/price confirmation.",
         "method": "Live HTTP attempt; target not verified",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
@@ -215,20 +294,20 @@
         "evidence": "Target product installment line explicitly shows 3 X LKR 65996.67 with Koko logo.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-5g-12gb-ram-256gb/",
         "scope": "product",
-        "checkedAt": "2026-10-20T07:47:05.907Z",
+        "checkedAt": "2026-10-21T03:14:11.156Z",
         "provenance": "Live HTTP target product summary; no checkout performed",
         "note": "Advertised plan only; final fees/eligibility unconfirmed; installments can differ by Rs0.01 due to rounding.",
         "selectedVariant": "12GB/256GB; Silver Shadow/Icy Blue/Navy; 1-year software warranty",
         "fees": null
       },
-      "rank": 6,
+      "rank": 8,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-20T07:47:05.907Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:05.907Z",
+        "checkedAt": "2026-10-21T03:14:11.156Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:11.156Z",
         "evidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact 12GB/256GB Silver Shadow, Icy Blue and Navy variations with one-year software-only warranty explicitly have is_in_stock=true in product variation metadata."
+        "previousEvidence": "Exact colour/warranty variants have is_in_stock=true in live product data; only those available variants are included. Other colours may be out of stock."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Selected available variants: one year SOFTWARE ONLY. Hardware and display-line coverage not established.",
@@ -239,7 +318,7 @@
     },
     {
       "id": "appleshop-15plus-256",
-      "rank": 7,
+      "rank": 9,
       "name": "iPhone 15 Plus",
       "seller": "Apple Shop · ikman",
       "storage": "256GB",
@@ -250,11 +329,11 @@
       "firstSeen": "2026-10-18",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-20T07:47:06.792Z",
-        "lastSuccessfulCheckAt": "2026-10-20T07:47:06.792Z",
+        "checkedAt": "2026-10-21T03:14:10.786Z",
+        "lastSuccessfulCheckAt": "2026-10-21T03:14:10.786Z",
         "evidence": "Target ad is published with current seller and price; availability is not expressly stated. Published does not guarantee stock.",
         "method": "Live HTTP; exact product structured metadata or target ad data",
-        "previousEvidence": "Exact ad is published and contains current seller, location and advertised price. No target-specific sold-out notice; published listing does not establish physical stock."
+        "previousEvidence": "Target ad is published with current seller and price; availability is not expressly stated. Published does not guarantee stock."
       },
       "koko": {
         "supported": true,
@@ -263,7 +342,7 @@
         "total": null,
         "evidence": "Ad explicitly says KOKO and credit-card payments available, conditions apply.",
         "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
-        "checkedAt": "2026-10-20T07:47:06.792Z",
+        "checkedAt": "2026-10-21T03:14:10.786Z",
         "totalConfirmed": false,
         "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
       },
