@@ -41856,6 +41856,19 @@
       "title": "Search reference refreshed after expired-ad removals",
       "source": "22October target checks and successful Facebook public-item retry",
       "body": "Pixel9a search target no longer embeds the expired140000 seller quote. Live seller prices remain in offers/history. Facebook access note refreshed: direct public item details were readable after closing a non-binding login overlay; initial timeout recovered. No account/credentials used and no complete Facebook-grid coverage claimed. This reference maintenance does not refresh stock times."
+    },
+    {
+      "id": "publish-20261022-1792656526546",
+      "timestamp": "2026-10-22T08:08:46.546Z",
+      "type": "maintenance",
+      "title": "22 October publication verified",
+      "source": "GitHub Pages build API and live offers JSON",
+      "publication": {
+        "status": "verified",
+        "revision": "4bf310cb3811ee4fa634a9bbc7887833dd79e217",
+        "site": "https://induwarauthsara.github.io/phone-scout/"
+      },
+      "body": "Research revision4bf310cb3811ee4fa634a9bbc7887833dd79e217 built successfully. Live JSON confirms12offers; old PhoneParadiseS25FE168000 and TalkSpotPixel9a140000 HTTP410ads removed. New M TelS25FE168550 rank4,TalkSpotS25FE170000 rank5 and M TelPixel9a147000 rank7 added. These are different merchant ads,not measured price increases on the expired offers. KOKO support explicit,but installment amounts/fees and physical stock not confirmed.11existing offers rechecked;5Ikman pages140cards;28query/page/browser-attempt records;657findings logged. Initial Facebook navigation timed out; one retry and closing a non-binding login overlay exposed public128GB item details. Research-only128GB lead retained; no full Facebook-grid coverage claimed. PresentSolution403still stale with prior successful date. Slow Git push ultimately succeeded; no force push or user action. No seller contacted."
     }
   ]
 }
