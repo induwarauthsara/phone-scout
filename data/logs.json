@@ -55665,6 +55665,21 @@
         "status": "pending",
         "site": "https://induwarauthsara.github.io/phone-scout/"
       }
+    },
+    {
+      "id": "publish-20261025-1792909755772",
+      "timestamp": "2026-10-25T06:29:15.770Z",
+      "type": "publication",
+      "title": "25 October publication verified",
+      "source": "GitHub Pages API and live offers JSON",
+      "outcome": "published_verified",
+      "body": "Research revision a378e097236c5916fd4a5d26dfd67212cde222fe pushed to main. GitHub Pages reports built with no error. Live offers JSON independently verified11ranked entries, PhoneParadiseS25FE165000,TalkSpotS25FE169000,MTelPixel9a148000 and usediPhone15 174999. XMobileS25 over-budget removal confirmed. All25previous log entries preserved. This maintenance entry does not refresh stock timestamps.",
+      "publication": {
+        "status": "verified",
+        "commit": "a378e097236c5916fd4a5d26dfd67212cde222fe",
+        "site": "https://induwarauthsara.github.io/phone-scout/",
+        "verifiedAt": "2026-10-25T06:29:15.770Z"
+      }
     }
   ]
 }
