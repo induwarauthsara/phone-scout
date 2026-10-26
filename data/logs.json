@@ -71588,6 +71588,21 @@
         "status": "pending",
         "site": "https://induwarauthsara.github.io/phone-scout/"
       }
+    },
+    {
+      "id": "publish-20261026-1792985718766",
+      "timestamp": "2026-10-26T03:35:18.765Z",
+      "type": "publication",
+      "title": "26 October publication verified",
+      "source": "GitHub Pages API and independently fetched live offer JSON",
+      "outcome": "published_verified",
+      "body": "Research revision39cb261d48ad7374f8bfb5c5f461300cc60d8326 pushed to main. GitHub Pages reports built without error; live JSON independently confirms M TelS25FE167000 andS25195000.13ranked offers,11previous offers rechecked,167Ikman cards across6pages,21public Facebook cards and one exact item reviewed. All27previous log entries preserved. Maintenance entry does not change stock timestamps.",
+      "publication": {
+        "status": "verified",
+        "commit": "39cb261d48ad7374f8bfb5c5f461300cc60d8326",
+        "site": "https://induwarauthsara.github.io/phone-scout/",
+        "verifiedAt": "2026-10-26T03:35:18.765Z"
+      }
     }
   ]
 }
