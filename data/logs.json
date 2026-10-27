@@ -98770,6 +98770,19 @@
         "status": "pending",
         "site": "https://induwarauthsara.github.io/phone-scout/"
       }
+    },
+    {
+      "id": "facebook-publication-1793080363297",
+      "timestamp": "2026-10-27T05:52:43.296Z",
+      "type": "maintenance",
+      "title": "Facebook finds published and verified",
+      "source": "GitHub Pages and live public JSON",
+      "body": "Published research revision a53e965c8cd30a25217f9178e222df192f033afc to main. GitHub Pages reports built with no error; independent live offers.json confirms 14 inspected Facebook ads and 119 encountered result cards. Browser checks passed: KOKO filter 2 ads; KOKO plus asking-price cap 1 ad; nearby-area filter 3 ads; Redmi search 1 ad. Existing 31 historical log entries preserved; selected HONOR bundle and previous successful evidence on blocked listing preserved. No seller contacted. Public page: https://induwarauthsara.github.io/phone-scout/#facebook",
+      "publication": {
+        "status": "verified",
+        "commit": "a53e965c8cd30a25217f9178e222df192f033afc",
+        "url": "https://induwarauthsara.github.io/phone-scout/#facebook"
+      }
     }
   ]
 }
