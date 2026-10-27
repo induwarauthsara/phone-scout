@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T03:33:40.969Z",
-  "lastStockAudit": "2026-10-26T03:33:40.969Z",
+  "updatedAt": "2026-10-27T04:59:34.295Z",
+  "lastStockAudit": "2026-10-27T04:59:34.295Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -17,7 +17,7 @@
         "monthly": 51666.67,
         "total": 155000,
         "evidence": "Primary exact product line:3X LKR51666.67 with Koko logo. Advertised, not guaranteed checkout total.",
-        "checkedAt": "2026-10-26T03:21:17.893Z",
+        "checkedAt": "2026-10-27T04:16:29.648Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
@@ -29,8 +29,8 @@
       "rank": 1,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-26T03:21:17.893Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:17.893Z",
+        "checkedAt": "2026-10-27T04:16:29.648Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:16:29.648Z",
         "evidence": "Exact target JSON-LD Offer explicitly states schema.org/InStock; merchant metadata, not physical guarantee.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -55,7 +55,7 @@
         "monthly": 63333.33,
         "total": 190000,
         "evidence": "Primary exact product line:3X LKR63333.33 with Koko logo. Advertised, not guaranteed checkout total.",
-        "checkedAt": "2026-10-26T03:21:17.899Z",
+        "checkedAt": "2026-10-27T04:16:29.599Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
@@ -67,8 +67,8 @@
       "rank": 2,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-26T03:21:17.899Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:17.899Z",
+        "checkedAt": "2026-10-27T04:16:29.599Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:16:29.599Z",
         "evidence": "Exact target JSON-LD Offer explicitly states schema.org/InStock; merchant metadata, not physical guarantee.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -103,35 +103,35 @@
         "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
         "evidence": "Primary exact product line:3X LKR59996.67 with Koko logo. Advertised, not guaranteed checkout total.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
-        "checkedAt": "2026-10-26T03:21:17.278Z",
+        "checkedAt": "2026-10-27T04:16:28.562Z",
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-26T03:21:17.278Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:17.278Z",
+        "checkedAt": "2026-10-27T04:16:28.562Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:16:28.562Z",
         "evidence": "Exact selected available colour/warranty variants have is_in_stock=true. Other colours may be unavailable.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "mtel-s25fe-256",
+      "id": "phoneparadise-s25fe-256",
       "name": "Samsung Galaxy S25 FE",
-      "seller": "M Tel | ikman",
+      "seller": "Phone Paradise | ikman",
       "storage": "8GB / 256GB",
       "condition": "New (seller advertised)",
-      "cashPrice": 167000,
-      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1311",
-      "address": "No.250/41, Ground Floor, Liberty Plaza, Colombo03",
-      "firstSeen": "2026-10-26",
+      "cashPrice": 165000,
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1313",
+      "address": "No.40, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03",
+      "firstSeen": "2026-10-27",
       "rank": 4,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:23:33.847Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:23:33.847Z",
-        "evidence": "Exact live published ad; no explicit target sold-out notice. Physical inventory not confirmed.",
+        "checkedAt": "2026-10-27T04:20:44.422Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:20:44.422Z",
+        "evidence": "Exact live ad is published; no explicit target sold-out wording. Physical inventory not confirmed.",
         "method": "Live HTTP exact ad metadata"
       },
       "koko": {
@@ -141,35 +141,35 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-26T03:23:33.847Z",
-        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1311",
-        "evidence": "Exact product ad explicitly offers KOKO Payment (T&C apply).",
+        "checkedAt": "2026-10-27T04:20:44.422Z",
+        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1313",
+        "evidence": "Exact product ad explicitly offers KOKO payment.",
         "selectedVariant": "8GB / 256GB",
-        "note": "Cash advertised price; obtain final KOKO quote including fees within200000."
+        "note": "Advertised cash quote is not final KOKO total. Require all-in quote <=200000 including fees."
       },
-      "warranty": "Seller advertises1year warranty; issuer, hardware,battery and display-line scope not stated.",
+      "warranty": "Not specified in exact ad; obtain written local hardware,battery/display terms.",
       "displayCoverage": "Not stated; obtain written local display-line coverage.",
       "testing": "Not stated; confirm permission to test exact unit before payment.",
-      "variant": "Storage/model stated; exact colour,regional model and selected warranty scope unknown. Seller generic battery attributes are not accepted as manufacturer specifications.",
-      "reason": "New local option, separate from expired168550 ad. Costs2000 more than PhoneParadise165000 but includes a one-year warranty claim; scope unconfirmed. XMobile retains stronger stated hardware coverage. No6-9h80%-20% endurance established."
+      "variant": "Storage/model advertised; exact colour,regional model and warranty scope need confirmation.",
+      "reason": "Fresh replacement URL after old165000 ad returnedHTTP410. Same advertised cash price is not proof of the same unit. Cheaper than M Tel, but written warranty unknown. XMobile retains stronger stated hardware coverage."
     },
     {
-      "id": "phoneparadise-s25fe-256",
+      "id": "mtel-s25fe-256",
       "name": "Samsung Galaxy S25 FE",
-      "seller": "Phone Paradise | ikman",
+      "seller": "M Tel | ikman",
       "storage": "8GB / 256GB",
       "condition": "New (seller advertised)",
-      "cashPrice": 165000,
-      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1309",
-      "address": "No.40, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03",
-      "firstSeen": "2026-10-25",
+      "cashPrice": 172500,
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1314",
+      "address": "No.250/41, Ground Floor, Liberty Plaza, Colombo03",
+      "firstSeen": "2026-10-27",
       "rank": 5,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:18.265Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:18.265Z",
-        "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
-        "method": "Live HTTP exact target product/variant/ad metadata"
+        "checkedAt": "2026-10-27T04:20:44.519Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:20:44.519Z",
+        "evidence": "Exact live ad is published; no explicit target sold-out wording. Physical inventory not confirmed.",
+        "method": "Live HTTP exact ad metadata"
       },
       "koko": {
         "supported": true,
@@ -178,54 +178,17 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-26T03:21:18.265Z",
-        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1309",
-        "evidence": "Exact ad explicitly lists KOKO payments.",
+        "checkedAt": "2026-10-27T04:20:44.519Z",
+        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1314",
+        "evidence": "Exact product ad explicitly offers KOKO payment.",
         "selectedVariant": "8GB / 256GB",
-        "note": "Advertised cash price is not the final KOKO total. Require all-in quote <=200000."
+        "note": "Advertised cash quote is not final KOKO total. Require all-in quote <=200000 including fees."
       },
-      "displayCoverage": "Not stated; written display-line warranty required.",
-      "testing": "Not confirmed; obtain permission to test exact unit before paying.",
-      "warranty": "Not specified in exact ad; require written local hardware, battery and display terms.",
-      "variant": "8GB/256GB dualSIM; colour and regional model not established.",
-      "reason": "Fresh Phone Paradise ad; separate from expired M Tel offer. Lower cash cost, but warranty and final KOKO amount unconfirmed. XMobile remains higher for stated hardware warranty."
-    },
-    {
-      "id": "talkspot-s25fe-256",
-      "name": "Samsung Galaxy S25 FE",
-      "seller": "The Talk Spot · ikman",
-      "storage": "8GB / 256GB",
-      "condition": "New (seller advertised)",
-      "cashPrice": 169000,
-      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8-256gb-brand-new-for-sale-colombo-440",
-      "address": "No.250/21, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03",
-      "firstSeen": "2026-10-25",
-      "rank": 6,
-      "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:19.239Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:19.239Z",
-        "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
-        "method": "Live HTTP exact target product/variant/ad metadata"
-      },
-      "koko": {
-        "supported": true,
-        "scope": "product",
-        "monthly": null,
-        "total": null,
-        "fees": null,
-        "totalConfirmed": false,
-        "checkedAt": "2026-10-26T03:21:19.239Z",
-        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8-256gb-brand-new-for-sale-colombo-440",
-        "evidence": "Exact ad explicitly lists KOKO payments.",
-        "selectedVariant": "8GB / 256GB",
-        "note": "Advertised cash price is not the final KOKO total. Require all-in quote <=200000."
-      },
-      "displayCoverage": "Not stated; written display-line warranty required.",
-      "testing": "Not confirmed; obtain permission to test exact unit before paying.",
-      "warranty": "Seller advertises1year warranty; issuer and hardware/display/battery terms not specified.",
-      "variant": "Seller calls it International Version; exact regional model/colour unknown.",
-      "reason": "New TalkSpot listing at169000, compared with expired170000 URL. Different ad/unit; not a verified same-unit price cut. One-year warranty claim has unconfirmed scope."
+      "warranty": "Seller advertises1year warranty; issuer and hardware,battery/display scope unknown.",
+      "displayCoverage": "Not stated; obtain written local display-line coverage.",
+      "testing": "Not stated; confirm permission to test exact unit before payment.",
+      "variant": "Storage/model advertised; exact colour,regional model and warranty scope need confirmation.",
+      "reason": "Fresh ad after167000 URL expired;5500 higher advertised price on a separate listing, not established same-unit increase. One-year warranty scope unknown;165000 PhoneParadise now ranks ahead on cash value despite unknown coverage."
     },
     {
       "id": "usedphones-s24ultra-256",
@@ -233,7 +196,7 @@
       "seller": "Usedphones International Pvt Ltd 2 · ikman",
       "storage": "12GB / 256GB",
       "condition": "Used (seller advertised)",
-      "rank": 7,
+      "rank": 6,
       "cashPrice": 189999,
       "url": "https://ikman.lk/en/ad/samsung-galaxy-s24-ultra-dualsim-12-256gb-used-for-sale-colombo-2",
       "address": "No.107 High Level Road, Pannipitiya 10230",
@@ -241,8 +204,8 @@
       "firstSeen": "2026-10-21",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:19.257Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:19.257Z",
+        "checkedAt": "2026-10-27T04:20:15.031Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:20:15.031Z",
         "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -254,7 +217,7 @@
         "fees": null,
         "totalConfirmed": false,
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s24-ultra-dualsim-12-256gb-used-for-sale-colombo-2",
-        "checkedAt": "2026-10-26T03:21:19.257Z",
+        "checkedAt": "2026-10-27T04:20:15.031Z",
         "selectedVariant": "12GB / 256GB; unit only",
         "evidence": "Exact target ad explicitly states KOKO PAYMENT.",
         "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
@@ -265,6 +228,45 @@
       "warranty": "Seller advertises3months SHOP warranty; hardware/battery/display scope not stated.",
       "variant": "Seller claims Snapdragon, dualSIM and call recording; verify exact regional model, original ROM, SIM and all cameras.",
       "reason": "Used camera/performance alternative with advertised3months shop warranty. Battery condition, repairs, display cover and testing permission unknown; compare cameras and heat/drain against Pixel. Unit-only189999; fullset195000;25W charger package200000.45W/60W packages203000/205000 exceed cap. KOKO total unknown."
+    },
+    {
+      "id": "phonecity-honor400-256",
+      "name": "HONOR 400",
+      "seller": "Phone City | ikman",
+      "storage": "12GB / 256GB",
+      "condition": "New (seller advertised)",
+      "cashPrice": 149900,
+      "url": "https://ikman.lk/en/ad/honor-400-5g-12gb-ram-200mp-brand-new-for-sale-colombo-5",
+      "address": "No.10B, Athurugiriya Road, Kottawa",
+      "firstSeen": "2026-10-27",
+      "rank": 7,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-27T04:20:12.280Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:20:12.280Z",
+        "evidence": "Exact live ad is published; no explicit target sold-out wording. Physical inventory not confirmed.",
+        "method": "Live HTTP exact ad metadata"
+      },
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": null,
+        "total": null,
+        "fees": null,
+        "totalConfirmed": false,
+        "checkedAt": "2026-10-27T04:20:12.280Z",
+        "source": "https://ikman.lk/en/ad/honor-400-5g-12gb-ram-200mp-brand-new-for-sale-colombo-5",
+        "evidence": "Exact product ad explicitly offers KOKO payment.",
+        "selectedVariant": "12GB / 256GB",
+        "note": "Advertised cash quote is not final KOKO total. Require all-in quote <=200000 including fees."
+      },
+      "warranty": "Seller claims1year Singer company warranty and TRCSL approval; verify authorised invoice,service issuer and exact coverage. Display-line coverage not established.",
+      "displayCoverage": "Not stated; obtain written local display-line coverage.",
+      "testing": "Not stated; confirm permission to test exact unit before payment.",
+      "variant": "New12GB/256GB with Honor earbuds;149900 explicit body quote. Colour unknown. Verify6000mAh local regional unit and final invoice.",
+      "reason": "Budget battery/warranty alternative, distinct from400Pro. Choose the explicit149900 bundle with Honor earbuds. Header146990 differs from body146900 without earbuds; neither is treated as the selected bundle quote. HONOR LK lists6000mAh typical; manufacturer SG lists Snapdragon7Gen3,200MPmain+12MPultrawide, no dedicated telephoto. Camera zoom/performance/OS are tradeoffs against Pixel7Pro and flagship alternatives; compare exact photos. Warranty and TRCSL are seller claims.6-9h80%-20% not established.",
+      "specificationSource": "https://www.honor.com/lk/phones/honor-400/",
+      "cameraSource": "https://www.honor.com/sg/phones/honor-400/spec/"
     },
     {
       "id": "mtel-pixel9a-256",
@@ -279,8 +281,8 @@
       "rank": 8,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:19.280Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:19.280Z",
+        "checkedAt": "2026-10-27T04:16:41.886Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:16:41.886Z",
         "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -291,7 +293,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-26T03:21:19.280Z",
+        "checkedAt": "2026-10-27T04:16:41.886Z",
         "source": "https://ikman.lk/en/ad/google-pixel-9a-256gb-brand-new-for-sale-colombo-386",
         "evidence": "Exact ad explicitly lists KOKO payments.",
         "selectedVariant": "8GB / 256GB",
@@ -319,7 +321,7 @@
         "monthly": 64000,
         "total": 192000,
         "evidence": "Primary exact product line:3X LKR64000 with Koko logo. Advertised, not guaranteed checkout total.",
-        "checkedAt": "2026-10-26T03:21:17.787Z",
+        "checkedAt": "2026-10-27T04:16:43.486Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
@@ -331,8 +333,8 @@
       "rank": 9,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-26T03:21:17.787Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:17.787Z",
+        "checkedAt": "2026-10-27T04:16:43.486Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:16:43.486Z",
         "evidence": "Exact target JSON-LD Offer explicitly states schema.org/InStock; merchant metadata, not physical guarantee.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -356,8 +358,8 @@
       "firstSeen": "2026-10-21",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:19.835Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:19.835Z",
+        "checkedAt": "2026-10-27T04:18:39.488Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:18:39.488Z",
         "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -369,7 +371,7 @@
         "fees": null,
         "totalConfirmed": false,
         "source": "https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-562",
-        "checkedAt": "2026-10-26T03:21:19.835Z",
+        "checkedAt": "2026-10-27T04:18:39.488Z",
         "selectedVariant": "256GB; unit only",
         "evidence": "Exact target ad explicitly states KOKO PAYMENT.",
         "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
@@ -404,7 +406,7 @@
       "rank": 11,
       "stock": {
         "status": "check_failed",
-        "checkedAt": "2026-10-26T03:21:16.867Z",
+        "checkedAt": "2026-10-27T04:16:53.726Z",
         "evidence": "Current exact-page check failed (HTTP403). Previous successful evidence/date retained; displayed price and stock are stale.",
         "method": "Live HTTP failed target attempt",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
@@ -422,21 +424,21 @@
       "addressSource": "https://presentsolution.lk/privacy-policy/"
     },
     {
-      "id": "mtel-s25-256",
+      "id": "phoneparadise-s25-256",
       "name": "Samsung Galaxy S25",
-      "seller": "M Tel | ikman",
+      "seller": "Phone Paradise | ikman",
       "storage": "12GB / 256GB",
       "condition": "New (seller advertised)",
-      "cashPrice": 195000,
-      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1417",
-      "address": "No.250/41, Ground Floor, Liberty Plaza, Colombo03",
-      "firstSeen": "2026-10-26",
+      "cashPrice": 194900,
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1419",
+      "address": "No.40, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03",
+      "firstSeen": "2026-10-27",
       "rank": 12,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:23:34.037Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:23:34.037Z",
-        "evidence": "Exact live published ad; no explicit target sold-out notice. Physical inventory not confirmed.",
+        "checkedAt": "2026-10-27T04:22:05.474Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:22:05.474Z",
+        "evidence": "Exact live ad is published; no explicit target sold-out wording. Physical inventory not confirmed.",
         "method": "Live HTTP exact ad metadata"
       },
       "koko": {
@@ -446,21 +448,58 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-26T03:23:34.037Z",
-        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1417",
-        "evidence": "Exact product ad explicitly offers KOKO Payment (T&C apply).",
+        "checkedAt": "2026-10-27T04:22:05.474Z",
+        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1419",
+        "evidence": "Exact product ad explicitly offers KOKO payment.",
         "selectedVariant": "12GB / 256GB",
-        "note": "Cash advertised price; obtain final KOKO quote including fees within200000."
+        "note": "Advertised cash quote is not final KOKO total. Require all-in quote <=200000 including fees."
       },
-      "warranty": "Seller advertises1year warranty; issuer, hardware,battery and display-line scope not stated.",
+      "warranty": "Not specified in exact ad; obtain written local hardware,battery/display terms.",
       "displayCoverage": "Not stated; obtain written local display-line coverage.",
       "testing": "Not stated; confirm permission to test exact unit before payment.",
-      "variant": "Storage/model stated; exact colour,regional model and selected warranty scope unknown. Seller generic battery attributes are not accepted as manufacturer specifications.",
-      "reason": "New merchant alternative within cash cap after XMobile202990 was excluded. Compact model has lower battery suitability for all-day hotspot/camera use than the top battery-focused candidates. Generic seller5000mAh attribute is unverified; do not use it as a model specification. KOKO fees could exceed the5000 budget headroom; require final quote."
+      "variant": "Storage/model advertised; exact colour,regional model and warranty scope need confirmation.",
+      "reason": "Lower-cost compact S25 alternative; unknown warranty and only5100 headroom for KOKO fees. Compact battery fit remains weaker for all-day hotspot/camera workload; no6-9h80%-20% guarantee."
+    },
+    {
+      "id": "mtel-s25-256",
+      "name": "Samsung Galaxy S25",
+      "seller": "M Tel | ikman",
+      "storage": "12GB / 256GB",
+      "condition": "New (seller advertised)",
+      "cashPrice": 197990,
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1420",
+      "address": "No.250/41, Ground Floor, Liberty Plaza, Colombo03",
+      "firstSeen": "2026-10-27",
+      "rank": 13,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-10-27T04:22:04.304Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:22:04.304Z",
+        "evidence": "Exact live ad is published; no explicit target sold-out wording. Physical inventory not confirmed.",
+        "method": "Live HTTP exact ad metadata"
+      },
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": null,
+        "total": null,
+        "fees": null,
+        "totalConfirmed": false,
+        "checkedAt": "2026-10-27T04:22:04.304Z",
+        "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1420",
+        "evidence": "Exact product ad explicitly offers KOKO payment.",
+        "selectedVariant": "12GB / 256GB",
+        "note": "Advertised cash quote is not final KOKO total. Require all-in quote <=200000 including fees."
+      },
+      "warranty": "Seller advertises1year warranty; issuer and hardware,battery/display scope unknown.",
+      "displayCoverage": "Not stated; obtain written local display-line coverage.",
+      "testing": "Not stated; confirm permission to test exact unit before payment.",
+      "variant": "Storage/model advertised; exact colour,regional model and warranty scope need confirmation.",
+      "reason": "Fresh ad after195000 URL expired;2990 more for a separate advertised listing. Only2010 headroom for unknown KOKO fees. One-year warranty scope unknown; compact battery is a workload compromise."
     },
     {
       "id": "appleshop-15plus-256",
-      "rank": 13,
+      "rank": 14,
       "name": "iPhone 15 Plus",
       "seller": "Apple Shop · ikman",
       "storage": "256GB",
@@ -471,8 +510,8 @@
       "firstSeen": "2026-10-18",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-26T03:21:19.458Z",
-        "lastSuccessfulCheckAt": "2026-10-26T03:21:19.458Z",
+        "checkedAt": "2026-10-27T04:18:40.630Z",
+        "lastSuccessfulCheckAt": "2026-10-27T04:18:40.630Z",
         "evidence": "Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.",
         "method": "Live HTTP exact target product/variant/ad metadata"
       },
@@ -483,7 +522,7 @@
         "total": null,
         "evidence": "Ad explicitly says KOKO and credit-card payments available, conditions apply.",
         "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
-        "checkedAt": "2026-10-26T03:21:19.458Z",
+        "checkedAt": "2026-10-27T04:18:40.630Z",
         "totalConfirmed": false,
         "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
       },
@@ -803,6 +842,42 @@
       "checkedAt": "2026-10-25T06:23:23.145Z",
       "reason": "Same seller/model/storage/condition has a lower inspected advertised alternative; old URL remains live, not sold out.",
       "details": "{\"id\":\"usedphones-15-256\",\"name\":\"iPhone 15\",\"seller\":\"Usedphones International Pvt Ltd 2 · ikman\",\"storage\":\"256GB\",\"condition\":\"Used (seller advertised)\",\"rank\":9,\"cashPrice\":179999,\"url\":\"https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-915\",\"address\":\"No.107 High Level Road, Pannipitiya 10230\",\"addressSource\":\"https://ikman.lk/en/shops/usedphones-international\",\"firstSeen\":\"2026-10-21\",\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-25T06:20:53.477Z\",\"lastSuccessfulCheckAt\":\"2026-10-25T06:20:53.477Z\",\"evidence\":\"Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.\",\"method\":\"Live HTTP exact target product/variant/ad metadata\"},\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"source\":\"https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-915\",\"checkedAt\":\"2026-10-25T06:20:53.477Z\",\"selectedVariant\":\"256GB; unit only\",\"evidence\":\"Exact target ad explicitly states KOKO PAYMENT.\",\"note\":\"No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying.\"},\"displayCoverage\":\"Not stated; obtain written spontaneous display-line/repair terms.\",\"testing\":\"Not confirmed; arrange inspection of the exact unit before payment.\",\"batteryHealth\":91,\"batteryHealthEvidence\":\"Seller claims91%; not measured or authenticated. Cycle count and parts/repair history undisclosed.\",\"warranty\":\"Seller advertises6months SHOP warranty; hardware/battery/display scope and written exclusions unknown.\",\"variant\":\"Seller claims ZP/A and5G; confirm on-device model/SIM/region.\",\"reason\":\"Seller claims91% battery health and6months shop warranty. Smaller regular15 remains a lower battery-priority choice than a healthy Plus. Header179999 vs body180000 unit-only; cable183000/fullset185000. KOKO fee/total, cycles, repairs and test permission unknown.\"}"
+    },
+    {
+      "id": "archive-mtel-s25fe-256-1793077174302",
+      "name": "Samsung Galaxy S25 FE 8GB / 256GB | M Tel | ikman",
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1311",
+      "status": "deleted_or_expired",
+      "checkedAt": "2026-10-27T04:16:41.178Z",
+      "reason": "Removed: exact URL now HTTP410 Gone; not an inferred physical stock shortage.",
+      "details": "{\"id\":\"mtel-s25fe-256\",\"name\":\"Samsung Galaxy S25 FE\",\"seller\":\"M Tel | ikman\",\"storage\":\"8GB / 256GB\",\"condition\":\"New (seller advertised)\",\"cashPrice\":167000,\"url\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1311\",\"address\":\"No.250/41, Ground Floor, Liberty Plaza, Colombo03\",\"firstSeen\":\"2026-10-26\",\"rank\":4,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-26T03:23:33.847Z\",\"lastSuccessfulCheckAt\":\"2026-10-26T03:23:33.847Z\",\"evidence\":\"Exact live published ad; no explicit target sold-out notice. Physical inventory not confirmed.\",\"method\":\"Live HTTP exact ad metadata\"},\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"checkedAt\":\"2026-10-26T03:23:33.847Z\",\"source\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1311\",\"evidence\":\"Exact product ad explicitly offers KOKO Payment (T&C apply).\",\"selectedVariant\":\"8GB / 256GB\",\"note\":\"Cash advertised price; obtain final KOKO quote including fees within200000.\"},\"warranty\":\"Seller advertises1year warranty; issuer, hardware,battery and display-line scope not stated.\",\"displayCoverage\":\"Not stated; obtain written local display-line coverage.\",\"testing\":\"Not stated; confirm permission to test exact unit before payment.\",\"variant\":\"Storage/model stated; exact colour,regional model and selected warranty scope unknown. Seller generic battery attributes are not accepted as manufacturer specifications.\",\"reason\":\"New local option, separate from expired168550 ad. Costs2000 more than PhoneParadise165000 but includes a one-year warranty claim; scope unconfirmed. XMobile retains stronger stated hardware coverage. No6-9h80%-20% endurance established.\"}"
+    },
+    {
+      "id": "archive-phoneparadise-s25fe-256-1793077174302",
+      "name": "Samsung Galaxy S25 FE 8GB / 256GB | Phone Paradise | ikman",
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1309",
+      "status": "deleted_or_expired",
+      "checkedAt": "2026-10-27T04:16:30.445Z",
+      "reason": "Removed: exact URL now HTTP410 Gone; not an inferred physical stock shortage.",
+      "details": "{\"id\":\"phoneparadise-s25fe-256\",\"name\":\"Samsung Galaxy S25 FE\",\"seller\":\"Phone Paradise | ikman\",\"storage\":\"8GB / 256GB\",\"condition\":\"New (seller advertised)\",\"cashPrice\":165000,\"url\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1309\",\"address\":\"No.40, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03\",\"firstSeen\":\"2026-10-25\",\"rank\":5,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-26T03:21:18.265Z\",\"lastSuccessfulCheckAt\":\"2026-10-26T03:21:18.265Z\",\"evidence\":\"Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.\",\"method\":\"Live HTTP exact target product/variant/ad metadata\"},\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"checkedAt\":\"2026-10-26T03:21:18.265Z\",\"source\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1309\",\"evidence\":\"Exact ad explicitly lists KOKO payments.\",\"selectedVariant\":\"8GB / 256GB\",\"note\":\"Advertised cash price is not the final KOKO total. Require all-in quote <=200000.\"},\"displayCoverage\":\"Not stated; written display-line warranty required.\",\"testing\":\"Not confirmed; obtain permission to test exact unit before paying.\",\"warranty\":\"Not specified in exact ad; require written local hardware, battery and display terms.\",\"variant\":\"8GB/256GB dualSIM; colour and regional model not established.\",\"reason\":\"Fresh Phone Paradise ad; separate from expired M Tel offer. Lower cash cost, but warranty and final KOKO amount unconfirmed. XMobile remains higher for stated hardware warranty.\"}"
+    },
+    {
+      "id": "archive-talkspot-s25fe-256-1793077174302",
+      "name": "Samsung Galaxy S25 FE 8GB / 256GB | The Talk Spot · ikman",
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8-256gb-brand-new-for-sale-colombo-440",
+      "status": "deleted_or_expired",
+      "checkedAt": "2026-10-27T04:16:30.407Z",
+      "reason": "Removed: exact URL now HTTP410 Gone; not an inferred physical stock shortage.",
+      "details": "{\"id\":\"talkspot-s25fe-256\",\"name\":\"Samsung Galaxy S25 FE\",\"seller\":\"The Talk Spot · ikman\",\"storage\":\"8GB / 256GB\",\"condition\":\"New (seller advertised)\",\"cashPrice\":169000,\"url\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8-256gb-brand-new-for-sale-colombo-440\",\"address\":\"No.250/21, Ground Floor, Liberty Plaza, Kollupitiya, Colombo03\",\"firstSeen\":\"2026-10-25\",\"rank\":6,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-26T03:21:19.239Z\",\"lastSuccessfulCheckAt\":\"2026-10-26T03:21:19.239Z\",\"evidence\":\"Live relevant ad/page has no target-specific sold-out wording; inventory not confirmed.\",\"method\":\"Live HTTP exact target product/variant/ad metadata\"},\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"checkedAt\":\"2026-10-26T03:21:19.239Z\",\"source\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8-256gb-brand-new-for-sale-colombo-440\",\"evidence\":\"Exact ad explicitly lists KOKO payments.\",\"selectedVariant\":\"8GB / 256GB\",\"note\":\"Advertised cash price is not the final KOKO total. Require all-in quote <=200000.\"},\"displayCoverage\":\"Not stated; written display-line warranty required.\",\"testing\":\"Not confirmed; obtain permission to test exact unit before paying.\",\"warranty\":\"Seller advertises1year warranty; issuer and hardware/display/battery terms not specified.\",\"variant\":\"Seller calls it International Version; exact regional model/colour unknown.\",\"reason\":\"New TalkSpot listing at169000, compared with expired170000 URL. Different ad/unit; not a verified same-unit price cut. One-year warranty claim has unconfirmed scope.\"}"
+    },
+    {
+      "id": "archive-mtel-s25-256-1793077174303",
+      "name": "Samsung Galaxy S25 12GB / 256GB | M Tel | ikman",
+      "url": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1417",
+      "status": "deleted_or_expired",
+      "checkedAt": "2026-10-27T04:16:53.799Z",
+      "reason": "Removed: exact URL now HTTP410 Gone; not an inferred physical stock shortage.",
+      "details": "{\"id\":\"mtel-s25-256\",\"name\":\"Samsung Galaxy S25\",\"seller\":\"M Tel | ikman\",\"storage\":\"12GB / 256GB\",\"condition\":\"New (seller advertised)\",\"cashPrice\":195000,\"url\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1417\",\"address\":\"No.250/41, Ground Floor, Liberty Plaza, Colombo03\",\"firstSeen\":\"2026-10-26\",\"rank\":12,\"stock\":{\"status\":\"not_stated\",\"checkedAt\":\"2026-10-26T03:23:34.037Z\",\"lastSuccessfulCheckAt\":\"2026-10-26T03:23:34.037Z\",\"evidence\":\"Exact live published ad; no explicit target sold-out notice. Physical inventory not confirmed.\",\"method\":\"Live HTTP exact ad metadata\"},\"koko\":{\"supported\":true,\"scope\":\"product\",\"monthly\":null,\"total\":null,\"fees\":null,\"totalConfirmed\":false,\"checkedAt\":\"2026-10-26T03:23:34.037Z\",\"source\":\"https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1417\",\"evidence\":\"Exact product ad explicitly offers KOKO Payment (T&C apply).\",\"selectedVariant\":\"12GB / 256GB\",\"note\":\"Cash advertised price; obtain final KOKO quote including fees within200000.\"},\"warranty\":\"Seller advertises1year warranty; issuer, hardware,battery and display-line scope not stated.\",\"displayCoverage\":\"Not stated; obtain written local display-line coverage.\",\"testing\":\"Not stated; confirm permission to test exact unit before payment.\",\"variant\":\"Storage/model stated; exact colour,regional model and selected warranty scope unknown. Seller generic battery attributes are not accepted as manufacturer specifications.\",\"reason\":\"New merchant alternative within cash cap after XMobile202990 was excluded. Compact model has lower battery suitability for all-day hotspot/camera use than the top battery-focused candidates. Generic seller5000mAh attribute is unverified; do not use it as a model specification. KOKO fees could exceed the5000 budget headroom; require final quote.\"}"
     }
   ]
 }
