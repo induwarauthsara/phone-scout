@@ -3,3 +3,6 @@
 
 
 .payment-block{margin:16px 0;padding:15px;background:#f6f3fa;border-radius:9px}.pill.koko{background:#e9def9;color:#603298;font-weight:650}.koko-plan{font-size:20px;font-weight:600;letter-spacing:-.4px;margin:8px 0 2px}.payment-block .small{margin-top:6px}.panel h3{margin-top:15px}
+
+/* Data-driven Facebook research view */
+.pill.danger{background:#fbe5df;color:#9b3326}.fb-risk{padding:13px;margin:14px 0;background:#f5f3ee;border-left:3px solid #b4aa8c;border-radius:4px;font-size:12px}.fb-risk a,.risk-notes a{display:inline-block;margin:3px 12px 3px 0}.risk-notes{padding:0 22px 20px}.risk-notes section{margin:18px 0}.fb-card details{margin:14px 0}.fb-card summary{cursor:pointer;font-size:12px;color:var(--green)}.fb-card>.text-link{display:inline-block;margin-top:8px}.fb-card .small strong{color:var(--ink)}

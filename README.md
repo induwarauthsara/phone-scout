@@ -6,7 +6,7 @@ GitHub Pages serves the root of `main`. The daily Codex search commits and pushe
 updated JSON and its generated data bundle. Repository content, preferences and
 research logs are public, as approved by the owner. Publication failures are logged.
 
-Open **index.html** in a browser. The four linked views are Offers, Phone targets,
+Open **index.html** in a browser. The five linked views are Store offers, Facebook finds, Phone targets,
 Instructions and Activity. No installation or internet is required to view saved data.
 
 ## Data files
@@ -46,3 +46,12 @@ without modifying existing ones. Explicit sold-out/out-of-area offers belong in 
 in the current shortlist. Keep source evidence and previous prices.
 
 Availability status can be in_stock, low_stock, not_stated or check_failed. Missing a stock badge is not a removal reason. Recheck all listed offers every run; retain blocked existing entries with a stale warning. KOKO: supported=true only with explicit product or merchant evidence (scope labelled), null=not stated, false=explicitly not supported. Store monthly, total, evidence, source and checkedAt. Log every search query and finding, including rejected results, in queries[] and findings[] plus readable body.
+
+## Facebook research
+
+`data/offers.json` also contains `facebook.items` (inspected ads), `facebook.results`
+(all encountered cards), `facebook.queries` and `facebook.riskNotes` with source links.
+The linked Facebook finds view filters area, asking price, KOKO, warranty and assessment.
+These research leads include rejected and over-budget ads, clearly labelled; they are
+separate from the active store shortlist. Seller warranty and condition claims remain
+unverified until the specific handset, invoice and local cover are checked.
