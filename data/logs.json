@@ -93454,6 +93454,21 @@
         "status": "pending",
         "site": "https://induwarauthsara.github.io/phone-scout/"
       }
+    },
+    {
+      "id": "publish-20261027-1793077260495",
+      "timestamp": "2026-10-27T05:01:00.494Z",
+      "type": "publication",
+      "title": "27 October publication verified",
+      "source": "GitHub Pages API and independent live offer JSON",
+      "outcome": "published_verified",
+      "body": "Research revision7b06ecbcba541694c935a18241716c683176cf71 pushed to main. GitHub Pages reports built without error. Live JSON confirms14offers including HONOR40012/256+earbuds149900,PhoneParadiseS25FE165000,MTelS25FE172500,PhoneParadiseS25194900 andMTelS25197990. Four expired URLs archived; final KOKO totals unknown for new ads. Six chronological pages and five live model searches captured249cards;21public Facebook cards and one exact item inspected. All29previous log entries preserved. This maintenance entry does not update stock times.",
+      "publication": {
+        "status": "verified",
+        "commit": "7b06ecbcba541694c935a18241716c683176cf71",
+        "site": "https://induwarauthsara.github.io/phone-scout/",
+        "verifiedAt": "2026-10-27T05:01:00.494Z"
+      }
     }
   ]
 }
