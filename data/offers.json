@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T06:31:31.577Z",
-  "lastStockAudit": "2026-10-28T05:46:33.370Z",
+  "updatedAt": "2026-10-29T05:20:16.335Z",
+  "lastStockAudit": "2026-10-29T05:15:38.856Z",
   "active": [
     {
       "id": "green-13r-256",
@@ -16,8 +16,8 @@
         "supported": true,
         "monthly": 51666.67,
         "total": 155000,
-        "evidence": "Exact primary product line: 3 X LKR 51666.67 with Koko logo. Advertised total rounded from installments; final checkout quote unconfirmed.",
-        "checkedAt": "2026-10-28T05:26:24.039Z",
+        "evidence": "Exact primary product line:3X LKR 51666.67 with Koko logo; rounded advertised total,final checkout amount unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:38.856Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
@@ -29,9 +29,9 @@
       "rank": 1,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-28T05:26:24.039Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.039Z",
-        "evidence": "Exact target product/variant metadata explicitly states InStock; physical inventory is not guaranteed.",
+        "checkedAt": "2026-10-29T05:15:38.856Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:38.856Z",
+        "evidence": "Exact target JSON-LD Offer explicitly InStock; physical stock not guaranteed.",
         "method": "Live HTTP exact target metadata"
       },
       "firstSeen": "2026-10-17",
@@ -54,8 +54,8 @@
         "supported": true,
         "monthly": 63333.33,
         "total": 190000,
-        "evidence": "Exact primary product line: 3 X LKR 63333.33 with Koko logo. Advertised total rounded from installments; final checkout quote unconfirmed.",
-        "checkedAt": "2026-10-28T05:26:23.445Z",
+        "evidence": "Exact primary product line:3X LKR 63333.33 with Koko logo; rounded advertised total,final checkout amount unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:34.172Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
@@ -67,9 +67,9 @@
       "rank": 2,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-28T05:26:23.445Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:23.445Z",
-        "evidence": "Exact target product/variant metadata explicitly states InStock; physical inventory is not guaranteed.",
+        "checkedAt": "2026-10-29T05:15:34.172Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:34.172Z",
+        "evidence": "Exact target JSON-LD Offer explicitly InStock; physical stock not guaranteed.",
         "method": "Live HTTP exact target metadata"
       },
       "firstSeen": "2026-10-17",
@@ -101,19 +101,18 @@
         "fees": null,
         "totalConfirmed": false,
         "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
-        "evidence": "Primary exact product line:3X LKR59996.67 with Koko logo. Advertised only; final checkout amount unconfirmed.",
+        "evidence": "Exact primary product line:3X LKR 59996.67 with Koko logo; rounded advertised total,final checkout amount unconfirmed.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
-        "checkedAt": "2026-10-27T05:28:47.038Z",
+        "checkedAt": "2026-10-29T05:15:34.296Z",
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
-        "status": "check_failed",
-        "checkedAt": "2026-10-28T05:32:44.465Z",
-        "lastSuccessfulCheckAt": "2026-10-27T05:28:47.038Z",
-        "evidence": "Latest exact-page check failed TimeoutError: The operation was aborted due to timeout. Previous successful evidence/date preserved; displayed price and stock are stale.",
-        "method": "Live HTTP failed exact target attempt",
-        "previousEvidence": "Exact available colour/warranty variants have is_in_stock=true; other colours can be unavailable."
+        "status": "in_stock",
+        "checkedAt": "2026-10-29T05:15:34.296Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:34.296Z",
+        "evidence": "Exact available target variants explicitly is_in_stock=true; unavailable colours excluded.",
+        "method": "Live HTTP exact target metadata"
       },
       "firstSeen": "2026-10-19"
     },
@@ -130,9 +129,9 @@
       "rank": 4,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:32:24.151Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:32:24.151Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.714Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.714Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -142,7 +141,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:32:24.151Z",
+        "checkedAt": "2026-10-29T05:15:33.714Z",
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1318",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "8GB / 256GB",
@@ -167,9 +166,9 @@
       "rank": 5,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:24.566Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.566Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:31.730Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:31.730Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -179,7 +178,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:26:24.566Z",
+        "checkedAt": "2026-10-29T05:15:31.730Z",
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-fe-8gb-256gb-brand-new-for-sale-colombo-1314",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "8GB / 256GB",
@@ -205,9 +204,9 @@
       "firstSeen": "2026-10-21",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:24.912Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.912Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.662Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.662Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -218,7 +217,7 @@
         "fees": null,
         "totalConfirmed": false,
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s24-ultra-dualsim-12-256gb-used-for-sale-colombo-2",
-        "checkedAt": "2026-10-28T05:26:24.912Z",
+        "checkedAt": "2026-10-29T05:15:33.662Z",
         "selectedVariant": "12GB / 256GB; unit only",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
@@ -243,9 +242,9 @@
       "rank": 7,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:24.945Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.945Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.182Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.182Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -255,7 +254,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:26:24.945Z",
+        "checkedAt": "2026-10-29T05:15:33.182Z",
         "source": "https://ikman.lk/en/ad/honor-400-5g-12gb-ram-200mp-brand-new-for-sale-colombo-5",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "12GB / 256GB",
@@ -282,9 +281,9 @@
       "rank": 8,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-28T05:46:33.370Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:46:33.370Z",
-        "evidence": "Exact target product/variant metadata explicitly states InStock; physical inventory is not guaranteed.",
+        "checkedAt": "2026-10-29T05:15:35.139Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:35.139Z",
+        "evidence": "Exact target JSON-LD Offer explicitly InStock; physical stock not guaranteed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -297,8 +296,8 @@
         "totalConfirmed": false,
         "fees": null,
         "source": "https://greenware.lk/mobile-phones/honor/400-12gb-ram-256gb-storage",
-        "checkedAt": "2026-10-28T05:46:33.370Z",
-        "evidence": "Exact primary product line: 3 X LKR 44666.67 with Koko logo. Advertised total rounded from installments; final checkout quote unconfirmed."
+        "checkedAt": "2026-10-29T05:15:35.139Z",
+        "evidence": "Exact primary product line:3X LKR 44666.67 with Koko logo; rounded advertised total,final checkout amount unconfirmed."
       },
       "warranty": "One year advertised; issuer,hardware/display terms and Singer eligibility not established.",
       "displayCoverage": "Not confirmed; obtain written local display-line cover.",
@@ -319,9 +318,9 @@
       "rank": 9,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:21.027Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:21.027Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:31.869Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:31.869Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -331,7 +330,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:26:21.027Z",
+        "checkedAt": "2026-10-29T05:15:31.869Z",
         "source": "https://ikman.lk/en/ad/google-pixel-9a-256gb-brand-new-for-sale-colombo-386",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "8GB / 256GB",
@@ -358,8 +357,8 @@
         "supported": true,
         "monthly": 64000,
         "total": 192000,
-        "evidence": "Exact primary product line: 3 X LKR 64000 with Koko logo. Advertised total rounded from installments; final checkout quote unconfirmed.",
-        "checkedAt": "2026-10-28T05:26:23.791Z",
+        "evidence": "Exact primary product line:3X LKR 64000 with Koko logo; rounded advertised total,final checkout amount unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.511Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
@@ -371,9 +370,9 @@
       "rank": 10,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-10-28T05:26:23.791Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:23.791Z",
-        "evidence": "Exact target product/variant metadata explicitly states InStock; physical inventory is not guaranteed.",
+        "checkedAt": "2026-10-29T05:15:33.511Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.511Z",
+        "evidence": "Exact target JSON-LD Offer explicitly InStock; physical stock not guaranteed.",
         "method": "Live HTTP exact target metadata"
       },
       "firstSeen": "2026-10-17",
@@ -396,9 +395,9 @@
       "firstSeen": "2026-10-21",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:24.142Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.142Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.048Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.048Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -409,7 +408,7 @@
         "fees": null,
         "totalConfirmed": false,
         "source": "https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-562",
-        "checkedAt": "2026-10-28T05:26:24.142Z",
+        "checkedAt": "2026-10-29T05:15:33.048Z",
         "selectedVariant": "256GB; unit only",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "note": "No KOKO installment quote or fee disclosed. Cash price is not a verified KOKO total; require all-in total <=200000 before buying."
@@ -444,9 +443,9 @@
       "rank": 12,
       "stock": {
         "status": "check_failed",
-        "checkedAt": "2026-10-28T05:30:26.600Z",
-        "evidence": "Latest exact-page check failed HTTP404. Previous successful evidence/date preserved; displayed price and stock are stale.",
-        "method": "Live HTTP failed exact target attempt",
+        "checkedAt": "2026-10-29T05:15:32.229Z",
+        "evidence": "Latest exact-page check failed HTTP403. Previous successful evidence/date retained; price and stock are stale.",
+        "method": "Live HTTP failed exact target",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
         "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
         "checkWindow": {
@@ -474,9 +473,9 @@
       "rank": 13,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:32:24.315Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:32:24.315Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.087Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.087Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -486,7 +485,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:32:24.315Z",
+        "checkedAt": "2026-10-29T05:15:33.087Z",
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1424",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "12GB / 256GB",
@@ -511,9 +510,9 @@
       "rank": 14,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:25.010Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:25.010Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:33.463Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:33.463Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -523,7 +522,7 @@
         "total": null,
         "fees": null,
         "totalConfirmed": false,
-        "checkedAt": "2026-10-28T05:26:25.010Z",
+        "checkedAt": "2026-10-29T05:15:33.463Z",
         "source": "https://ikman.lk/en/ad/samsung-galaxy-s25-12gb-256gb-brand-new-for-sale-colombo-1420",
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "selectedVariant": "12GB / 256GB",
@@ -548,9 +547,9 @@
       "firstSeen": "2026-10-18",
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-10-28T05:26:24.750Z",
-        "lastSuccessfulCheckAt": "2026-10-28T05:26:24.750Z",
-        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock unconfirmed.",
+        "checkedAt": "2026-10-29T05:15:38.725Z",
+        "lastSuccessfulCheckAt": "2026-10-29T05:15:38.725Z",
+        "evidence": "Exact live ad remains published without target-specific sold-out wording; physical stock not confirmed.",
         "method": "Live HTTP exact target metadata"
       },
       "koko": {
@@ -560,7 +559,7 @@
         "total": null,
         "evidence": "Exact ad explicitly offers KOKO. Fees,installments and total unconfirmed.",
         "source": "https://ikman.lk/en/ad/apple-iphone-15-plus-256gb-used-for-sale-colombo-215",
-        "checkedAt": "2026-10-28T05:26:24.750Z",
+        "checkedAt": "2026-10-29T05:15:38.725Z",
         "totalConfirmed": false,
         "note": "Cash price only. Installment surcharge and total unknown; confirm all-in cap."
       },
@@ -937,9 +936,9 @@
     }
   ],
   "facebook": {
-    "updatedAt": "2026-10-28T06:31:31.577Z",
+    "updatedAt": "2026-10-29T05:20:16.335Z",
     "title": "Facebook finds",
-    "summary": "28 October: all 14 Facebook item rechecks returned login/restricted content through available public access. Existing ads remain visible with stale warnings; prices and seller claims were last inspected27October. No new Facebook offers verified. Previous119result cards remain available. KOKO,local warranty and low display-failure probability are not guaranteed.",
+    "summary": "29 October: all14Facebook exact-ad public rechecks remain restricted. Previous27October listing evidence is retained with stale warnings; no current stock or price verification. New official Sri Lankan Redmi screen-replacement programme source added; used-unit transferability and eligibility remain unverified. No reliable comparative display-failure rates established.",
     "preferences": {
       "budgetMax": 200000,
       "locationPriority": "Athurugiriya and nearby eastern suburbs; Colombo/nearby alternatives allowed",
@@ -960,7 +959,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Strong budget/storage lead on paper; device only. Seller says everything works and all-day battery. No battery-health,repair-history,regional-ROM,local warranty or KOKO evidence.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Strong budget/storage lead on paper; device only. Seller says everything works and all-day battery. No battery-health,repair-history,regional-ROM,local warranty or KOKO evidence.",
         "koko": {
           "supported": null,
           "total": null,
@@ -994,8 +993,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:27:29.665Z",
         "previousReason": "Strong budget/storage lead on paper; device only. Seller says everything works and all-day battery. No battery-health,repair-history,regional-ROM,local warranty or KOKO evidence.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.476Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:27:29.665Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:42.799Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:27:29.665Z"
       },
       {
         "id": "fb-1593315352098691",
@@ -1008,7 +1007,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "verify_warranty",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Closest inspected warranty-led budget option. Verify original Abans invoice,remaining term,second-owner eligibility,unused claims and whether line faults are covered. KOKO not stated. Midrange camera/performance/HyperOS must be compared with Pixel7Pro before choosing.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Closest inspected warranty-led budget option. Verify original Abans invoice,remaining term,second-owner eligibility,unused claims and whether line faults are covered. KOKO not stated. Midrange camera/performance/HyperOS must be compared with Pixel7Pro before choosing. New programme evidence29October: Sri Lankan official announcement supports existence of screen replacements,not this used handset's eligibility.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1016,10 +1015,10 @@
           "fees": null,
           "evidence": "Not stated in exact ad"
         },
-        "warranty": "Seller claims9months Abans warranty remaining; not verified",
+        "warranty": "Seller claims nine months Abans warranty remaining; unit-specific cover unverified. Official local screen-replacement programme found; transferability and remaining claims unknown.",
         "testing": "Permission/terms not established",
         "battery": "Not stated",
-        "displayCoverage": "Seller claims2screen replacements,including breakage; terms/eligibility/transferability NOT verified. Overseas Xiaomi schemes do not validate Sri Lankan cover.",
+        "displayCoverage": "Official Dialog/Xiaomi Sri Lanka announcement confirms a one-year company warranty plus two screen replacements within the first year for the RedmiNote15 series. This supports existence of a local programme; it does not verify this used unit's invoice,Abans cover,remaining term,transferability,unused claims or breakage/green-line conditions.",
         "displayRisk": {
           "label": "Comparative risk unknown",
           "summary": "No reliable model-comparative display failure rate established. Verify the exact screen,repair history and written local display-line cover.",
@@ -1030,6 +1029,10 @@
           {
             "label": "Xiaomi regional specs — verify local variant",
             "url": "https://www.mi.com/latin-es/product/redmi-note-15-pro-plus-5g/specs/"
+          },
+          {
+            "label": "Official Sri Lankan screen-replacement announcement",
+            "url": "https://dialog.lk/news/dialog-partners-with-xiaomi-to-introduce-redmi-note-15-5g-series-in-sri-lanka?language=ta"
           }
         ],
         "priority": 2,
@@ -1037,8 +1040,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:38:57.227Z",
         "previousReason": "Closest inspected warranty-led budget option. Verify original Abans invoice,remaining term,second-owner eligibility,unused claims and whether line faults are covered. KOKO not stated. Midrange camera/performance/HyperOS must be compared with Pixel7Pro before choosing.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.912Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:38:57.227Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.036Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:38:57.227Z"
       },
       {
         "id": "fb-1815452673242677",
@@ -1051,7 +1054,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Battery-focused Apple lead within asking-price cap. Seller claims original parts; no unit authentication,local warranty,KOKO or in-person test permission established.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Battery-focused Apple lead within asking-price cap. Seller claims original parts; no unit authentication,local warranty,KOKO or in-person test permission established.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1074,8 +1077,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:26:05.788Z",
         "previousReason": "Battery-focused Apple lead within asking-price cap. Seller claims original parts; no unit authentication,local warranty,KOKO or in-person test permission established.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.673Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:26:05.788Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.607Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:26:05.788Z"
       },
       {
         "id": "fb-2005453373476507",
@@ -1088,7 +1091,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Lowest inspected256GBPixel10 asking price. Seller claims original parts and urgent sale; battery,region,box/charger,repair history,testing,warranty and KOKO unknown. Treat as a lead, not a proven bargain.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Lowest inspected256GBPixel10 asking price. Seller claims original parts and urgent sale; battery,region,box/charger,repair history,testing,warranty and KOKO unknown. Treat as a lead, not a proven bargain.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1117,8 +1120,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:30:01.184Z",
         "previousReason": "Lowest inspected256GBPixel10 asking price. Seller claims original parts and urgent sale; battery,region,box/charger,repair history,testing,warranty and KOKO unknown. Treat as a lead, not a proven bargain.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.312Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:30:01.184Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:42.907Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:30:01.184Z"
       },
       {
         "id": "fb-1142531338729568",
@@ -1131,7 +1134,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Matches your screenshot. Original45Wcharger/cable included. Seller claims no local signal issues and all-day battery; neither was tested. Compare exact condition with the160000 listing before paying a premium.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Matches your screenshot. Original45Wcharger/cable included. Seller claims no local signal issues and all-day battery; neither was tested. Compare exact condition with the160000 listing before paying a premium.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1160,8 +1163,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:25:12.070Z",
         "previousReason": "Matches your screenshot. Original45Wcharger/cable included. Seller claims no local signal issues and all-day battery; neither was tested. Compare exact condition with the160000 listing before paying a premium.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.679Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:25:12.070Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:44.000Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:25:12.070Z"
       },
       {
         "id": "fb-2565918743843009",
@@ -1174,7 +1177,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "verify",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Chinese version with fullset and6month shop warranty claim. Verify original regional model,ROM,Google services,banking apps,OTA and your SIM. Do not assume converted firmware or overseas warranty is locally supported.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Chinese version with fullset and6month shop warranty claim. Verify original regional model,ROM,Google services,banking apps,OTA and your SIM. Do not assume converted firmware or overseas warranty is locally supported.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1208,8 +1211,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:27:00.689Z",
         "previousReason": "Chinese version with fullset and6month shop warranty claim. Verify original regional model,ROM,Google services,banking apps,OTA and your SIM. Do not assume converted firmware or overseas warranty is locally supported.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:01.984Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:27:00.689Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:43.096Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:27:00.689Z"
       },
       {
         "id": "fb-1347455894130959",
@@ -1222,7 +1225,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "conflict",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Exact title and description disagree on RAM/storage.126990 device-only; do not promote a chosen configuration until the actual handset and written quote agree.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Exact title and description disagree on RAM/storage.126990 device-only; do not promote a chosen configuration until the actual handset and written quote agree.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1256,8 +1259,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:27:15.063Z",
         "previousReason": "Exact title and description disagree on RAM/storage.126990 device-only; do not promote a chosen configuration until the actual handset and written quote agree.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.669Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:27:15.063Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:44.003Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:27:15.063Z"
       },
       {
         "id": "fb-1744720329967322",
@@ -1270,7 +1273,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "caution",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Shop and storage confirmed from ad; fullset advertised. Camera/OS candidate, but your display-risk priority makes the acknowledged line-fault programme a material concern. No local warranty or KOKO evidence.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Shop and storage confirmed from ad; fullset advertised. Camera/OS candidate, but your display-risk priority makes the acknowledged line-fault programme a material concern. No local warranty or KOKO evidence.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1300,8 +1303,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:24:14.730Z",
         "previousReason": "Shop and storage confirmed from ad; fullset advertised. Camera/OS candidate, but your display-risk priority makes the acknowledged line-fault programme a material concern. No local warranty or KOKO evidence.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.538Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:24:14.730Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.192Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:24:14.730Z"
       },
       {
         "id": "fb-1574436663979359",
@@ -1314,7 +1317,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "verify",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. No useful description beyond hidden contact information. Storage,condition details,battery,shop,warranty and KOKO not established.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. No useful description beyond hidden contact information. Storage,condition details,battery,shop,warranty and KOKO not established.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1343,8 +1346,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:30:19.275Z",
         "previousReason": "No useful description beyond hidden contact information. Storage,condition details,battery,shop,warranty and KOKO not established.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.509Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:30:19.275Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.043Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:30:19.275Z"
       },
       {
         "id": "fb-2594860840951655",
@@ -1357,7 +1360,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "compromise",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Fullset/no-errors claim;128GB storage compromise and no battery/warranty evidence.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Fullset/no-errors claim;128GB storage compromise and no battery/warranty evidence.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1386,8 +1389,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:21:24.608Z",
         "previousReason": "Fullset/no-errors claim;128GB storage compromise and no battery/warranty evidence.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:01.883Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:21:24.608Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:42.914Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:21:24.608Z"
       },
       {
         "id": "fb-1057398137109323",
@@ -1400,7 +1403,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "compromise",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Exact ad has128GB, not256GB. Fullset and KOKO advertised, but warranty,battery and total fees unknown.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Exact ad has128GB, not256GB. Fullset and KOKO advertised, but warranty,battery and total fees unknown.",
         "koko": {
           "supported": true,
           "total": null,
@@ -1429,8 +1432,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:23:39.545Z",
         "previousReason": "Exact ad has128GB, not256GB. Fullset and KOKO advertised, but warranty,battery and total fees unknown.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.519Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:23:39.545Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:43.147Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:23:39.545Z"
       },
       {
         "id": "fb-1444974007606120",
@@ -1443,7 +1446,7 @@
         "condition": "Used – Good (seller)",
         "stock": "check_failed",
         "status": "conflict",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Seller labels it Pixel10 but claims16GBRAM; actual model/physical memory not authenticated. Condition says Used-Good. Verify About Phone/model/IMEI and original regional identity; no battery/warranty/KOKO evidence.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Seller labels it Pixel10 but claims16GBRAM; actual model/physical memory not authenticated. Condition says Used-Good. Verify About Phone/model/IMEI and original regional identity; no battery/warranty/KOKO evidence.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1472,8 +1475,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:30:29.457Z",
         "previousReason": "Seller labels it Pixel10 but claims16GBRAM; actual model/physical memory not authenticated. Condition says Used-Good. Verify About Phone/model/IMEI and original regional identity; no battery/warranty/KOKO evidence.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.552Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:30:29.457Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:43.186Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:30:29.457Z"
       },
       {
         "id": "fb-1105525182184348",
@@ -1486,7 +1489,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "over_budget",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Matches your screenshot;210000 fixed and KOKO advertised. User explicitly kept200000 including fees, so research only; do not assume negotiation.100%health/genuine-part wording does not authenticate an untouched battery.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Matches your screenshot;210000 fixed and KOKO advertised. User explicitly kept200000 including fees, so research only; do not assume negotiation.100%health/genuine-part wording does not authenticate an untouched battery.",
         "koko": {
           "supported": true,
           "total": null,
@@ -1515,8 +1518,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:28:12.781Z",
         "previousReason": "Matches your screenshot;210000 fixed and KOKO advertised. User explicitly kept200000 including fees, so research only; do not assume negotiation.100%health/genuine-part wording does not authenticate an untouched battery.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.693Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:28:12.781Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.734Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:28:12.781Z"
       },
       {
         "id": "fb-1531874328208753",
@@ -1529,7 +1532,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "reject",
-        "reason": "STALE — 28 October recheck failed. Previous price,condition,warranty and KOKO claims are from 2026-10-27. Seller explicitly calls it a bypass phone. Reject for ordinary reliable ownership; low price does not resolve activation/repair uncertainty.",
+        "reason": "STALE — 29 October recheck failed. Previous price/condition/KOKO and seller claims were inspected 2026-10-27. Seller explicitly calls it a bypass phone. Reject for ordinary reliable ownership; low price does not resolve activation/repair uncertainty.",
         "koko": {
           "supported": false,
           "total": null,
@@ -1552,8 +1555,8 @@
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-27T05:22:15.789Z",
         "previousReason": "Seller explicitly calls it a bypass phone. Reject for ordinary reliable ownership; low price does not resolve activation/repair uncertainty.",
-        "lastCheckAttemptAt": "2026-10-28T05:27:02.686Z",
-        "checkFailure": "Public access returned login/restricted content. Previous successful inspection: 2026-10-27T05:22:15.789Z"
+        "lastCheckAttemptAt": "2026-10-29T05:16:41.395Z",
+        "checkFailure": "29 October public recheck restricted; last successful 2026-10-27T05:22:15.789Z"
       }
     ],
     "riskNotes": [
@@ -1609,6 +1612,17 @@
         "title": "iPhone16Plus and Redmi: insufficient comparison evidence",
         "body": "No reliable model-matched comparative failure data established in this search. No claim of lower risk is made. Overseas Xiaomi screen schemes do not confirm Abans Sri Lanka terms.",
         "sources": []
+      },
+      {
+        "title": "Redmi: official Sri Lankan screen-replacement programme",
+        "body": "Official Dialog/Xiaomi Sri Lanka announcement confirms a one-year company warranty plus two screen replacements within the first year for the RedmiNote15 series. This supports existence of a local programme; it does not verify this used unit's invoice,Abans cover,remaining term,transferability,unused claims or breakage/green-line conditions.",
+        "sources": [
+          {
+            "label": "Dialog/Xiaomi Sri Lanka launch announcement",
+            "url": "https://dialog.lk/news/dialog-partners-with-xiaomi-to-introduce-redmi-note-15-5g-series-in-sri-lanka?language=ta",
+            "kind": "official local programme"
+          }
+        ]
       }
     ],
     "results": [
