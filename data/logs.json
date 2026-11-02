@@ -149927,8 +149927,12 @@
         }
       ],
       "publication": {
+        "status": "verified",
+        "commit": "fc5b8b7d181523a0fa9e65b3d39bab2ee1f61d1f",
         "site": "https://induwarauthsara.github.io/phone-scout/",
-        "status": "pending build/push"
+        "pagesBuild": "built",
+        "liveDataBundleContainsDailyRecord": true,
+        "verifiedAt": "2026-11-02T04:43:36.000Z"
       },
       "changes": [
         "Retained all15 store offers; exact current page XMobile S25 FE has no explicit product-specific stock wording, so changed in_stock to not_stated; page gives Rs179990 and KOKO3x59996.67.",
