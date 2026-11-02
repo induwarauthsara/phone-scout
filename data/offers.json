@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:43:31.574Z",
+  "updatedAt": "2026-11-02T04:34:26.000Z",
   "lastStockAudit": "2026-10-30T05:35:54.398Z",
   "active": [
     {
@@ -28,11 +28,12 @@
       },
       "rank": 1,
       "stock": {
-        "status": "in_stock",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:39.514Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.514Z",
-        "evidence": "Exact target JSON-LD Offer explicitly InStock; merchant metadata,not physical inventory guarantee.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact URL only yielded a 3-week-old indexed snapshot; unable to verify current availability. Exact target page shows155000 and 3x51666.67 KOKO, but is stale.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -66,11 +67,12 @@
       },
       "rank": 2,
       "stock": {
-        "status": "in_stock",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:39.112Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.112Z",
-        "evidence": "Exact target JSON-LD Offer explicitly InStock; merchant metadata,not physical inventory guarantee.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact URL only yielded a last-week indexed snapshot; current availability not verified. Snapshot shows target Rs194000 and 3x64666.67 KOKO, different from saved Rs190000; leave saved price unchanged.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -108,11 +110,11 @@
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
-        "status": "in_stock",
-        "checkedAt": "2026-10-30T05:18:38.481Z",
-        "lastSuccessfulCheckAt": "2026-10-30T05:18:38.481Z",
-        "evidence": "Exact available target colour/warranty variants have is_in_stock=true; unavailable colours excluded.",
-        "method": "Live HTTP exact target metadata"
+        "status": "not_stated",
+        "checkedAt": "2026-11-02T04:34:26.000Z",
+        "lastSuccessfulCheckAt": "2026-11-02T04:34:26.000Z",
+        "evidence": "Exact target page crawled today: Rs179990; KOKO image/logo and 3x59996.67; page asks buyer to verify availability and has variants. No explicit stock wording; not confirmed in stock.",
+        "method": "Exact target page retrieved/crawled today"
       },
       "firstSeen": "2026-10-19"
     },
@@ -128,11 +130,12 @@
       "firstSeen": "2026-10-30",
       "rank": 4,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:35:54.081Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:35:54.081Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman page inaccessible; preserve previous successful evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -165,11 +168,12 @@
       "firstSeen": "2026-10-27",
       "rank": 5,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:37.744Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:37.744Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman page cache miss; preserve previous successful evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -203,11 +207,12 @@
       "addressSource": "https://ikman.lk/en/shops/usedphones-international",
       "firstSeen": "2026-10-21",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.462Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.462Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Only two-week-old indexed snapshot, no current availability check; historical Rs189999, KOKO mentioned.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -241,11 +246,12 @@
       "firstSeen": "2026-10-27",
       "rank": 7,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.625Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.625Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman page cache miss; preserve previous success evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -280,11 +286,12 @@
       "firstSeen": "2026-10-28",
       "rank": 8,
       "stock": {
-        "status": "in_stock",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:39.692Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.692Z",
-        "evidence": "Exact target JSON-LD Offer explicitly InStock; merchant metadata,not physical inventory guarantee.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Only last-month indexed snapshot; current stock/price not verified.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "selectedVariant": "12GB / 256GB",
@@ -317,11 +324,12 @@
       "firstSeen": "2026-10-25",
       "rank": 9,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.592Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.592Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman page cache miss; preserve previous success evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -369,11 +377,12 @@
       },
       "rank": 10,
       "stock": {
-        "status": "in_stock",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:39.260Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.260Z",
-        "evidence": "Exact target JSON-LD Offer explicitly InStock; merchant metadata,not physical inventory guarantee.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Only last-month indexed snapshot; current availability not verifiable.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -394,11 +403,12 @@
       "addressSource": "https://ikman.lk/en/shops/usedphones-international",
       "firstSeen": "2026-10-21",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.829Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.829Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman page cache miss; preserve prior success date/evidence.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -444,14 +454,15 @@
       "stock": {
         "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:37.454Z",
-        "evidence": "Latest exact check failed HTTP403. Previous successful evidence/date retained; price and stock stale.",
-        "method": "Live HTTP failed target check",
+        "evidence": "Only two-day-old indexed snapshot; price range and storage selectors do not verify current 256GB price/availability.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
         "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
         "checkWindow": {
           "startedAt": "2026-10-18T05:43:43.579Z",
           "endedAt": "2026-10-18T06:13:53.888Z"
-        }
+        },
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "firstSeen": "2026-10-17",
       "warranty": "Page advertises 1 month hardware / 6 months software; confirm unit-specific terms",
@@ -472,11 +483,12 @@
       "firstSeen": "2026-10-30",
       "rank": 13,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:35:54.380Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:35:54.380Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman URL inaccessible; preserve prior success evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -509,11 +521,12 @@
       "firstSeen": "2026-10-27",
       "rank": 14,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.131Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.131Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Exact Ikman URL cache miss; preserve prior success evidence/date.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -546,11 +559,12 @@
       "address": "Dehiwala listing; seller says next to ELITE Restaurant, Mount Lavinia. Confirm exact shop.",
       "firstSeen": "2026-10-18",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:38.633Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.633Z",
-        "evidence": "Exact relevant live ad remains published without target sold-out wording; physical inventory not confirmed.",
-        "method": "Live HTTP exact target metadata"
+        "evidence": "Only month-old indexed snapshot; historical Rs169990, 88%+ battery and one-month display warranty/KOKO claims remain stale.",
+        "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
       },
       "koko": {
         "supported": true,
@@ -981,9 +995,9 @@
     }
   ],
   "facebook": {
-    "updatedAt": "2026-10-30T05:39:35.392Z",
+    "updatedAt": "2026-11-02T04:34:26.000Z",
     "title": "Facebook finds",
-    "summary": "30 October: browser access restored. All 14 previous ads rechecked; 11 retained and 3 sold/unavailable ads moved to excluded history in Activity. Four inspected leads added, including an Athurugiriya S24 Ultra 256GB at Rs. 184,000 with KOKO and a Habarakada OnePlus 13R 256GB at Rs. 113,000. The existing iPhone 16 Plus 256GB fell from Rs. 198,000 to Rs. 191,000. Condition, battery and warranty remain seller claims; final KOKO totals and display-line cover need verification.",
+    "summary": "2 Nov: Seven Marketplace model searches, all15 saved item URLs and required Ikman pages1-5 attempted. Browser provider unavailable and exact/direct URLs returned cache misses; no new cards verified. Existing Facebook leads retained as stale with check_failed and prior successful dates.",
     "preferences": {
       "budgetMax": 200000,
       "locationPriority": "Athurugiriya and nearby eastern suburbs; Colombo/nearby alternatives allowed",
@@ -1001,15 +1015,15 @@
         "location": "Athurugiriya,Colombo — approximate pickup area",
         "condition": "Used – like new (seller)",
         "status": "verify",
-        "reason": "Closest inspected flagship/KOKO lead. Seller claims original parts,battery and matching-box fullset. No battery percentage/cycles,repair records or warranty period stated. Asking184000 leaves16000 before unknown KOKO fees. Verify local display cover and SIM/hotspot/camera before payment.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Original battery claimed;health/cycles not stated",
         "askingPrice": 184000,
         "url": "https://www.facebook.com/marketplace/item/1086003527402076/",
         "checkedAt": "2026-10-30T05:26:30.988Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:30.988Z",
-        "lastCheckAttemptAt": "2026-10-30T05:26:30.988Z",
-        "stock": "not_stated",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "stock": "check_failed",
         "koko": {
           "supported": true,
           "monthly": null,
@@ -1041,15 +1055,15 @@
         "location": "Habarakada Watta,Colombo — approximate",
         "condition": "Used – Good (seller)",
         "status": "inspect",
-        "reason": "Nearby lower-cost lead at113000. Seller lists12/256 and6000mAh/80W. KOKO,warranty,repair history,battery aging,region and testing permission unstated. Compare exact cameras and original regional software before choosing.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Health/cycles not stated",
         "askingPrice": 113000,
         "url": "https://www.facebook.com/marketplace/item/1535941431906852/",
         "checkedAt": "2026-10-30T05:26:20.747Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:20.747Z",
-        "lastCheckAttemptAt": "2026-10-30T05:26:20.747Z",
-        "stock": "not_stated",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "stock": "check_failed",
         "koko": {
           "supported": null,
           "monthly": null,
@@ -1092,9 +1106,9 @@
         "url": "https://www.facebook.com/marketplace/item/1064673003295735/",
         "checkedAt": "2026-10-30T05:20:44.265Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "inspect",
-        "reason": "Strong budget/storage lead on paper; device only. Seller says everything works and all-day battery. No battery-health,repair-history,regional-ROM,local warranty or KOKO evidence.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1127,7 +1141,7 @@
         "storageGB": 512,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:20:44.265Z",
-        "lastCheckAttemptAt": "2026-10-30T05:20:44.265Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Seller describes used16/512OnePlus13R,device only,like-new condition and working functions. Battery health,local warranty,KOKO andtesting not stated."
       },
       {
@@ -1139,9 +1153,9 @@
         "url": "https://www.facebook.com/marketplace/item/1815452673242677/",
         "checkedAt": "2026-10-30T05:21:09.627Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "inspect",
-        "reason": "Battery-focused Apple lead within asking-price cap. Seller claims original parts; no unit authentication,local warranty,KOKO or in-person test permission established.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1163,7 +1177,7 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:09.627Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:09.627Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "iPhone16Plus256; asking191000. Seller claims92%health,477cycles andoriginal parts. Warranty andKOKO unstated."
       },
       {
@@ -1175,9 +1189,9 @@
         "url": "https://www.facebook.com/marketplace/item/2005453373476507/",
         "checkedAt": "2026-10-30T05:22:17.313Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "inspect",
-        "reason": "Lowest inspected256GBPixel10 asking price. Seller claims original parts and urgent sale; battery,region,box/charger,repair history,testing,warranty and KOKO unknown. Treat as a lead, not a proven bargain.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1205,7 +1219,7 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:17.313Z",
-        "lastCheckAttemptAt": "2026-10-30T05:22:17.313Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Pixel10 at160000. Seller states256GB,original parts andurgent sale. Health,region,warranty,KOKO unknown."
       },
       {
@@ -1217,9 +1231,9 @@
         "url": "https://www.facebook.com/marketplace/item/1142531338729568/",
         "checkedAt": "2026-10-30T05:22:19.608Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "inspect",
-        "reason": "Matches your screenshot. Original45Wcharger/cable included. Seller claims no local signal issues and all-day battery; neither was tested. Compare exact condition with the160000 listing before paying a premium.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1247,7 +1261,7 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:19.608Z",
-        "lastCheckAttemptAt": "2026-10-30T05:22:19.608Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Pixel10Indian256 at195000;45Wcharger/cable included,inspection invited. Signal/endurance/original-condition claims untested;warranty/KOKO unstated."
       },
       {
@@ -1259,9 +1273,9 @@
         "url": "https://www.facebook.com/marketplace/item/2565918743843009/",
         "checkedAt": "2026-10-30T05:21:30.097Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "verify",
-        "reason": "Chinese version with fullset and6month shop warranty claim. Verify original regional model,ROM,Google services,banking apps,OTA and your SIM. Do not assume converted firmware or overseas warranty is locally supported.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1294,7 +1308,7 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:30.097Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:30.097Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "OnePlus13Chinese12/256 at169000;fullset andsix-month shop-warranty claim. Regional software,issuer,display scope andKOKO unverified."
       },
       {
@@ -1306,9 +1320,9 @@
         "url": "https://www.facebook.com/marketplace/item/1744720329967322/",
         "checkedAt": "2026-10-30T05:21:34.562Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "caution",
-        "reason": "Shop and storage confirmed from ad; fullset advertised. Camera/OS candidate, but your display-risk priority makes the acknowledged line-fault programme a material concern. No local warranty or KOKO evidence.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1337,7 +1351,7 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:34.562Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:34.562Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "FrenchMobile,LibertyPlaza:Pixel9ProXL16/256 at189900;fullset/like-new claims. Health,warranty,KOKO unstated."
       },
       {
@@ -1349,9 +1363,9 @@
         "url": "https://www.facebook.com/marketplace/item/1574436663979359/",
         "checkedAt": "2026-10-30T05:21:36.792Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "verify",
-        "reason": "No useful description beyond hidden contact information. Storage,condition details,battery,shop,warranty and KOKO not established.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1379,7 +1393,7 @@
         "storageGB": null,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:36.792Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:36.792Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Pixel9ProXL180000;like-new condition label. Current description gives no storage,battery,warranty orKOKO evidence."
       },
       {
@@ -1391,9 +1405,9 @@
         "url": "https://www.facebook.com/marketplace/item/2594860840951655/",
         "checkedAt": "2026-10-30T05:21:47.391Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "compromise",
-        "reason": "Fullset/no-errors claim;128GB storage compromise and no battery/warranty evidence.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1421,7 +1435,7 @@
         "storageGB": 128,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:47.391Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:47.391Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Pixel9ProXL165000,Dambahena. Seller claims fullset,no errors andseeksS24Ultraexchange. Previously128GB;currentdescription omits storage."
       },
       {
@@ -1433,9 +1447,9 @@
         "url": "https://www.facebook.com/marketplace/item/1057398137109323/",
         "checkedAt": "2026-10-30T05:21:49.927Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "compromise",
-        "reason": "Exact ad has128GB, not256GB. Fullset and KOKO advertised, but warranty,battery and total fees unknown.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": true,
           "total": null,
@@ -1466,7 +1480,7 @@
         "storageGB": 128,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:49.927Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:49.927Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "ThalawathugodaWestPixel10at172000;128GB/12GB,fullset andKOKO explicit. Health,warranty andfees unstated."
       },
       {
@@ -1478,9 +1492,9 @@
         "url": "https://www.facebook.com/marketplace/item/1444974007606120/",
         "checkedAt": "2026-10-30T05:21:52.394Z",
         "condition": "Used – Good (seller)",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "conflict",
-        "reason": "Current description only says Pixel10,good condition and original parts. Earlier256GB/16GB identity claim remains unverified. Confirm model,storage,repair history and local warranty on the actual handset.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1508,7 +1522,7 @@
         "storageGB": null,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:52.394Z",
-        "lastCheckAttemptAt": "2026-10-30T05:21:52.394Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "Pixel10at165000;currentdescription claims good condition/original parts only. Earlier256GB/16GB information not reconfirmed."
       },
       {
@@ -1519,15 +1533,15 @@
         "location": "Pothuarawa /Malabe,Colombo — approximate",
         "condition": "Used – Good (seller)",
         "status": "compromise",
-        "reason": "Seller claims100%health/13cycles but also display scratches. Storage unstated;AppleCare until October has no year/remaining term. At200000 there is no fee headroom. KOKO and local transferable warranty not established.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "warranty": "AppleCare until October claimed;year,validity,transfer and local service unverified",
         "battery": "100%health /13cycles — seller claims",
         "askingPrice": 200000,
         "url": "https://www.facebook.com/marketplace/item/2664570947332571/",
         "checkedAt": "2026-10-30T05:26:24.159Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:24.159Z",
-        "lastCheckAttemptAt": "2026-10-30T05:26:24.159Z",
-        "stock": "not_stated",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "stock": "check_failed",
         "koko": {
           "supported": null,
           "monthly": null,
@@ -1558,15 +1572,15 @@
         "location": "Kiriwattuduwa North,Colombo — approximate",
         "condition": "Used – like new (seller)",
         "status": "conflict",
-        "reason": "Title saysHONOR400Pro; description saysHONOR200Pro12/512.100000 is not a verified400Pro bargain. Verify model on device,original parts,battery and local warranty;KOKO unstated.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Not stated",
         "askingPrice": 100000,
         "url": "https://www.facebook.com/marketplace/item/1460845802627564/",
         "checkedAt": "2026-10-30T05:26:59.383Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:59.383Z",
-        "lastCheckAttemptAt": "2026-10-30T05:26:59.383Z",
-        "stock": "not_stated",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "stock": "check_failed",
         "koko": {
           "supported": null,
           "monthly": null,
@@ -1598,9 +1612,9 @@
         "url": "https://www.facebook.com/marketplace/item/1531874328208753/",
         "checkedAt": "2026-10-30T05:22:15.006Z",
         "condition": "Used · seller described",
-        "stock": "not_stated",
+        "stock": "check_failed",
         "status": "reject",
-        "reason": "Earlier27October exact ad explicitly disclosed bypass. Current description omits that disclosure; unresolved history remains a rejection pending device activation/authenticity verification. Cash only advertised.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
         "koko": {
           "supported": false,
           "total": null,
@@ -1622,7 +1636,7 @@
         "storageGB": 512,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:15.006Z",
-        "lastCheckAttemptAt": "2026-10-30T05:22:15.006Z",
+        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
         "currentSourceEvidence": "iPhone15ProMax512159500,Dambahena;cash only andoriginal-parts/working-condition claims. Previous bypass disclosure remains unresolved despite current omission."
       }
     ],
@@ -16262,6 +16276,314 @@
         "outcome": "duplicate",
         "reason": "Repeated/promoted result retained before narrowing.",
         "metadataScope": "Latest same-run public label for this URL; early snapshots can have unlabelled loading cards."
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Samsung Galaxy S24 Ultra",
+        "url": "https://www.facebook.com/marketplace/item/1086003527402076/",
+        "observedPrice": "184000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": true,
+        "observedStock": "check_failed",
+        "location": "Athurugiriya,Colombo — approximate pickup area"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "OnePlus 13R",
+        "url": "https://www.facebook.com/marketplace/item/1535941431906852/",
+        "observedPrice": "113000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Habarakada Watta,Colombo — approximate"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "OnePlus 13R",
+        "url": "https://www.facebook.com/marketplace/item/1064673003295735/",
+        "observedPrice": "125000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate; shop unverified"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "iPhone 16 Plus",
+        "url": "https://www.facebook.com/marketplace/item/1815452673242677/",
+        "observedPrice": "191000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate; shop unverified"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 10",
+        "url": "https://www.facebook.com/marketplace/item/2005453373476507/",
+        "observedPrice": "160000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate; shop unverified"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 10",
+        "url": "https://www.facebook.com/marketplace/item/1142531338729568/",
+        "observedPrice": "195000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate; public meetup"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "OnePlus 13",
+        "url": "https://www.facebook.com/marketplace/item/2565918743843009/",
+        "observedPrice": "169000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate; warranty issuer/shop address unverified"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 9 Pro XL",
+        "url": "https://www.facebook.com/marketplace/item/1744720329967322/",
+        "observedPrice": "189900",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "French Mobile, Liberty Plaza, Colombo03"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 9 Pro XL",
+        "url": "https://www.facebook.com/marketplace/item/1574436663979359/",
+        "observedPrice": "180000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 9 Pro XL",
+        "url": "https://www.facebook.com/marketplace/item/2594860840951655/",
+        "observedPrice": "165000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Dambahena / Maharagama, Colombo"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 10",
+        "url": "https://www.facebook.com/marketplace/item/1057398137109323/",
+        "observedPrice": "172000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": true,
+        "observedStock": "check_failed",
+        "location": "Thalawathugoda West, Colombo"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Pixel 10 — identity needs confirmation",
+        "url": "https://www.facebook.com/marketplace/item/1444974007606120/",
+        "observedPrice": "165000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo approximate"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "iPhone 16 Plus",
+        "url": "https://www.facebook.com/marketplace/item/2664570947332571/",
+        "observedPrice": "200000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Pothuarawa /Malabe,Colombo — approximate"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "HONOR 200/400 Pro — identity conflict",
+        "url": "https://www.facebook.com/marketplace/item/1460845802627564/",
+        "observedPrice": "100000",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Kiriwattuduwa North,Colombo — approximate"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "iPhone 15 Pro Max",
+        "url": "https://www.facebook.com/marketplace/item/1531874328208753/",
+        "observedPrice": "159500",
+        "method": "Exact item attempt; access failure",
+        "reason": "Exact item page cache miss and browser provider unavailable; historical lead retained with prior evidence/date; no seller contacted.",
+        "query": "Recheck every current Facebook Marketplace item",
+        "outcome": "hold",
+        "observedKoko": false,
+        "observedStock": "check_failed",
+        "location": "Dambahena / Maharagama, Colombo"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: Google Pixel 10 Pro XL",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=Google%20Pixel%2010%20Pro%20XL",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "Google Pixel 10 Pro XL",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: iPhone 15 Pro Max",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2015%20Pro%20Max",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "iPhone 15 Pro Max",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: OnePlus 13R",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=OnePlus%2013R",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "OnePlus 13R",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: iPhone 15 Plus",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2015%20Plus",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "iPhone 15 Plus",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: HONOR 400 Pro",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=HONOR%20400%20Pro",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "HONOR 400 Pro",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: vivo V60",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=vivo%20V60",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "vivo V60",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
+      },
+      {
+        "source": "facebook.com",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "title": "Facebook Marketplace search: Google Pixel 9",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=Google%20Pixel%209",
+        "observedPrice": null,
+        "method": "Direct search attempt",
+        "reason": "Direct search URL cache miss; no in-app browser provider. No new result/card observed or inferred.",
+        "query": "Google Pixel 9",
+        "outcome": "hold",
+        "observedKoko": null,
+        "observedStock": "check_failed",
+        "location": "Colombo locationID provided; exact pickup area not verifiable"
       }
     ],
     "queries": [
@@ -16534,6 +16856,76 @@
         "rendering": null,
         "returnedCards": 24,
         "outcome": "inspected"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "Google Pixel 10 Pro XL",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=Google%20Pixel%2010%20Pro%20XL"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "iPhone 15 Pro Max",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2015%20Pro%20Max"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "OnePlus 13R",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=OnePlus%2013R"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "iPhone 15 Plus",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2015%20Plus"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "HONOR 400 Pro",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=HONOR%20400%20Pro"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "vivo V60",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=vivo%20V60"
+      },
+      {
+        "outcome": "check_failed",
+        "timestamp": "2026-11-02T04:34:26.000Z",
+        "method": "Direct public URL attempt; browser unavailable and reader cache miss",
+        "filters": "Colombo Marketplace locationID; exact seller area not verified",
+        "error": "No current results obtained.",
+        "query": "Google Pixel 9",
+        "returnedCards": 0,
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=Google%20Pixel%209"
       }
     ]
   }
