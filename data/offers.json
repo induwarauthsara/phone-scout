@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:34:26.000Z",
+  "updatedAt": "2026-11-03T04:43:49.000Z",
   "lastStockAudit": "2026-10-30T05:35:54.398Z",
   "active": [
     {
@@ -33,7 +33,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.514Z",
         "evidence": "Exact URL only yielded a 3-week-old indexed snapshot; unable to verify current availability. Exact target page shows155000 and 3x51666.67 KOKO, but is stale.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -72,7 +74,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.112Z",
         "evidence": "Exact URL only yielded a last-week indexed snapshot; current availability not verified. Snapshot shows target Rs194000 and 3x64666.67 KOKO, different from saved Rs190000; leave saved price unchanged.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -110,11 +114,14 @@
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-02T04:34:26.000Z",
         "lastSuccessfulCheckAt": "2026-11-02T04:34:26.000Z",
         "evidence": "Exact target page crawled today: Rs179990; KOKO image/logo and 3x59996.67; page asks buyer to verify availability and has variants. No explicit stock wording; not confirmed in stock.",
-        "method": "Exact target page retrieved/crawled today"
+        "method": "Exact target page retrieved/crawled today",
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "firstSeen": "2026-10-19"
     },
@@ -135,7 +142,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:35:54.081Z",
         "evidence": "Exact Ikman page inaccessible; preserve previous successful evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -173,7 +182,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:37.744Z",
         "evidence": "Exact Ikman page cache miss; preserve previous successful evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -212,7 +223,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.462Z",
         "evidence": "Only two-week-old indexed snapshot, no current availability check; historical Rs189999, KOKO mentioned.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -251,7 +264,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.625Z",
         "evidence": "Exact Ikman page cache miss; preserve previous success evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -291,7 +306,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.692Z",
         "evidence": "Only last-month indexed snapshot; current stock/price not verified.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "selectedVariant": "12GB / 256GB",
@@ -329,7 +346,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.592Z",
         "evidence": "Exact Ikman page cache miss; preserve previous success evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -382,7 +401,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:39.260Z",
         "evidence": "Only last-month indexed snapshot; current availability not verifiable.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -408,7 +429,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.829Z",
         "evidence": "Exact Ikman page cache miss; preserve prior success date/evidence.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -462,7 +485,9 @@
           "startedAt": "2026-10-18T05:43:43.579Z",
           "endedAt": "2026-10-18T06:13:53.888Z"
         },
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "firstSeen": "2026-10-17",
       "warranty": "Page advertises 1 month hardware / 6 months software; confirm unit-specific terms",
@@ -488,7 +513,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:35:54.380Z",
         "evidence": "Exact Ikman URL inaccessible; preserve prior success evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -526,7 +553,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.131Z",
         "evidence": "Exact Ikman URL cache miss; preserve prior success evidence/date.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -564,7 +593,9 @@
         "lastSuccessfulCheckAt": "2026-10-30T05:18:38.633Z",
         "evidence": "Only month-old indexed snapshot; historical Rs169990, 88%+ battery and one-month display warranty/KOKO claims remain stale.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z"
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "lastCheckAttemptEvidence": "Fresh stock could not be confirmed today; retained prior successful evidence/date and prior price.",
+        "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error"
       },
       "koko": {
         "supported": true,
@@ -995,9 +1026,9 @@
     }
   ],
   "facebook": {
-    "updatedAt": "2026-11-02T04:34:26.000Z",
+    "updatedAt": "2026-11-03T04:43:49.000Z",
     "title": "Facebook finds",
-    "summary": "2 Nov: Seven Marketplace model searches, all15 saved item URLs and required Ikman pages1-5 attempted. Browser provider unavailable and exact/direct URLs returned cache misses; no new cards verified. Existing Facebook leads retained as stale with check_failed and prior successful dates.",
+    "summary": "3 Nov: added iPhone15Pro256GB used as a daily target; iPhone16 256GB remains targeted. Attempted both Colombo Marketplace searches and every15 saved item pages; direct pages cache-missed and CUA could not identify Chrome’s current URL. All prior Facebook leads retained with stale warnings; no new cards verified.",
     "preferences": {
       "budgetMax": 200000,
       "locationPriority": "Athurugiriya and nearby eastern suburbs; Colombo/nearby alternatives allowed",
@@ -1015,14 +1046,14 @@
         "location": "Athurugiriya,Colombo — approximate pickup area",
         "condition": "Used – like new (seller)",
         "status": "verify",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Original battery claimed;health/cycles not stated",
         "askingPrice": 184000,
         "url": "https://www.facebook.com/marketplace/item/1086003527402076/",
         "checkedAt": "2026-10-30T05:26:30.988Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:30.988Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
         "stock": "check_failed",
         "koko": {
           "supported": true,
@@ -1045,7 +1076,8 @@
         "areaPriority": true,
         "priority": 1,
         "inspectionLabel": "Seller claims,not authenticated",
-        "currentSourceEvidence": "AthurugiriyaS24Ultra256184000fixed;KOKO explicit. Seller claims like-new,originalparts/battery,fullset. Healthpercentage,cycles,warranty,displaycover andfinalfees unstated."
+        "currentSourceEvidence": "AthurugiriyaS24Ultra256184000fixed;KOKO explicit. Seller claims like-new,originalparts/battery,fullset. Healthpercentage,cycles,warranty,displaycover andfinalfees unstated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1535941431906852",
@@ -1055,14 +1087,14 @@
         "location": "Habarakada Watta,Colombo — approximate",
         "condition": "Used – Good (seller)",
         "status": "inspect",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Health/cycles not stated",
         "askingPrice": 113000,
         "url": "https://www.facebook.com/marketplace/item/1535941431906852/",
         "checkedAt": "2026-10-30T05:26:20.747Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:20.747Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -1095,7 +1127,8 @@
         "areaPriority": true,
         "priority": 2,
         "inspectionLabel": "Seller claims,not authenticated",
-        "currentSourceEvidence": "OnePlus13R113000,HabarakadaWatta;used-good,12/256,6000mAh/80W seller claims. No KOKO,warranty,health,repair orregional evidence."
+        "currentSourceEvidence": "OnePlus13R113000,HabarakadaWatta;used-good,12/256,6000mAh/80W seller claims. No KOKO,warranty,health,repair orregional evidence.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1064673003295735",
@@ -1108,7 +1141,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1141,8 +1174,9 @@
         "storageGB": 512,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:20:44.265Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Seller describes used16/512OnePlus13R,device only,like-new condition and working functions. Battery health,local warranty,KOKO andtesting not stated."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Seller describes used16/512OnePlus13R,device only,like-new condition and working functions. Battery health,local warranty,KOKO andtesting not stated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1815452673242677",
@@ -1155,7 +1189,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1177,8 +1211,9 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:09.627Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "iPhone16Plus256; asking191000. Seller claims92%health,477cycles andoriginal parts. Warranty andKOKO unstated."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "iPhone16Plus256; asking191000. Seller claims92%health,477cycles andoriginal parts. Warranty andKOKO unstated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-2005453373476507",
@@ -1191,7 +1226,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1219,8 +1254,9 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:17.313Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Pixel10 at160000. Seller states256GB,original parts andurgent sale. Health,region,warranty,KOKO unknown."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Pixel10 at160000. Seller states256GB,original parts andurgent sale. Health,region,warranty,KOKO unknown.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1142531338729568",
@@ -1233,7 +1269,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "inspect",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1261,8 +1297,9 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:19.608Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Pixel10Indian256 at195000;45Wcharger/cable included,inspection invited. Signal/endurance/original-condition claims untested;warranty/KOKO unstated."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Pixel10Indian256 at195000;45Wcharger/cable included,inspection invited. Signal/endurance/original-condition claims untested;warranty/KOKO unstated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-2565918743843009",
@@ -1275,7 +1312,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "verify",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1308,8 +1345,9 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:30.097Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "OnePlus13Chinese12/256 at169000;fullset andsix-month shop-warranty claim. Regional software,issuer,display scope andKOKO unverified."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "OnePlus13Chinese12/256 at169000;fullset andsix-month shop-warranty claim. Regional software,issuer,display scope andKOKO unverified.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1744720329967322",
@@ -1322,7 +1360,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "caution",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1351,8 +1389,9 @@
         "storageGB": 256,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:34.562Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "FrenchMobile,LibertyPlaza:Pixel9ProXL16/256 at189900;fullset/like-new claims. Health,warranty,KOKO unstated."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "FrenchMobile,LibertyPlaza:Pixel9ProXL16/256 at189900;fullset/like-new claims. Health,warranty,KOKO unstated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1574436663979359",
@@ -1365,7 +1404,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "verify",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1393,8 +1432,9 @@
         "storageGB": null,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:36.792Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Pixel9ProXL180000;like-new condition label. Current description gives no storage,battery,warranty orKOKO evidence."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Pixel9ProXL180000;like-new condition label. Current description gives no storage,battery,warranty orKOKO evidence.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-2594860840951655",
@@ -1407,7 +1447,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "compromise",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1435,8 +1475,9 @@
         "storageGB": 128,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:47.391Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Pixel9ProXL165000,Dambahena. Seller claims fullset,no errors andseeksS24Ultraexchange. Previously128GB;currentdescription omits storage."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Pixel9ProXL165000,Dambahena. Seller claims fullset,no errors andseeksS24Ultraexchange. Previously128GB;currentdescription omits storage.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1057398137109323",
@@ -1449,7 +1490,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "compromise",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": true,
           "total": null,
@@ -1480,8 +1521,9 @@
         "storageGB": 128,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:49.927Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "ThalawathugodaWestPixel10at172000;128GB/12GB,fullset andKOKO explicit. Health,warranty andfees unstated."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "ThalawathugodaWestPixel10at172000;128GB/12GB,fullset andKOKO explicit. Health,warranty andfees unstated.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1444974007606120",
@@ -1494,7 +1536,7 @@
         "condition": "Used – Good (seller)",
         "stock": "check_failed",
         "status": "conflict",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": null,
           "total": null,
@@ -1522,8 +1564,9 @@
         "storageGB": null,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:21:52.394Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "Pixel10at165000;currentdescription claims good condition/original parts only. Earlier256GB/16GB information not reconfirmed."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "Pixel10at165000;currentdescription claims good condition/original parts only. Earlier256GB/16GB information not reconfirmed.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-2664570947332571",
@@ -1533,14 +1576,14 @@
         "location": "Pothuarawa /Malabe,Colombo — approximate",
         "condition": "Used – Good (seller)",
         "status": "compromise",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "warranty": "AppleCare until October claimed;year,validity,transfer and local service unverified",
         "battery": "100%health /13cycles — seller claims",
         "askingPrice": 200000,
         "url": "https://www.facebook.com/marketplace/item/2664570947332571/",
         "checkedAt": "2026-10-30T05:26:24.159Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:24.159Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -1562,7 +1605,8 @@
         "areaPriority": true,
         "priority": 13,
         "inspectionLabel": "Seller claims,not authenticated",
-        "currentSourceEvidence": "iPhone16Plus200000,Pothuarawa;unit only,display scratches. Seller claims100%health/13cycles andAppleCareuntilOctoberwithoutyear. Storage,KOKO,localcover unknown."
+        "currentSourceEvidence": "iPhone16Plus200000,Pothuarawa;unit only,display scratches. Seller claims100%health/13cycles andAppleCareuntilOctoberwithoutyear. Storage,KOKO,localcover unknown.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1460845802627564",
@@ -1572,14 +1616,14 @@
         "location": "Kiriwattuduwa North,Colombo — approximate",
         "condition": "Used – like new (seller)",
         "status": "conflict",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "warranty": "Not stated",
         "battery": "Not stated",
         "askingPrice": 100000,
         "url": "https://www.facebook.com/marketplace/item/1460845802627564/",
         "checkedAt": "2026-10-30T05:26:59.383Z",
         "lastSuccessfulCheckAt": "2026-10-30T05:26:59.383Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -1601,7 +1645,8 @@
         "areaPriority": false,
         "priority": 14,
         "inspectionLabel": "Seller claims,not authenticated",
-        "currentSourceEvidence": "100000HONOR adtitle400Pro,butdescription200Pro12/512/fullset. Identity unresolved;warranty,KOKO,health anddisplayhistory unknown."
+        "currentSourceEvidence": "100000HONOR adtitle400Pro,butdescription200Pro12/512/fullset. Identity unresolved;warranty,KOKO,health anddisplayhistory unknown.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       },
       {
         "id": "fb-1531874328208753",
@@ -1614,7 +1659,7 @@
         "condition": "Used · seller described",
         "stock": "check_failed",
         "status": "reject",
-        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable.",
+        "reason": "Fresh recheck failed 2 Nov: Marketplace browser provider unavailable and direct exact-item page returned cache miss. Retained prior successful evidence/date; not marked sold/unavailable. Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "koko": {
           "supported": false,
           "total": null,
@@ -1636,8 +1681,9 @@
         "storageGB": 512,
         "inspectionLabel": "Seller claims,not authenticated",
         "lastSuccessfulCheckAt": "2026-10-30T05:22:15.006Z",
-        "lastCheckAttemptAt": "2026-11-02T04:34:26.000Z",
-        "currentSourceEvidence": "iPhone15ProMax512159500,Dambahena;cash only andoriginal-parts/working-condition claims. Previous bypass disclosure remains unresolved despite current omission."
+        "lastCheckAttemptAt": "2026-11-03T04:43:49.000Z",
+        "currentSourceEvidence": "iPhone15ProMax512159500,Dambahena;cash only andoriginal-parts/working-condition claims. Previous bypass disclosure remains unresolved despite current omission.",
+        "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable."
       }
     ],
     "riskNotes": [
@@ -16926,6 +16972,26 @@
         "query": "Google Pixel 9",
         "returnedCards": 0,
         "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=Google%20Pixel%209"
+      },
+      {
+        "query": "iPhone 16 256GB",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2016%20256GB",
+        "timestamp": "2026-11-03T04:43:49.000Z",
+        "method": "Direct URL attempt; cache miss; browser provider unavailable",
+        "filters": "Colombo locationID101637126541407; exact seller area unverified",
+        "outcome": "check_failed",
+        "returnedCards": 0,
+        "error": "No current cards retrieved."
+      },
+      {
+        "query": "iPhone 15 Pro 256GB",
+        "url": "https://www.facebook.com/marketplace/101637126541407/search/?query=iPhone%2015%20Pro%20256GB",
+        "timestamp": "2026-11-03T04:43:49.000Z",
+        "method": "Direct URL attempt; cache miss; browser provider unavailable",
+        "filters": "Colombo locationID101637126541407; exact seller area unverified",
+        "outcome": "check_failed",
+        "returnedCards": 0,
+        "error": "No current cards retrieved."
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:46:31.281Z",
+  "updatedAt": "2026-11-03T04:43:49.000Z",
   "models": [
     {
       "id": "model-1",
@@ -77,7 +77,7 @@
       "id": "model-9",
       "priority": 9,
       "name": "iPhone 16 256GB USED",
-      "note": " include clean units, prioritise 93-95%+ verified health;\n>=90% is a fallback preference, not a guarantee of endurance.\n   Do not rank a worn regular 16 above a healthy Plus solely because it is newer.\n   User-supplied unit: 195,000, 89% health, 369 cycles, first use September 2025,\n   coverage reportedly expired 19 September 2026. Lower priority / pass at that\n   price for this user's battery goal. Earlier 180,000-185,000 negotiation idea\n   is advice, not a market quote or acceptance price.\n   Pasted assessment reports a possible iPhone 16 versus 16 Plus model mismatch.\n   Ask to inspect the model name and tapped model number together on-device;\n   do not authenticate or reject a phone from an unclear screenshot alone.",
+      "note": " include clean units, prioritise 93-95%+ verified health;\n>=90% is a fallback preference, not a guarantee of endurance.\n   Do not rank a worn regular 16 above a healthy Plus solely because it is newer.\n   User-supplied unit: 195,000, 89% health, 369 cycles, first use September 2025,\n   coverage reportedly expired 19 September 2026. Lower priority / pass at that\n   price for this user's battery goal. Earlier 180,000-185,000 negotiation idea\n   is advice, not a market quote or acceptance price.\n   Pasted assessment reports a possible iPhone 16 versus 16 Plus model mismatch.\n   Ask to inspect the model name and tapped model number together on-device;\n   do not authenticate or reject a phone from an unclear screenshot alone.\nDaily exact256GB target; include new only if exact variant is within budget. Verify battery health, cycles, warranty, and final KOKO total.",
       "platform": "Apple",
       "condition": "Used",
       "mandatory": true
@@ -155,6 +155,15 @@
       "condition": "Used",
       "mandatory": false,
       "note": "Nearby warranty-led budget alternative; verify claimed Abans remaining term,screen-replacement entitlement,transferability and actual local variant. Compare camera/HyperOS/performance with Pixel before choosing. No failure-rate proof."
+    },
+    {
+      "id": "model-iphone15pro256",
+      "priority": 18,
+      "name": "iPhone 15 Pro 256GB USED",
+      "platform": "Apple",
+      "condition": "Used",
+      "mandatory": true,
+      "note": "Daily target requested 3 Nov 2026. Seek <=LKR200,000 cash; final KOKO total must also be <=200,000. Prefer verified battery health >=90%, original parts and repair history, local hardware/display coverage, Colombo/Athurugiriya test-before-payment. Assess the smaller battery against all-day GPS/hotspot/camera use; do not assume 6–9h from80%to20%."
     }
   ],
   "secondary": "SECOND SEARCH GROUP - COMPARE IF OFFERS IMPROVE\nXiaomi 15T / 15T Pro; Samsung S25 / S25 FE / S24+ / S25+ and used Ultra;\nNothing Phone (3a) Pro and newer equivalents; used iPhone 14 Plus / 14 Pro Max /\n15 Pro Max; Pixel 9 Pro as a separate alternative. Consider newer Honor, OnePlus,\nvivo, Oppo, Realme GT and POCO models only if camera, OS, warranty and total price\nare competitive. Never let a low gaming price override camera requirements.",
