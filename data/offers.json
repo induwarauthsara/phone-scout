@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:43:53.338Z",
+  "updatedAt": "2026-11-03T22:47:14.886Z",
   "lastStockAudit": "2026-11-03T22:43:53.338Z",
   "active": [
     {
@@ -450,12 +450,47 @@
       "rank": 12
     },
     {
+      "id": "marketplace-1088552117150657",
+      "rank": 13,
+      "name": "OnePlus 12",
+      "seller": "Shanuka Abayasingha | Facebook Marketplace",
+      "storage": "12GB /256GB",
+      "condition": "Used - like new (seller)",
+      "cashPrice": 122000,
+      "url": "https://www.facebook.com/marketplace/item/1088552117150657/",
+      "address": "Wedamulla, Gampaha (Kelaniya nearby suburb; Pilapitiya card)",
+      "warranty": "Not stated",
+      "batteryHealth": "Battery health,cycles and repair history not stated",
+      "displayCoverage": "No written local display-line cover established.",
+      "testing": "Not stated; obtain permission to test exact SIM,hotspot,cameras,display and charging before paying.",
+      "variant": "Regional model and original ROM not stated;inspect About phone.",
+      "reason": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
+      "koko": {
+        "supported": null,
+        "monthly": null,
+        "total": null,
+        "fees": null,
+        "totalConfirmed": false,
+        "evidence": "KOKO not stated in inspected exact ad.",
+        "source": "https://www.facebook.com/marketplace/item/1088552117150657/",
+        "checkedAt": "2026-11-03T22:47:14.886Z"
+      },
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-11-03T22:47:14.886Z",
+        "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
+        "evidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
+        "method": "Exact live Facebook item page"
+      },
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "usedphones-15-256",
       "name": "iPhone 15",
       "seller": "Usedphones International Pvt Ltd 2 · ikman",
       "storage": "256GB",
       "condition": "Used (seller advertised)",
-      "rank": 13,
+      "rank": 14,
       "cashPrice": 174999,
       "url": "https://ikman.lk/en/ad/apple-iphone-15-256gb-used-for-sale-colombo-562",
       "address": "No.107 High Level Road, Pannipitiya 10230",
@@ -492,7 +527,7 @@
     },
     {
       "id": "appleshop-15plus-256",
-      "rank": 14,
+      "rank": 15,
       "name": "iPhone 15 Plus",
       "seller": "Apple Shop · ikman",
       "storage": "256GB",
@@ -562,7 +597,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "marketplace-1486733800018579",
@@ -598,7 +633,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "marketplace-1106236332050953",
@@ -634,7 +669,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "marketplace-852222554511158",
@@ -670,7 +705,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "marketplace-2075835499805421",
@@ -706,7 +741,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "marketplace-2565918743843009",
@@ -742,7 +777,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "phonecity-honor400-256",
@@ -754,7 +789,7 @@
       "url": "https://ikman.lk/en/ad/honor-400-5g-12gb-ram-200mp-brand-new-for-sale-colombo-5",
       "address": "No.10B, Athurugiriya Road, Kottawa",
       "firstSeen": "2026-10-27",
-      "rank": 21,
+      "rank": 22,
       "stock": {
         "status": "not_stated",
         "checkedAt": "2026-11-03T22:35:22.392Z",
@@ -794,7 +829,7 @@
       "url": "https://greenware.lk/mobile-phones/honor/400-12gb-ram-256gb-storage",
       "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
       "firstSeen": "2026-10-28",
-      "rank": 22,
+      "rank": 23,
       "stock": {
         "status": "not_stated",
         "checkedAt": "2026-11-03T22:35:24.210Z",
@@ -856,7 +891,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "marketplace-1152853117176556",
@@ -892,7 +927,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "marketplace-1744720329967322",
@@ -928,7 +963,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 25
+      "rank": 26
     },
     {
       "id": "marketplace-1714099976696651",
@@ -964,7 +999,7 @@
         "method": "Live browser exact item page"
       },
       "firstSeen": "2026-11-04",
-      "rank": 26
+      "rank": 27
     },
     {
       "id": "green-13r-512",
@@ -990,7 +1025,7 @@
         "fees": null,
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
-      "rank": 27,
+      "rank": 28,
       "stock": {
         "status": "not_stated",
         "checkedAt": "2026-11-03T22:35:24.142Z",
@@ -1024,7 +1059,7 @@
         "totalConfirmed": false,
         "note": "Advertised plan; confirm final checkout fees and available KOKO limit."
       },
-      "rank": 28,
+      "rank": 29,
       "stock": {
         "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:37.454Z",
@@ -1692,9 +1727,9 @@
     }
   ],
   "facebook": {
-    "updatedAt": "2026-11-03T22:43:53.338Z",
+    "updatedAt": "2026-11-03T22:47:14.886Z",
     "title": "Facebook finds",
-    "summary": "4 November: live browser browsing works. Cheaper13R offers and wider256GB+alternatives are now also in the main sortable shortlist. Every saved Facebook item was rechecked; two explicitly unavailable Pixel10 ads archived. Search coverage: targeted model searches at8km then40km around Athurugiriya; individual seller location still filters eligibility. Old listing age is shown as seller age,not mistaken for a failed live check. Cash prices are advertised; KOKO totals,warranty scope and handset condition remain unverified unless evidence says otherwise.",
+    "summary": "4 November: live browser browsing works. Cheaper13R offers and wider256GB+alternatives are now also in the main sortable shortlist. Every saved Facebook item was rechecked; two explicitly unavailable Pixel10 ads archived. Search coverage: targeted model searches at8km then40km around Athurugiriya; individual seller location still filters eligibility. Old listing age is shown as seller age,not mistaken for a failed live check. Cash prices are advertised; KOKO totals,warranty scope and handset condition remain unverified unless evidence says otherwise. Additional exact checks: OnePlus12 256GB at122000 added as a cash-price alternative;80000OnePlus12R retained as a storage-conflict research lead.",
     "preferences": {
       "budgetMax": 200000,
       "locationPriority": "Athurugiriya and nearby eastern suburbs; Colombo/nearby alternatives allowed",
@@ -1998,6 +2033,46 @@
         "priority": 7
       },
       {
+        "id": "fb-1088552117150657",
+        "name": "OnePlus 12",
+        "askingPrice": 122000,
+        "storage": "12GB /256GB",
+        "storageGB": 256,
+        "condition": "Used - like new (seller)",
+        "location": "Wedamulla, Gampaha (Kelaniya nearby suburb; Pilapitiya card)",
+        "seller": "Shanuka Abayasingha",
+        "status": "verify",
+        "reason": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
+        "url": "https://www.facebook.com/marketplace/item/1088552117150657/",
+        "checkedAt": "2026-11-03T22:47:14.886Z",
+        "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
+        "lastCheckAttemptAt": "2026-11-03T22:47:14.886Z",
+        "stock": "not_stated",
+        "warranty": "Not stated",
+        "battery": "Battery health,cycles and repair history not stated",
+        "testing": "Not stated; obtain permission to test exact SIM,hotspot,cameras,display and charging before paying.",
+        "displayCoverage": "No written local display-line cover established.",
+        "displayRisk": {
+          "label": "Comparative failure risk unknown",
+          "summary": "No reliable comparative display-line failure rate established. Inspect original screen and repairs and request written local line-fault cover.",
+          "sources": []
+        },
+        "koko": {
+          "supported": null,
+          "monthly": null,
+          "total": null,
+          "fees": null,
+          "totalConfirmed": false,
+          "evidence": "KOKO not stated in inspected exact ad.",
+          "source": "https://www.facebook.com/marketplace/item/1088552117150657/",
+          "checkedAt": "2026-11-03T22:47:14.886Z"
+        },
+        "areaPriority": false,
+        "priority": 8,
+        "currentSourceEvidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
+        "inspectionLabel": "Exact ad inspected;handset condition and seller claims not authenticated"
+      },
+      {
         "id": "fb-1815452673242677",
         "name": "iPhone 16 Plus",
         "askingPrice": 191000,
@@ -2030,7 +2105,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 8,
+        "priority": 9,
         "storageGB": 256,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2078,7 +2153,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 9
+        "priority": 10
       },
       {
         "id": "fb-1106236332050953",
@@ -2119,7 +2194,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 10
+        "priority": 11
       },
       {
         "id": "fb-852222554511158",
@@ -2160,7 +2235,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 11
+        "priority": 12
       },
       {
         "id": "fb-2075835499805421",
@@ -2201,7 +2276,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 12
+        "priority": 13
       },
       {
         "id": "fb-2565918743843009",
@@ -2236,7 +2311,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 13,
+        "priority": 14,
         "storageGB": 256,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2284,7 +2359,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 14
+        "priority": 15
       },
       {
         "id": "fb-1152853117176556",
@@ -2325,7 +2400,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 15
+        "priority": 16
       },
       {
         "id": "fb-1744720329967322",
@@ -2361,7 +2436,7 @@
         },
         "areaPriority": false,
         "seller": "Shaa Careem / French Mobile",
-        "priority": 16,
+        "priority": 17,
         "storageGB": 256,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2408,7 +2483,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 17
+        "priority": 18
       },
       {
         "id": "fb-1010417661810207",
@@ -2449,7 +2524,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 18
+        "priority": 19
       },
       {
         "id": "fb-2202213393847071",
@@ -2490,7 +2565,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 19
+        "priority": 20
       },
       {
         "id": "fb-29281773454787398",
@@ -2531,7 +2606,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 20
+        "priority": 21
       },
       {
         "id": "fb-1623914312813910",
@@ -2572,7 +2647,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 21
+        "priority": 22
       },
       {
         "id": "fb-1052923547333850",
@@ -2613,7 +2688,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "Exact target ad explicitly mentions KOKO;monthly,fees,all-in total and eligibility not stated."
         },
-        "priority": 22
+        "priority": 23
       },
       {
         "id": "fb-2594860840951655",
@@ -2648,7 +2723,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 23,
+        "priority": 24,
         "storageGB": 128,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2690,7 +2765,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "priority": 24,
+        "priority": 25,
         "storageGB": 128,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2732,7 +2807,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 25,
+        "priority": 26,
         "storageGB": null,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -2780,7 +2855,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 26
+        "priority": 27
       },
       {
         "id": "fb-1890895378566353",
@@ -2821,7 +2896,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 27
+        "priority": 28
       },
       {
         "id": "fb-2664570947332571",
@@ -2859,7 +2934,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "priority": 28,
+        "priority": 29,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "currentSourceEvidence": "8weeks;unitonly;some display scratches explicitly disclosed;storage unknown. KOKO/repairhistory not stated;verify cycles and actual coverage. Target page live;no sold-out.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
@@ -2904,7 +2979,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 29
+        "priority": 30
       },
       {
         "id": "fb-1460845802627564",
@@ -2942,7 +3017,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "priority": 30,
+        "priority": 31,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "currentSourceEvidence": "TitleHonor400Pro but body explicitlyModelHonor200Pro12GB512GBfullsetbox;do not shortlist as400Pro;KOKO,warranty unstated.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
@@ -2987,7 +3062,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 31
+        "priority": 32
       },
       {
         "id": "fb-1531874328208753",
@@ -3022,7 +3097,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 32,
+        "priority": 33,
         "storageGB": 512,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -3070,7 +3145,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 33
+        "priority": 34
       },
       {
         "id": "fb-1444974007606120",
@@ -3105,7 +3180,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "priority": 34,
+        "priority": 35,
         "storageGB": 256,
         "inspectionLabel": "Live exact ad inspected; handset and seller claims not authenticated",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
@@ -3153,7 +3228,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 35
+        "priority": 36
       },
       {
         "id": "fb-905393501967481",
@@ -3194,7 +3269,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 36
+        "priority": 37
       },
       {
         "id": "fb-4650271128586159",
@@ -3235,7 +3310,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "Exact ad states cash only."
         },
-        "priority": 37
+        "priority": 38
       },
       {
         "id": "fb-1113522445014456",
@@ -3276,7 +3351,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 38
+        "priority": 39
       },
       {
         "id": "fb-1430362205710326",
@@ -3317,7 +3392,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 39
+        "priority": 40
       },
       {
         "id": "fb-1599282425307411",
@@ -3358,7 +3433,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 40
+        "priority": 41
       },
       {
         "id": "fb-2934040063598539",
@@ -3399,7 +3474,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 41
+        "priority": 42
       },
       {
         "id": "fb-1261192642457180",
@@ -3440,7 +3515,7 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "Exact target ad explicitly mentions KOKO;monthly,fees,all-in total and eligibility not stated."
         },
-        "priority": 42
+        "priority": 43
       },
       {
         "id": "fb-2595847504252158",
@@ -3481,7 +3556,47 @@
           "checkedAt": "2026-11-03T22:43:53.338Z",
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
-        "priority": 43
+        "priority": 44
+      },
+      {
+        "id": "fb-1561946258659910",
+        "name": "OnePlus 12R — storage conflict",
+        "askingPrice": 80000,
+        "storage": "128GB stated for unit;generic specifications also say256GB",
+        "storageGB": null,
+        "condition": "Used - like new (seller)",
+        "location": "Belagama, Colombo (Angoda card)",
+        "seller": "Bathya Rukshan",
+        "status": "conflict",
+        "reason": "Exact live ad:17weeks old;unit description says8+8GBRAM/128GB,followed by generic16GB/256GB specifications. Do not treat Rs80000 as a confirmed256GB quote. KOKO,warranty,battery health and repairs not stated;hold until exact storage and handset verified.",
+        "url": "https://www.facebook.com/marketplace/item/1561946258659910/",
+        "checkedAt": "2026-11-03T22:47:14.886Z",
+        "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
+        "lastCheckAttemptAt": "2026-11-03T22:47:14.886Z",
+        "stock": "not_stated",
+        "warranty": "Not stated",
+        "battery": "Battery health,cycles and repair history not stated",
+        "testing": "Not stated; obtain permission to test exact SIM,hotspot,cameras,display and charging before paying.",
+        "displayCoverage": "No written local display-line cover established.",
+        "displayRisk": {
+          "label": "Comparative failure risk unknown",
+          "summary": "No reliable comparative display-line failure rate established. Inspect original screen and repairs and request written local line-fault cover.",
+          "sources": []
+        },
+        "koko": {
+          "supported": null,
+          "monthly": null,
+          "total": null,
+          "fees": null,
+          "totalConfirmed": false,
+          "evidence": "KOKO not stated in inspected exact ad.",
+          "source": "https://www.facebook.com/marketplace/item/1561946258659910/",
+          "checkedAt": "2026-11-03T22:47:14.886Z"
+        },
+        "areaPriority": false,
+        "priority": 45,
+        "currentSourceEvidence": "Exact live ad:17weeks old;unit description says8+8GBRAM/128GB,followed by generic16GB/256GB specifications. Do not treat Rs80000 as a confirmed256GB quote. KOKO,warranty,battery health and repairs not stated;hold until exact storage and handset verified.",
+        "inspectionLabel": "Exact ad inspected;handset condition and seller claims not authenticated"
       }
     ],
     "riskNotes": [

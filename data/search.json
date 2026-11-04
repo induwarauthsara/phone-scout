@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:43:53.338Z",
+  "updatedAt": "2026-11-04T04:55:58.853Z",
   "models": [
     {
       "id": "model-1",
@@ -164,6 +164,135 @@
       "condition": "Used",
       "mandatory": true,
       "note": "Daily target requested 3 Nov 2026. Seek <=LKR200,000 cash; final KOKO total must also be <=200,000. Prefer verified battery health >=90%, original parts and repair history, local hardware/display coverage, Colombo/Athurugiriya test-before-payment. Assess the smaller battery against all-day GPS/hotspot/camera use; do not assume 6–9h from80%to20%."
+    },
+    {
+      "id": "model-oneplus12-used-256",
+      "priority": 19,
+      "name": "OnePlus 12 256GB USED",
+      "platform": "Android",
+      "condition": "Used",
+      "mandatory": false,
+      "note": "Lower-price flagship camera alternative found near Kelaniya around122000. Inspect exact model,original screen,repair/battery condition,local SIM/hotspot performance and written warranty. KOKO unknown;no display-risk immunity or workload endurance guarantee."
+    },
+    {
+      "id": "user-nov04-0",
+      "name": "Galaxy A57 5G 256GB",
+      "note": "Compare exact 8GB and 12GB versions, local display cover and KOKO total. Kottawa ad claims KOKO; exact page reader failed.",
+      "source": "https://ikman.lk/en/ad/samsung-galaxy-a57-brand-new-for-sale-colombo-75",
+      "priority": 20,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-1",
+      "name": "Redmi M100 Pro",
+      "note": "Watch for exact local seller and regional model; no qualifying Colombo listing established.",
+      "source": "https://www.gsmarena.com/xiaomi_redmi_m100_pro-15054.php",
+      "priority": 21,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-2",
+      "name": "POCO X8s 5G",
+      "note": "GQ Mobiles category shows preorder at 159900 and KOKO 3 x 60568.18; verify storage and actual store stock before listing.",
+      "source": "https://gqmobiles.lk/",
+      "priority": 22,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-3",
+      "name": "Motorola Signature 27",
+      "note": "Watch for launch and genuine local availability under 200000; estimates are not quotes.",
+      "source": "https://www.gsmarena.com/motorola_signature_27-14955.php",
+      "priority": 23,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-4",
+      "name": "Nokia 2360 Flip",
+      "note": "Research only: 2G feature phone; unsuitable as the primary camera, GPS and hotspot replacement.",
+      "source": "https://www.gsmarena.com/nokia_2360_flip-15048.php",
+      "priority": 24,
+      "platform": "Feature phone",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-5",
+      "name": "Galaxy A17 256GB",
+      "note": "Budget fallback. Separate 4G and 5G listings; lower priority for heavy camera and performance use.",
+      "source": "https://www.singersl.com/brochure/download/SMG-A17-8-256-BLK",
+      "priority": 25,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-6",
+      "name": "POCO F7 256GB or 512GB",
+      "note": "Battery and performance candidate; compare camera against 13R. GQ shows sold out; Toyo 512GB from 129500 with advertised KOKO 139860 before variant selection.",
+      "source": "https://toyo.lk/product/xiaomi-poco-f7-5g-12gb-ram-512gb/",
+      "priority": 26,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-7",
+      "name": "Galaxy A37 5G 256GB",
+      "note": "Greenware older snapshot showed 12/256 at 116000 and KOKO 3 x 38666.67; recheck live.",
+      "source": "https://greenware.lk/mobile-phones/samsung/samsung-galaxy-a37-12gb-256gb",
+      "priority": 27,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-8",
+      "name": "Galaxy A56 5G 256GB",
+      "note": "Value comparison versus A57; Tecplanet exact 8/256 page showed out of stock.",
+      "source": "https://www.tecplanet.lk/product/samsung-galaxy-a56-5g-8gb-ram-256gb",
+      "priority": 28,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-9",
+      "name": "Galaxy S26 256GB",
+      "note": "Used or discounted units only if exact inspected all-in quote is within 200000.",
+      "source": "https://keeyada.lk/brands/samsung",
+      "priority": 29,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-10",
+      "name": "Redmi Note 15 Pro+ 5G 8GB / 256GB",
+      "note": "Exact 8/256, new or used; LuxuryX product copy quotes 129000 and one-year custom warranty, but selected stock and KOKO unverified.",
+      "source": "https://luxuryx.lk/redmi-note-15-pro-5g",
+      "priority": 30,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
+    },
+    {
+      "id": "user-nov04-11",
+      "name": "OPPO Reno16 5G 256GB",
+      "note": "Compare camera and local warranty. Colombo 11 used 12/256 ad found but exact page inaccessible in reader; confirm cash and KOKO.",
+      "source": "https://ikman.lk/en/ad/oppo-reno-16-256-12gb-used-for-sale-colombo",
+      "priority": 31,
+      "platform": "Android",
+      "condition": "Compare local listings",
+      "mandatory": true
     }
   ],
   "secondary": "SECOND SEARCH GROUP - COMPARE IF OFFERS IMPROVE\nXiaomi 15T / 15T Pro; Samsung S25 / S25 FE / S24+ / S25+ and used Ultra;\nNothing Phone (3a) Pro and newer equivalents; used iPhone 14 Plus / 14 Pro Max /\n15 Pro Max; Pixel 9 Pro as a separate alternative. Consider newer Honor, OnePlus,\nvivo, Oppo, Realme GT and POCO models only if camera, OS, warranty and total price\nare competitive. Never let a low gaming price override camera requirements.",

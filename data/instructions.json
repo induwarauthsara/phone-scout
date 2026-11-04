@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:43:53.338Z",
+  "updatedAt": "2026-11-04T04:55:58.853Z",
   "sections": [
     {
       "id": "stock-policy",
@@ -24,7 +24,7 @@
     {
       "id": "workflow",
       "title": "Daily workflow and complete research logging",
-      "body": "At 08:00 Asia/Colombo read profile/search/instructions/offers/recent logs JSON. Recheck all current offers, then search EVERY explicit target plus priority and worthwhile newer models. Log EVERY search query, filters/location, method and timestamp; every encountered product or ad result including unsuitable/over-budget/sold-out/out-of-area/duplicate/inaccessible results; record title, URL, any observed price/stock/KOKO/location, outcome, include/exclude/hold reason and failure. Separate snippets from opened pages and seller claims from verified facts. Do not omit unsuccessful searches or rejected offers. Store structured queries[] and findings[] in the append-only run log; include readable summaries so the dashboard presents everything. Preserve actual check times and previous values. A blocked check does not refresh lastSuccessfulCheckAt. No contacting sellers, cart mutations, reservations or purchases. Also search exact iPhone 16 256GB listings and iPhone 15 Pro 256GB used on every run; log variant, battery health, KOKO total evidence, warranty, location and failed checks."
+      "body": "At 08:00 Asia/Colombo read profile/search/instructions/offers/recent logs JSON. Recheck all current offers, then search EVERY explicit target plus priority and worthwhile newer models. Log EVERY search query, filters/location, method and timestamp; every encountered product or ad result including unsuitable/over-budget/sold-out/out-of-area/duplicate/inaccessible results; record title, URL, any observed price/stock/KOKO/location, outcome, include/exclude/hold reason and failure. Separate snippets from opened pages and seller claims from verified facts. Do not omit unsuccessful searches or rejected offers. Store structured queries[] and findings[] in the append-only run log; include readable summaries so the dashboard presents everything. Preserve actual check times and previous values. A blocked check does not refresh lastSuccessfulCheckAt. No contacting sellers, cart mutations, reservations or purchases. Also search exact iPhone 16 256GB listings and iPhone 15 Pro 256GB used on every run; log variant, battery health, KOKO total evidence, warranty, location and failed checks.\n\n4 November additional model watch: search the user-nov04 targets in data/search.json. User price estimates are discovery context only. Feature phones, preorders and over-budget quotes stay in research."
     },
     {
       "id": "ranking",
