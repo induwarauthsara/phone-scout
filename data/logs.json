@@ -168805,6 +168805,15 @@
       "source": "GitHub Git remote",
       "outcome": "retry_pending",
       "body": "The reviewed data update and build succeeded locally. Initial push of commit6cd2ede was rejected by GitHub with Internal Server Error. No conflict or force-push. Data preserved locally; retrying normal push. Facebook browser access also remained unavailable, so prior Facebook evidence is visibly stale."
+    },
+    {
+      "id": "publication-failed-confirmed-20261105",
+      "timestamp": "2026-11-05T16:01:58.851Z",
+      "type": "publication_failure",
+      "title": "Daily update saved locally; GitHub publication failed twice",
+      "source": "GitHub remote and Pages build API",
+      "outcome": "failed",
+      "body": "A second normal push was rejected with Internal Server Error. GitHub API confirmed main and the built Pages site still use7f850f60ac039a95c3d5d42195e044b2ff785a78 from4November. Today sixteen additions,45active offers, stock rechecks and full research log are safely committed locally. No force-push or unrelated work overwritten. Public site is NOT updated. Retry normal publication when GitHub recovers; tell user about delayed publication and unavailable live Facebook browser."
     }
   ]
 }
