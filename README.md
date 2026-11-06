@@ -2,12 +2,11 @@
 
 [Live dashboard](https://induwarauthsara.github.io/phone-scout/) · [Public repository](https://github.com/induwarauthsara/phone-scout)
 
-GitHub Pages serves the root of `main`. The daily Codex search commits and pushes
-updated JSON and its generated data bundle. Repository content, preferences and
-research logs are public, as approved by the owner. Publication failures are logged.
+GitHub Pages serves the root of `main`. The 8:00 a.m. Codex search currently updates
+the local dashboard only. The public site changes when a reviewed update is published.
 
-Open **index.html** in a browser. The five linked views are Store offers, Facebook finds, Phone targets,
-Instructions and Activity. No installation or internet is required to view saved data.
+Open **index.html** in a browser. The dashboard includes Store offers, Facebook finds, Finder & compare,
+Phone targets, Instructions and Activity. No installation or internet is required to view saved data.
 
 ## Data files
 
@@ -16,6 +15,8 @@ Instructions and Activity. No installation or internet is required to view saved
 - `data/instructions.json`: daily workflow and verification rules.
 - `data/offers.json`: `active` live listings with honest availability labels and separate historical records.
 - `data/logs.json`: append-only structured activity entries and preserved original logs.
+- `data/finder.json`: editable GSMArena Phone Finder link used by the next daily run.
+- `data/catalog.json`: the last captured finder list, compared specifications and positive stock checks.
 
 These JSON files are authoritative. Original TXT files are frozen migration backups.
 `originalText` fields preserve legacy text for reference; structured fields take precedence.
@@ -31,6 +32,40 @@ Optional live mode: `node serve.mjs`, then visit http://127.0.0.1:8787.
 Live mode reads the JSON directly on refresh and checks for changes every minute
 when no search field or expanded details are in use. The schedule runs in Codex,
 not in the webpage; opening the page does not start a search.
+
+## Daily finder catalog
+
+Change the link in **Finder & compare → Change the daily GSMArena link**. To save it directly,
+open the local dashboard at `http://127.0.0.1:8787/#catalog` with `node serve.mjs` running.
+On the hosted or offline page, download the settings and replace `data/finder.json` in
+this workspace. The next scheduled run uses the saved link. The current snapshot retains
+its original source and check time until the next capture.
+
+At 8:00 a.m. Asia/Colombo, read `data/finder.json` and validate its link using
+`normalizeFinderUrl` from `finder-config.mjs`. Open the actual finder results, record
+the reported count and every visible model ID, and inspect each phone's specification
+page. Record truncated or blocked coverage. On total source failure, keep the last valid
+model snapshot without changing its source or check date. Never interpret a blocked
+page as zero results.
+
+For each model search Google for “phone name Price in Sri Lanka” and search live ikman,
+Colombo Facebook Marketplace and popular Sri Lankan shops. Open each promising exact
+listing. Require positive stock wording for that variant, seller, location and advertised
+LKR price. Order buttons, an active ad, aggregator prices and other variants' stock badges
+do not count. Log blocked searches and exclude import-only or out-of-area offers. Do not
+message sellers, reserve, add to cart or purchase.
+
+Replace the current offers in `data/catalog.json` with offers verified in that run. Match
+offers by GSMArena model ID and exact regional phone. Preserve variant and condition;
+record stock wording and time in `stock`, price in `priceLkr` and its label in
+`priceEvidence`. Include an advertised KOKO total only if supported by evidence. Verified
+over-budget prices can appear in Finder as reference only. Remove unverified rechecks
+from the Finder and log why. The Finder also hides stock checks older than 36 hours.
+The existing Store shortlist and Facebook history retain their own rules.
+
+Append a dated Activity entry with queries, findings and coverage. Run `node build-data.mjs`
+to refresh the local dashboard. Keep unknown specs unknown, and do not treat camera
+specs or display type as evidence of better photos or a lower failure rate.
 
 ## Active offer format
 

@@ -16,8 +16,8 @@
         "supported": true,
         "monthly": 51666.67,
         "total": 155000,
-        "evidence": "Exact target product widget:3 X LKR 51,666.67 with Koko logo/img alt; advertised quote only.",
-        "checkedAt": "2026-11-03T22:35:23.657Z",
+        "evidence": "Exact variant page advertises 3 × LKR 51,666.67 with KOKO. Advertised installment total, subject to checkout.",
+        "checkedAt": "2026-11-06T04:55:36.719Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-12gb-ram-256gb-storage",
@@ -29,11 +29,12 @@
       "rank": 1,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:09.338Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:09.338Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
-        "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.338Z"
+        "checkedAt": "2026-11-06T04:55:36.719Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:55:36.719Z",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "method": "Public exact-page GET",
+        "lastCheckAttemptAt": "2026-11-06T04:55:36.719Z",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; issuer and display coverage need confirmation",
@@ -71,10 +72,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.501Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week old;global version12GB256GB;phone+cable;99%batteryhealth;6months shop warranty. No KOKO/displaycover/repair/testing terms;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:55:36.840Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week old;global version12GB256GB;phone+cable;99%batteryhealth;6months shop warranty. No KOKO/displaycover/repair/testing terms;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week old;global version12GB256GB;phone+cable;99%batteryhealth;6months shop warranty. No KOKO/displaycover/repair/testing terms;no sold-out."
       },
       "firstSeen": "2026-11-04",
       "rank": 2
@@ -109,10 +111,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.503Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed8weeks ago;12GB256GB;6000mAh80W Sony sensors seller claims. No sold-out label; KOKO,warranty,battery health,repair history and testing not stated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.138Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed8weeks ago;12GB256GB;6000mAh80W Sony sensors seller claims. No sold-out label; KOKO,warranty,battery health,repair history and testing not stated.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed8weeks ago;12GB256GB;6000mAh80W Sony sensors seller claims. No sold-out label; KOKO,warranty,battery health,repair history and testing not stated."
       },
       "firstSeen": "2026-11-04",
       "rank": 3
@@ -147,10 +150,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.505Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one week ago;16GB512GB;device only;everything works and all-day battery are seller claims. KOKO,warranty,repairs,health not stated; no sold-out label."
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.215Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one week ago;16GB512GB;device only;everything works and all-day battery are seller claims. KOKO,warranty,repairs,health not stated; no sold-out label.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one week ago;16GB512GB;device only;everything works and all-day battery are seller claims. KOKO,warranty,repairs,health not stated; no sold-out label."
       },
       "firstSeen": "2026-11-04",
       "rank": 4,
@@ -188,10 +192,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.507Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;titleglobal and bodyIndianused12GB256GB;phone+cable;7400mAh described as batteryhealth is capacityclaim,not healthmeasurement. KOKO,actualhealth,repairhistory and localdisplaycover unstated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.576Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;titleglobal and bodyIndianused12GB256GB;phone+cable;7400mAh described as batteryhealth is capacityclaim,not healthmeasurement. KOKO,actualhealth,repairhistory and localdisplaycover unstated.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;titleglobal and bodyIndianused12GB256GB;phone+cable;7400mAh described as batteryhealth is capacityclaim,not healthmeasurement. KOKO,actualhealth,repairhistory and localdisplaycover unstated."
       },
       "firstSeen": "2026-11-04",
       "rank": 5
@@ -210,8 +215,8 @@
         "supported": true,
         "monthly": 63333.33,
         "total": 190000,
-        "evidence": "Exact target product widget:3 X LKR 63,333.33 with Koko logo/img alt; advertised quote only.",
-        "checkedAt": "2026-11-03T22:35:24.059Z",
+        "evidence": "Exact variant page advertises 3 × LKR 63,333.33 with KOKO. Advertised installment total, subject to checkout.",
+        "checkedAt": "2026-11-06T04:55:37.844Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/oneplus-15r-5g",
@@ -223,11 +228,12 @@
       "rank": 6,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:09.509Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:09.509Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
-        "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.509Z"
+        "checkedAt": "2026-11-06T04:55:37.844Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:55:37.844Z",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "method": "Public exact-page GET",
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.844Z",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Confirm exact local warranty",
@@ -265,10 +271,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.511Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;184000fixed;KOKO explicit;alloriginalparts/originalbattery/fullsetmatchingbox sellerclaims;healthpercentage,cycles,warranty,displaycover and KOKOtotal unstated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.897Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;184000fixed;KOKO explicit;alloriginalparts/originalbattery/fullsetmatchingbox sellerclaims;healthpercentage,cycles,warranty,displaycover and KOKOtotal unstated.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;184000fixed;KOKO explicit;alloriginalparts/originalbattery/fullsetmatchingbox sellerclaims;healthpercentage,cycles,warranty,displaycover and KOKOtotal unstated."
       },
       "firstSeen": "2026-11-04",
       "rank": 7
@@ -286,12 +293,13 @@
       "addressSource": "https://ikman.lk/en/shops/usedphones-international",
       "firstSeen": "2026-10-21",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:49:09.512Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:49:09.512Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
         "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.512Z"
+        "lastCheckAttemptAt": "2026-11-06T04:55:38.165Z",
+        "lastSuccessfulEvidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged."
       },
       "koko": {
         "supported": true,
@@ -335,20 +343,21 @@
         "total": 179990,
         "fees": null,
         "totalConfirmed": false,
-        "selectedVariant": "Black or Dark Blue; one-year software / six-month hardware warranty",
-        "evidence": "Primary exact product line:3X LKR 59996.67 with Koko logo. Rounded advertised total; final checkout amount unconfirmed.",
+        "selectedVariant": "8GB / 256GB, black or dark blue, 1 year software + 6 months hardware warranty",
+        "evidence": "Exact variant page advertises 3 × LKR 59,996.67 with KOKO. Advertised installment total, subject to checkout.",
         "source": "https://xmobile.lk/product/samsung-galaxy-s25-fe-8gb-ram-256gb/",
-        "checkedAt": "2026-10-30T05:18:38.481Z",
+        "checkedAt": "2026-11-06T04:58:11.865Z",
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "provenance": "Live HTTP target product summary; no checkout performed"
       },
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:10.485Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:10.485Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
-        "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.485Z"
+        "checkedAt": "2026-11-06T04:58:11.865Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:58:11.865Z",
+        "evidence": "Exact 8GB/256GB black and dark blue options show the same price and no positive stock wording. White and light blue options explicitly say Out of stock.",
+        "method": "Public exact-page GET",
+        "lastCheckAttemptAt": "2026-11-06T04:58:11.865Z",
+        "lastSuccessfulEvidence": "Exact 8GB/256GB black and dark blue options show the same price and no positive stock wording. White and light blue options explicitly say Out of stock."
       },
       "firstSeen": "2026-10-19"
     },
@@ -368,12 +377,13 @@
       "reason": "Fresh lower-price camera flagship lead. Titanium black; seller says phone can be seen in Dehiwala. Battery health/cycles, original screen and warranty unknown; KOKO not stated.",
       "rank": 10,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:09.164Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:09.164Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:09.164Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:39.587Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": null,
@@ -420,10 +430,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.504Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 11weeks;12GB256GB;fullsetbox;brandnewcondition seller claim;cash/exchange and creditcard accepted. Creditcard is not KOKO evidence;model verification needed;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:55:39.704Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 11weeks;12GB256GB;fullsetbox;brandnewcondition seller claim;cash/exchange and creditcard accepted. Creditcard is not KOKO evidence;model verification needed;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 11weeks;12GB256GB;fullsetbox;brandnewcondition seller claim;cash/exchange and creditcard accepted. Creditcard is not KOKO evidence;model verification needed;no sold-out."
       },
       "firstSeen": "2026-11-04",
       "rank": 11
@@ -455,12 +466,13 @@
         "checkedAt": "2026-11-03T22:43:53.338Z"
       },
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:49:10.515Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:49:10.515Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
         "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.515Z"
+        "lastCheckAttemptAt": "2026-11-06T04:55:39.850Z",
+        "lastSuccessfulEvidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged."
       },
       "firstSeen": "2026-11-04"
     },
@@ -494,10 +506,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.527Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;global16GB512GB;fullset originalcharger matchingbox seller claims. KOKO,warranty,repairs,health/testing not stated;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:55:40.421Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;global16GB512GB;fullset originalcharger matchingbox seller claims. KOKO,warranty,repairs,health/testing not stated;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;global16GB512GB;fullset originalcharger matchingbox seller claims. KOKO,warranty,repairs,health/testing not stated;no sold-out."
       },
       "firstSeen": "2026-11-04",
       "rank": 13
@@ -532,10 +545,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:47:14.886Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Exact live Facebook item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.643Z",
-        "previousSuccessfulEvidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:41.029Z",
+        "previousSuccessfulEvidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
+        "lastSuccessfulEvidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated."
       },
       "firstSeen": "2026-11-04"
     },
@@ -552,12 +566,13 @@
       "addressSource": "https://ikman.lk/en/shops/usedphones-international",
       "firstSeen": "2026-10-21",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:49:10.734Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:49:10.734Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
         "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.734Z"
+        "lastCheckAttemptAt": "2026-11-06T04:55:41.636Z",
+        "lastSuccessfulEvidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged."
       },
       "koko": {
         "supported": true,
@@ -581,46 +596,8 @@
       "reason": "Nearby Pannipitiya iPhone15 256GB with advertised91% battery and6months shop warranty. Unit174999; cable178000;fullset180000. KOKO explicitly supported; final fees/total unknown. Verify exact unit and Parts and Service History."
     },
     {
-      "id": "xmobile-honor400pro-512",
-      "name": "HONOR 400 Pro",
-      "seller": "XMobile",
-      "cashPrice": 191999,
-      "storage": "12GB / 512GB",
-      "condition": "New (advertised)",
-      "url": "https://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
-      "address": "42N,Ground Floor,Liberty Plaza,Colombo03",
-      "warranty": "1 Year Company Warranty option; issuer/display scope unconfirmed",
-      "displayCoverage": "No written local spontaneous display-line coverage established",
-      "testing": "Not stated; obtain permission before paying",
-      "variant": "See offer notes; region and device identity require on-device verification",
-      "reason": "Secondary regional alternative: exact page says5300mAh, so this is NOT the preferred verified6000mAh variant. Confirm region, battery, selected colour/warranty price and all-in KOKO quote.",
-      "rank": 16,
-      "stock": {
-        "status": "not_stated",
-        "checkedAt": "2026-11-05T15:51:35.417Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:51:35.417Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:35.417Z",
-        "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
-      },
-      "koko": {
-        "supported": true,
-        "monthly": 63999.67,
-        "total": 191999,
-        "fees": null,
-        "totalConfirmed": false,
-        "scope": "product",
-        "source": "https://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
-        "checkedAt": "2026-11-05T15:51:35.417Z",
-        "selectedVariant": "12GB / 512GB; 1 Year Company Warranty option; issuer/display scope unconfirmed",
-        "evidence": "Exact target KOKO-labelled installment widget.",
-        "note": "Advertised amounts only. Obtain selected-variant all-in quote <=200000 before buying; unknown fees are not assumed zero."
-      },
-      "firstSeen": "2026-11-05T15:51:35.417Z"
-    },
-    {
       "id": "appleshop-15plus-256",
-      "rank": 17,
+      "rank": 16,
       "name": "iPhone 15 Plus",
       "seller": "Apple Shop · ikman",
       "storage": "256GB",
@@ -630,12 +607,13 @@
       "address": "Dehiwala listing; seller says next to ELITE Restaurant, Mount Lavinia. Confirm exact shop.",
       "firstSeen": "2026-10-18",
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:49:11.105Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:49:11.105Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
         "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.105Z"
+        "lastCheckAttemptAt": "2026-11-06T04:55:44.632Z",
+        "lastSuccessfulEvidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged."
       },
       "koko": {
         "supported": true,
@@ -670,14 +648,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Local camera/OS alternative with advertised six-month cover and KOKO. Battery health, cycles, repairs and display-line cover unknown. No assured network or endurance improvement.",
-      "rank": 18,
+      "rank": 17,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:51:36.867Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:51:36.867Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:36.867Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:44.642Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -708,15 +687,16 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Phone only; HN/A SIM version; seller claims93% battery health and598 cycles. At the cash cap; KOKO and warranty unknown. Inspect original parts and run your SIM/hotspot before payment.",
-      "rank": 19,
+      "rank": 18,
       "batteryHealth": 93,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:53:18.461Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:53:18.461Z",
-        "lastCheckAttemptAt": "2026-11-05T15:53:18.461Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:44.646Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": null,
@@ -763,13 +743,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.187Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;all parts original sellerclaim;KOKO,warranty,displaycover unstated;fresh exact-page recheck succeeded after initial loading blank."
+        "lastCheckAttemptAt": "2026-11-06T04:55:44.649Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;all parts original sellerclaim;KOKO,warranty,displaycover unstated;fresh exact-page recheck succeeded after initial loading blank.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One week;all parts original sellerclaim;KOKO,warranty,displaycover unstated;fresh exact-page recheck succeeded after initial loading blank."
       },
       "firstSeen": "2026-11-04",
-      "rank": 20
+      "rank": 19
     },
     {
       "id": "marketplace-1486733800018579",
@@ -801,13 +782,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.367Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2days;12GB256GBtitle;carefullyused/noscratches sellerclaims;KOKO,warranty,region,cycles/repairs unknown. Cheapercashthan190000Pixel10 but accessorypackage not stated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:45.596Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2days;12GB256GBtitle;carefullyused/noscratches sellerclaims;KOKO,warranty,region,cycles/repairs unknown. Cheapercashthan190000Pixel10 but accessorypackage not stated.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2days;12GB256GBtitle;carefullyused/noscratches sellerclaims;KOKO,warranty,region,cycles/repairs unknown. Cheapercashthan190000Pixel10 but accessorypackage not stated."
       },
       "firstSeen": "2026-11-04",
-      "rank": 21
+      "rank": 20
     },
     {
       "id": "marketplace-1106236332050953",
@@ -839,13 +821,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.423Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 3days;Indian256GB;noissues/scratches originalbox/cable+Google45Wcharger sellerclaims;190000negotiable;noexchange. KOKO,warranty/cycles/repairhistory not stated. Network suitability is sellerclaim, test localSIM."
+        "lastCheckAttemptAt": "2026-11-06T04:55:46.045Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 3days;Indian256GB;noissues/scratches originalbox/cable+Google45Wcharger sellerclaims;190000negotiable;noexchange. KOKO,warranty/cycles/repairhistory not stated. Network suitability is sellerclaim, test localSIM.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 3days;Indian256GB;noissues/scratches originalbox/cable+Google45Wcharger sellerclaims;190000negotiable;noexchange. KOKO,warranty/cycles/repairhistory not stated. Network suitability is sellerclaim, test localSIM."
       },
       "firstSeen": "2026-11-04",
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "ikman-pocof7-used-256",
@@ -861,14 +844,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Lower-cost global-version phone-only offer; ONLY CASH. Battery health, repairs and display warranty absent. Inspect exact model/region; ad battery metadata6000mAh needs checking. Camera/OS are tradeoffs to test.",
-      "rank": 23,
+      "rank": 22,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:09.325Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:09.325Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:09.325Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:46.231Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": false,
@@ -915,13 +899,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.819Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed11weeks ago;16+12RAM;6000mAh and120Wcharger seller claims; verify actual charger/model. KOKO,warranty,repairs,health not stated;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:55:46.962Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed11weeks ago;16+12RAM;6000mAh and120Wcharger seller claims; verify actual charger/model. KOKO,warranty,repairs,health not stated;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed11weeks ago;16+12RAM;6000mAh and120Wcharger seller claims; verify actual charger/model. KOKO,warranty,repairs,health not stated;no sold-out."
       },
       "firstSeen": "2026-11-04",
-      "rank": 24
+      "rank": 23
     },
     {
       "id": "marketplace-2075835499805421",
@@ -953,13 +938,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.890Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 5weeks;16+12RAM512GB99%batteryhealth claimed. No KOKO,warranty,repair/testing terms;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:55:47.710Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 5weeks;16+12RAM512GB99%batteryhealth claimed. No KOKO,warranty,repair/testing terms;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 5weeks;16+12RAM512GB99%batteryhealth claimed. No KOKO,warranty,repair/testing terms;no sold-out."
       },
       "firstSeen": "2026-11-04",
-      "rank": 25
+      "rank": 24
     },
     {
       "id": "ikman-oneplus13-india-256",
@@ -975,14 +961,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Indian version, full box and100W charger advertised. Cash sales only. Inspect exact ROM, carrier support, battery and original display; claimed eSIM support needs verification.",
-      "rank": 26,
+      "rank": 25,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:51:39.654Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:51:39.654Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:39.654Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:48.638Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": false,
@@ -1013,14 +1000,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Selected99%-condition256GB full-set warranty bundle159990;144990 headline is90%-condition phone-only without warranty. KoreanSM-S926N: test local carrier/hotspot. KOKO not stated in exact ad.",
-      "rank": 27,
+      "rank": 26,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:09.318Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:09.318Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:09.318Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:50.672Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": null,
@@ -1067,13 +1055,14 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.957Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 7weeks;Chinese version12GB256GB;fullsetbox charger/backcover;6monthsshop warranty;KOKO/displaycover/repair/testing not stated;no sold-out. Distinct ad from159000global offer."
+        "lastCheckAttemptAt": "2026-11-06T04:55:52.100Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 7weeks;Chinese version12GB256GB;fullsetbox charger/backcover;6monthsshop warranty;KOKO/displaycover/repair/testing not stated;no sold-out. Distinct ad from159000global offer.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 7weeks;Chinese version12GB256GB;fullsetbox charger/backcover;6monthsshop warranty;KOKO/displaycover/repair/testing not stated;no sold-out. Distinct ad from159000global offer."
       },
       "firstSeen": "2026-11-04",
-      "rank": 28
+      "rank": 27
     },
     {
       "id": "smartgadgets-redmi15proplus-256",
@@ -1089,14 +1078,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Selected company-warranty/TRCSL quote131490, not129990 no-warranty option. Confirm issuer, display cover and regional specs; ad metadata says5000mAh, inconsistent with6500mAh product descriptions. Camera/HyperOS comparison needed.",
-      "rank": 29,
+      "rank": 28,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:51:45.423Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:51:45.423Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:45.423Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:52.362Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1127,26 +1117,27 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Nearby battery/value alternative; cash134990, normal139999 and advertised KOKO151200 total. Target says In Stock—Call to Check. Obtain actual condition, local warranty/display terms and testing permission.",
-      "rank": 30,
+      "rank": 29,
       "stock": {
         "status": "in_stock",
-        "checkedAt": "2026-11-05T15:51:45.161Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:51:45.161Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:45.161Z",
-        "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "In Stock — Call to Check"
+        "checkedAt": "2026-11-06T04:55:52.720Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:55:52.720Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:52.720Z",
+        "method": "Public exact-page GET",
+        "evidence": "Exact 8GB/256GB listing says “In Stock — Call to Check” next to the price and purchase controls.",
+        "lastSuccessfulEvidence": "Exact 8GB/256GB listing says “In Stock — Call to Check” next to the price and purchase controls."
       },
       "koko": {
         "supported": true,
         "monthly": 50400,
         "total": 151200,
-        "fees": null,
+        "fees": 16210,
         "totalConfirmed": false,
         "scope": "product",
         "source": "https://microtec.lk/mobile-phones/xiaomi-redmi-note-15-pro-5g",
-        "checkedAt": "2026-11-05T15:51:45.161Z",
-        "selectedVariant": "8GB / 256GB; Not stated",
-        "evidence": "Exact target KOKO-labelled installment widget.",
+        "checkedAt": "2026-11-06T04:55:52.720Z",
+        "selectedVariant": "8GB / 256GB",
+        "evidence": "Exact variant page advertises 3 × LKR 50,400.00 with KOKO. Advertised installment total, subject to checkout.",
         "note": "Advertised amounts only. Obtain selected-variant all-in quote <=200000 before buying; unknown fees are not assumed zero."
       },
       "firstSeen": "2026-11-05T15:51:45.161Z"
@@ -1165,14 +1156,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Strong storage/value lead from live page5. Confirm regional model, battery specification, written warranty and final KOKO fees. Camera/performance not established as a Pixel upgrade.",
-      "rank": 31,
+      "rank": 30,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:10.769Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:10.769Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:10.769Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:54.140Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1199,14 +1191,15 @@
       "url": "https://ikman.lk/en/ad/honor-400-5g-12gb-ram-200mp-brand-new-for-sale-colombo-5",
       "address": "No.10B, Athurugiriya Road, Kottawa",
       "firstSeen": "2026-10-27",
-      "rank": 32,
+      "rank": 31,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:49:11.964Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:49:11.964Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Selected earbuds bundle remains149900; headline146990 is not this bundle.",
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
         "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.964Z"
+        "lastCheckAttemptAt": "2026-11-06T04:55:54.384Z",
+        "lastSuccessfulEvidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Selected earbuds bundle remains149900; headline146990 is not this bundle."
       },
       "koko": {
         "supported": true,
@@ -1243,14 +1236,15 @@
       "testing": "Not stated; obtain permission before paying",
       "variant": "See offer notes; region and device identity require on-device verification",
       "reason": "Cheaper than XMobile179990 but substantially shorter advertised checking warranty. Confirm approval, original regional unit and written display terms; KOKO fees unknown.",
-      "rank": 33,
+      "rank": 32,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:09.327Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:09.327Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:09.327Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:57.133Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1277,14 +1271,15 @@
       "url": "https://greenware.lk/mobile-phones/honor/400-12gb-ram-256gb-storage",
       "address": "42 P, Ground Floor, Liberty Plaza, Colombo 03 / 154 Galle Road, Colombo 04",
       "firstSeen": "2026-10-28",
-      "rank": 34,
+      "rank": 33,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:11.980Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:11.980Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
-        "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.980Z"
+        "checkedAt": "2026-11-06T04:55:57.148Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:55:57.148Z",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "method": "Public exact-page GET",
+        "lastCheckAttemptAt": "2026-11-06T04:55:57.148Z",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "koko": {
         "selectedVariant": "12GB / 256GB",
@@ -1296,14 +1291,51 @@
         "totalConfirmed": false,
         "fees": null,
         "source": "https://greenware.lk/mobile-phones/honor/400-12gb-ram-256gb-storage",
-        "checkedAt": "2026-11-03T22:35:24.210Z",
-        "evidence": "Exact target product widget:3 X LKR 45,000.00 with Koko logo/img alt; advertised quote only."
+        "checkedAt": "2026-11-06T04:55:57.148Z",
+        "evidence": "Exact variant page advertises 3 × LKR 45,000.00 with KOKO. Advertised installment total, subject to checkout."
       },
       "warranty": "One year advertised; issuer,hardware/display terms and Singer eligibility not established.",
       "displayCoverage": "Not confirmed; obtain written local display-line cover.",
       "testing": "Not confirmed; test exact unit before payment.",
       "variant": "12GB/256GB; selected regional model/6000mAh unit and colour need verification.",
       "reason": "New lower-price battery/value alternative at134000 advertised cash/KOKO. Same model as Phone City,but149900 earbuds/Singer-warranty bundle has different terms. Camera zoom,performance and MagicOS are compromises versus flagship alternatives. No proven lower display-line failure rate or6–9h80%-20% endurance. Prefer written local cover over the lowest price."
+    },
+    {
+      "id": "xmobile-honor400-256",
+      "name": "HONOR 400",
+      "seller": "XMobile",
+      "storage": "12GB / 256GB",
+      "condition": "New (retail)",
+      "cashPrice": 125000,
+      "url": "https://xmobile.lk/product/honor-400-5g-12gb-ram-256gb/",
+      "address": "42N, Ground Floor, Liberty Plaza, Colombo 03",
+      "variant": "Desert Gold or Midnight Black, 1 year company warranty. Seller lists 5,300mAh and 66W. Region not confirmed.",
+      "warranty": "1 year company warranty advertised on both exact options",
+      "displayCoverage": "Display-line cover not stated",
+      "testing": "Store pickup advertised. Test-before-payment permission not stated.",
+      "koko": {
+        "supported": true,
+        "scope": "product",
+        "monthly": 41666.67,
+        "total": 125000,
+        "fees": null,
+        "evidence": "Product price widget displays 3 × LKR 41,666.67 with Koko logo and matching data-price. Rounded advertised total only.",
+        "selectedVariant": "12GB / 256GB, Desert Gold or Midnight Black, 1 year company warranty",
+        "note": "Confirm fees and payable amount before payment.",
+        "source": "https://xmobile.lk/product/honor-400-5g-12gb-ram-256gb/",
+        "checkedAt": "2026-11-06T04:57:54.214Z",
+        "totalConfirmed": false
+      },
+      "reason": "Lower cash price than the existing Greenware HONOR 400. XMobile advertises a 5,300mAh battery. Local display-line cover, test-before-payment and workload endurance are unverified.",
+      "rank": 34,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-11-06T04:57:54.214Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:57:54.214Z",
+        "evidence": "Both exact options returned LKR 125,000. Product asks buyers to verify availability and displays no positive stock wording for these options.",
+        "method": "Public exact-page GET"
+      },
+      "firstSeen": "2026-11-06T04:57:54.214Z"
     },
     {
       "id": "ya-pixel9a-256",
@@ -1321,12 +1353,13 @@
       "reason": "Fresh exact256GB quote from page5. Familiar Pixel OS at lower price; no dedicated telephoto. No assumption this fixes your Pixel7Pro signal, heat or display problems; obtain local cover and test.",
       "rank": 35,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:11.494Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:11.494Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:11.494Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:57.152Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1373,10 +1406,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.168Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one day ago;256GBfullsetbox;health,cycles,KOKO,warranty and repairs not stated. Worth investigating exact condition rather than assuming good battery."
+        "lastCheckAttemptAt": "2026-11-06T04:55:58.737Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one day ago;256GBfullsetbox;health,cycles,KOKO,warranty and repairs not stated. Worth investigating exact condition rather than assuming good battery.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Listed one day ago;256GBfullsetbox;health,cycles,KOKO,warranty and repairs not stated. Worth investigating exact condition rather than assuming good battery."
       },
       "firstSeen": "2026-11-04",
       "rank": 36
@@ -1411,10 +1445,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.357Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One day;greenLL/A256GBmatchingboxmintcondition sellerclaims;verify eSIMcompatibility and actual battery. KOKO,warranty/repairs/health not stated."
+        "lastCheckAttemptAt": "2026-11-06T04:55:59.658Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One day;greenLL/A256GBmatchingboxmintcondition sellerclaims;verify eSIMcompatibility and actual battery. KOKO,warranty/repairs/health not stated.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. One day;greenLL/A256GBmatchingboxmintcondition sellerclaims;verify eSIMcompatibility and actual battery. KOKO,warranty/repairs/health not stated."
       },
       "firstSeen": "2026-11-04",
       "rank": 37
@@ -1449,10 +1484,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.476Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;16GB256GB;brandnewcondition fullsetbox sellerclaims;KOKO,warranty,batteryhealth not stated. Fresh browser check replaces stale warning."
+        "lastCheckAttemptAt": "2026-11-06T04:56:00.405Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;16GB256GB;brandnewcondition fullsetbox sellerclaims;KOKO,warranty,batteryhealth not stated. Fresh browser check replaces stale warning.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. 2weeks;16GB256GB;brandnewcondition fullsetbox sellerclaims;KOKO,warranty,batteryhealth not stated. Fresh browser check replaces stale warning."
       },
       "firstSeen": "2026-11-04",
       "rank": 38
@@ -1487,10 +1523,11 @@
         "status": "check_failed",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. No browser endpoint was available; public HTTP returned title-only/login content. Prior price, condition and KOKO evidence are retained.",
+        "evidence": "Stale previous listing. Public page did not expose verifiable exact-ad details and Colombo seller location.",
         "method": "Live browser exact item page",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.542Z",
-        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Indian version16GB512GB title;fullsetbox phonecharger/twocovers;two months warranty remaining claim on23weekoldad cannot imply2months fromtoday. KOKO/displaycover/repairs/health not stated;no sold-out."
+        "lastCheckAttemptAt": "2026-11-06T04:56:00.672Z",
+        "previousSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Indian version16GB512GB title;fullsetbox phonecharger/twocovers;two months warranty remaining claim on23weekoldad cannot imply2months fromtoday. KOKO/displaycover/repairs/health not stated;no sold-out.",
+        "lastSuccessfulEvidence": "Exact live Facebook listing inspected; no target sold/unavailable label. Indian version16GB512GB title;fullsetbox phonecharger/twocovers;two months warranty remaining claim on23weekoldad cannot imply2months fromtoday. KOKO/displaycover/repairs/health not stated;no sold-out."
       },
       "firstSeen": "2026-11-04",
       "rank": 39
@@ -1512,11 +1549,12 @@
       "rank": 40,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:51:41.311Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:51:41.311Z",
-        "lastCheckAttemptAt": "2026-11-05T15:51:41.311Z",
-        "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "checkedAt": "2026-11-06T04:56:00.989Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:56:00.989Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:00.989Z",
+        "method": "Public exact-page GET",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "koko": {
         "supported": true,
@@ -1526,9 +1564,9 @@
         "totalConfirmed": false,
         "scope": "product",
         "source": "https://www.greenware.lk/mobile-phones/samsung/samsung-galaxy-a57-12gb-256gb-5g",
-        "checkedAt": "2026-11-05T15:51:41.311Z",
-        "selectedVariant": "12GB / 256GB; Not stated in inspected target summary",
-        "evidence": "Exact target KOKO-labelled installment widget.",
+        "checkedAt": "2026-11-06T04:56:00.989Z",
+        "selectedVariant": "12GB / 256GB",
+        "evidence": "Exact variant page advertises 3 × LKR 51,333.33 with KOKO. Advertised installment total, subject to checkout.",
         "note": "Advertised amounts only. Obtain selected-variant all-in quote <=200000 before buying; unknown fees are not assumed zero."
       },
       "firstSeen": "2026-11-05T15:51:41.311Z"
@@ -1549,12 +1587,13 @@
       "reason": "Cheaper8/256 alternative to Greenware12/256. Major limitation is short checking cover and unverified local display protection. Verify exact model/specifications and final KOKO quote.",
       "rank": 41,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:10.096Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:10.096Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:10.096Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:01.151Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1585,8 +1624,8 @@
         "supported": true,
         "monthly": 64000,
         "total": 192000,
-        "evidence": "Exact target product widget:3 X LKR 64,000.00 with Koko logo/img alt; advertised quote only.",
-        "checkedAt": "2026-11-03T22:35:24.142Z",
+        "evidence": "Exact variant page advertises 3 × LKR 64,000.00 with KOKO. Advertised installment total, subject to checkout.",
+        "checkedAt": "2026-11-06T04:56:01.303Z",
         "totalConfirmed": false,
         "note": "Advertised only; final fees/eligibility unconfirmed; rounding may differ by0.01.",
         "source": "https://www.greenware.lk/mobile-phones/oneplus/13r-16gb-ram-512gb-storage",
@@ -1598,11 +1637,12 @@
       "rank": 42,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:12.557Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:12.557Z",
-        "evidence": "Exact live product/ad inspected; no target-specific stock wording. Listing retained as stock not stated. Advertised price unchanged.",
-        "method": "Fresh direct public HTTP GET; exact product/ad summary",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.557Z"
+        "checkedAt": "2026-11-06T04:56:01.303Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:56:01.303Z",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "method": "Public exact-page GET",
+        "lastCheckAttemptAt": "2026-11-06T04:56:01.303Z",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "firstSeen": "2026-10-17",
       "warranty": "One year advertised; confirm issuer and spontaneous display-line coverage",
@@ -1627,11 +1667,12 @@
       "rank": 43,
       "stock": {
         "status": "not_stated",
-        "checkedAt": "2026-11-05T15:49:17.049Z",
-        "lastSuccessfulCheckAt": "2026-11-05T15:49:17.049Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:17.049Z",
-        "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "checkedAt": "2026-11-06T04:56:02.792Z",
+        "lastSuccessfulCheckAt": "2026-11-06T04:56:02.792Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:02.792Z",
+        "method": "Public exact-page GET",
+        "evidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording.",
+        "lastSuccessfulEvidence": "Exact variant, unchanged cash price and product KOKO widget rechecked. No explicit stock wording."
       },
       "koko": {
         "supported": true,
@@ -1641,9 +1682,9 @@
         "totalConfirmed": false,
         "scope": "product",
         "source": "https://greenware.lk/mobile-phones/samsung/samsung-galaxy-a37-12gb-256gb",
-        "checkedAt": "2026-11-05T15:49:17.049Z",
-        "selectedVariant": "12GB / 256GB; One year advertised; issuer/display scope unconfirmed",
-        "evidence": "Exact target KOKO-labelled installment widget.",
+        "checkedAt": "2026-11-06T04:56:02.792Z",
+        "selectedVariant": "12GB / 256GB",
+        "evidence": "Exact variant page advertises 3 × LKR 39,666.67 with KOKO. Advertised installment total, subject to checkout.",
         "note": "Advertised amounts only. Obtain selected-variant all-in quote <=200000 before buying; unknown fees are not assumed zero."
       },
       "firstSeen": "2026-11-05T15:49:17.049Z"
@@ -1664,12 +1705,13 @@
       "reason": "Lower-cost comparison, weaker cover than desired. Verify network approval, written display warranty and final fees. No assumption of Pixel-level camera/performance.",
       "rank": 44,
       "stock": {
-        "status": "not_stated",
+        "status": "check_failed",
         "checkedAt": "2026-11-05T15:55:10.334Z",
         "lastSuccessfulCheckAt": "2026-11-05T15:55:10.334Z",
-        "lastCheckAttemptAt": "2026-11-05T15:55:10.334Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:03.175Z",
         "method": "Fresh direct public HTTP GET; exact public product/ad page",
-        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+        "evidence": "Stale previous listing. TimeoutError: The operation was aborted due to timeout",
+        "lastSuccessfulEvidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
       },
       "koko": {
         "supported": true,
@@ -1709,7 +1751,7 @@
       "stock": {
         "status": "check_failed",
         "checkedAt": "2026-10-30T05:18:37.454Z",
-        "evidence": "STALE: latest attempt could not inspect the exact offer. HTTP 403 verification block; prior successful details retained.",
+        "evidence": "Stale previous listing. HTTP 403.",
         "method": "Exact URL attempted through public page reader; cache miss or stale snapshot",
         "lastSuccessfulCheckAt": "2026-10-17T11:38:13.342Z",
         "previousEvidence": "Live target listing opens with advertised price; no target-specific sold-out notice observed. Stock not expressly stated.",
@@ -1717,10 +1759,11 @@
           "startedAt": "2026-10-18T05:43:43.579Z",
           "endedAt": "2026-10-18T06:13:53.888Z"
         },
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.575Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:03.321Z",
         "lastCheckAttemptEvidence": "Exact HTTP403 Bot Verification; previous successful evidence/date retained.",
         "lastCheckAttemptMethod": "Nov03 exact URL attempt via public reader; stale snapshot or cache/access error",
-        "previousSuccessfulEvidence": "Only two-day-old indexed snapshot; price range and storage selectors do not verify current 256GB price/availability."
+        "previousSuccessfulEvidence": "Only two-day-old indexed snapshot; price range and storage selectors do not verify current 256GB price/availability.",
+        "lastSuccessfulEvidence": "Only two-day-old indexed snapshot; price range and storage selectors do not verify current 256GB price/availability."
       },
       "firstSeen": "2026-10-17",
       "warranty": "Page advertises 1 month hardware / 6 months software; confirm unit-specific terms",
@@ -2371,6 +2414,46 @@
       "status": "unavailable",
       "removedAt": "2026-11-03T22:43:53.338Z",
       "previousOfferId": "mtel-s25-256"
+    },
+    {
+      "id": "xmobile-honor400pro-512",
+      "name": "HONOR 400 Pro",
+      "seller": "XMobile",
+      "cashPrice": 191999,
+      "storage": "12GB / 512GB",
+      "condition": "New (advertised)",
+      "url": "https://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+      "address": "42N,Ground Floor,Liberty Plaza,Colombo03",
+      "warranty": "1 Year Company Warranty option; issuer/display scope unconfirmed",
+      "displayCoverage": "No written local spontaneous display-line coverage established",
+      "testing": "Not stated; obtain permission before paying",
+      "variant": "See offer notes; region and device identity require on-device verification",
+      "reason": "Secondary regional alternative: exact page says5300mAh, so this is NOT the preferred verified6000mAh variant. Confirm region, battery, selected colour/warranty price and all-in KOKO quote.",
+      "rank": 16,
+      "stock": {
+        "status": "not_stated",
+        "checkedAt": "2026-11-05T15:51:35.417Z",
+        "lastSuccessfulCheckAt": "2026-11-05T15:51:35.417Z",
+        "lastCheckAttemptAt": "2026-11-05T15:51:35.417Z",
+        "method": "Fresh direct public HTTP GET; exact public product/ad page",
+        "evidence": "Live exact listing; no explicit target stock message. Not confirmed in stock."
+      },
+      "koko": {
+        "supported": true,
+        "monthly": 63999.67,
+        "total": 191999,
+        "fees": null,
+        "totalConfirmed": false,
+        "scope": "product",
+        "source": "https://xmobile.lk/product/honor-400-pro-5g-12gb-ram-512gb/",
+        "checkedAt": "2026-11-05T15:51:35.417Z",
+        "selectedVariant": "12GB / 512GB; 1 Year Company Warranty option; issuer/display scope unconfirmed",
+        "evidence": "Exact target KOKO-labelled installment widget.",
+        "note": "Advertised amounts only. Obtain selected-variant all-in quote <=200000 before buying; unknown fees are not assumed zero."
+      },
+      "firstSeen": "2026-11-05T15:51:35.417Z",
+      "removedAt": "2026-11-06T04:57:54.301Z",
+      "removalReason": "Exact XMobile 12GB/512GB colour and one-year company warranty options all explicitly render Out of stock (Tidal Blue, Midnight Black, Lunar Grey)."
     }
   ],
   "facebook": {
@@ -2400,7 +2483,7 @@
         "url": "https://www.facebook.com/marketplace/item/1192158536816247/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.501Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:36.840Z",
         "stock": "check_failed",
         "warranty": "6 months shop warranty advertised; hardware,battery/display scope unconfirmed",
         "battery": "99% seller claim; cycles unknown",
@@ -2412,7 +2495,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One week old;global version12GB256GB;phone+cable;99%batteryhealth;6months shop warranty. No KOKO/displaycover/repair/testing terms;no sold-out.",
         "koko": {
           "supported": null,
@@ -2426,7 +2509,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 1,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1535941431906852",
@@ -2443,7 +2526,7 @@
         "url": "https://www.facebook.com/marketplace/item/1535941431906852/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.503Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.138Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -2465,11 +2548,11 @@
         },
         "areaPriority": true,
         "priority": 2,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Listed8weeks ago;12GB256GB;6000mAh80W Sony sensors seller claims. No sold-out label; KOKO,warranty,battery health,repair history and testing not stated.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Inuka Samarasekara",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1064673003295735",
@@ -2506,16 +2589,16 @@
         "areaPriority": false,
         "priority": 3,
         "storageGB": 512,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.505Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.215Z",
         "currentSourceEvidence": "Listed one week ago;16GB512GB;device only;everything works and all-day battery are seller claims. KOKO,warranty,repairs,health not stated; no sold-out label.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Shafa Najmudeen",
         "alternateUrls": [
           "https://ikman.lk/en/ad/oneplus-13r-5g-16gb-512gb-used-for-sale-colombo-3"
         ],
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1585348916140092",
@@ -2531,7 +2614,7 @@
         "url": "https://www.facebook.com/marketplace/item/1585348916140092/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.507Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.576Z",
         "stock": "check_failed",
         "warranty": "6 months shop warranty advertised; issuer exclusions,hardware,battery/display scope unconfirmed",
         "battery": "Health,cycles and repairs not stated",
@@ -2543,7 +2626,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One week;titleglobal and bodyIndianused12GB256GB;phone+cable;7400mAh described as batteryhealth is capacityclaim,not healthmeasurement. KOKO,actualhealth,repairhistory and localdisplaycover unstated.",
         "koko": {
           "supported": null,
@@ -2557,7 +2640,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 4,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1086003527402076",
@@ -2574,7 +2657,7 @@
         "url": "https://www.facebook.com/marketplace/item/1086003527402076/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:09.511Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:37.897Z",
         "stock": "check_failed",
         "koko": {
           "supported": true,
@@ -2596,11 +2679,11 @@
         },
         "areaPriority": true,
         "priority": 5,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "2weeks;184000fixed;KOKO explicit;alloriginalparts/originalbattery/fullsetmatchingbox sellerclaims;healthpercentage,cycles,warranty,displaycover and KOKOtotal unstated.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Raaheed Ilyas",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2190007535183662",
@@ -2616,7 +2699,7 @@
         "url": "https://www.facebook.com/marketplace/item/2190007535183662/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.504Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:39.704Z",
         "stock": "check_failed",
         "warranty": "With warranty advertised; duration,issuer and scope not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -2628,7 +2711,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "11weeks;12GB256GB;fullsetbox;brandnewcondition seller claim;cash/exchange and creditcard accepted. Creditcard is not KOKO evidence;model verification needed;no sold-out.",
         "koko": {
           "supported": null,
@@ -2642,7 +2725,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 6,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1438656291053969",
@@ -2658,7 +2741,7 @@
         "url": "https://www.facebook.com/marketplace/item/1438656291053969/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.527Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:40.421Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -2670,7 +2753,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One week;global16GB512GB;fullset originalcharger matchingbox seller claims. KOKO,warranty,repairs,health/testing not stated;no sold-out.",
         "koko": {
           "supported": null,
@@ -2684,7 +2767,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 7,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1088552117150657",
@@ -2700,7 +2783,7 @@
         "url": "https://www.facebook.com/marketplace/item/1088552117150657/",
         "checkedAt": "2026-11-03T22:47:14.886Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:10.643Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:41.029Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Battery health,cycles and repair history not stated",
@@ -2724,8 +2807,8 @@
         "areaPriority": false,
         "priority": 8,
         "currentSourceEvidence": "Exact live ad: listed one week ago;12GB/256GB;like-new condition and Snapdragon8Gen3/1440p120Hz are seller claims. Lower-price flagship camera alternative to inspect alongside13R. Battery health,repairs,regional model,KOKO and warranty are not stated.",
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1815452673242677",
@@ -2762,13 +2845,13 @@
         "areaPriority": false,
         "priority": 9,
         "storageGB": 256,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.187Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:44.649Z",
         "currentSourceEvidence": "One week;all parts original sellerclaim;KOKO,warranty,displaycover unstated;fresh exact-page recheck succeeded after initial loading blank.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Manoharan Sritharan",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1486733800018579",
@@ -2784,7 +2867,7 @@
         "url": "https://www.facebook.com/marketplace/item/1486733800018579/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.367Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:45.596Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "96% seller claim",
@@ -2796,7 +2879,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "2days;12GB256GBtitle;carefullyused/noscratches sellerclaims;KOKO,warranty,region,cycles/repairs unknown. Cheapercashthan190000Pixel10 but accessorypackage not stated.",
         "koko": {
           "supported": null,
@@ -2810,7 +2893,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 10,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1106236332050953",
@@ -2826,7 +2909,7 @@
         "url": "https://www.facebook.com/marketplace/item/1106236332050953/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.423Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:46.045Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "96% seller claim",
@@ -2838,7 +2921,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "3days;Indian256GB;noissues/scratches originalbox/cable+Google45Wcharger sellerclaims;190000negotiable;noexchange. KOKO,warranty/cycles/repairhistory not stated. Network suitability is sellerclaim, test localSIM.",
         "koko": {
           "supported": null,
@@ -2852,7 +2935,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 11,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-852222554511158",
@@ -2868,7 +2951,7 @@
         "url": "https://www.facebook.com/marketplace/item/852222554511158/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.819Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:46.962Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -2880,7 +2963,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Listed11weeks ago;16+12RAM;6000mAh and120Wcharger seller claims; verify actual charger/model. KOKO,warranty,repairs,health not stated;no sold-out.",
         "koko": {
           "supported": null,
@@ -2894,7 +2977,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 12,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2075835499805421",
@@ -2910,7 +2993,7 @@
         "url": "https://www.facebook.com/marketplace/item/2075835499805421/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.890Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:47.710Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "99% seller claim",
@@ -2922,7 +3005,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "5weeks;16+12RAM512GB99%batteryhealth claimed. No KOKO,warranty,repair/testing terms;no sold-out.",
         "koko": {
           "supported": null,
@@ -2936,7 +3019,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 13,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2565918743843009",
@@ -2973,13 +3056,13 @@
         "areaPriority": false,
         "priority": 14,
         "storageGB": 256,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:11.957Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:52.100Z",
         "currentSourceEvidence": "7weeks;Chinese version12GB256GB;fullsetbox charger/backcover;6monthsshop warranty;KOKO/displaycover/repair/testing not stated;no sold-out. Distinct ad from159000global offer.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "TechnoMobile Colombo",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1882830733084186",
@@ -2995,7 +3078,7 @@
         "url": "https://www.facebook.com/marketplace/item/1882830733084186/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.168Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:58.737Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3007,7 +3090,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Listed one day ago;256GBfullsetbox;health,cycles,KOKO,warranty and repairs not stated. Worth investigating exact condition rather than assuming good battery.",
         "koko": {
           "supported": null,
@@ -3021,7 +3104,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 15,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1152853117176556",
@@ -3037,7 +3120,7 @@
         "url": "https://www.facebook.com/marketplace/item/1152853117176556/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.357Z",
+        "lastCheckAttemptAt": "2026-11-06T04:55:59.658Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3049,7 +3132,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One day;greenLL/A256GBmatchingboxmintcondition sellerclaims;verify eSIMcompatibility and actual battery. KOKO,warranty/repairs/health not stated.",
         "koko": {
           "supported": null,
@@ -3063,7 +3146,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 16,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1744720329967322",
@@ -3101,12 +3184,12 @@
         "seller": "Shaa Careem / French Mobile",
         "priority": 17,
         "storageGB": 256,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.476Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:00.405Z",
         "currentSourceEvidence": "2weeks;16GB256GB;brandnewcondition fullsetbox sellerclaims;KOKO,warranty,batteryhealth not stated. Fresh browser check replaces stale warning.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1714099976696651",
@@ -3122,7 +3205,7 @@
         "url": "https://www.facebook.com/marketplace/item/1714099976696651/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.542Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:00.672Z",
         "stock": "check_failed",
         "warranty": "Seller says two months warranty remaining; original ad23weeks old, confirm current expiry/transferability",
         "battery": "Health,cycles and repairs not stated",
@@ -3134,7 +3217,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Indian version16GB512GB title;fullsetbox phonecharger/twocovers;two months warranty remaining claim on23weekoldad cannot imply2months fromtoday. KOKO/displaycover/repairs/health not stated;no sold-out.",
         "koko": {
           "supported": null,
@@ -3148,7 +3231,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 18,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1010417661810207",
@@ -3164,7 +3247,7 @@
         "url": "https://www.facebook.com/marketplace/item/1010417661810207/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.708Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:03.828Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3176,7 +3259,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "15weeks;8GB256GB title;description only asks to call. Sparse low-price lead;verify actual unit/model,realall-inprice,condition and meetuplocation. KOKO,warranty,health/repair unknown;do not infer authenticity or defect from price alone.",
         "koko": {
           "supported": null,
@@ -3190,7 +3273,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 19,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2202213393847071",
@@ -3206,7 +3289,7 @@
         "url": "https://www.facebook.com/marketplace/item/2202213393847071/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:12.874Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:04.504Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "100% seller claim",
@@ -3218,7 +3301,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "18weeks old;100%batteryhealth120Wflashcharger no issues claim;storage absent. Same seller as135000512GB offer, potential duplicate unit;hold until storage/unit identity confirmed;KOKO/warranty not stated.",
         "koko": {
           "supported": null,
@@ -3232,7 +3315,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 20,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-29281773454787398",
@@ -3248,7 +3331,7 @@
         "url": "https://www.facebook.com/marketplace/item/29281773454787398/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.095Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:04.871Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3260,7 +3343,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Explicit In stock label on exact ad. Used one year,negotiable;storage,KOKO,warranty,batteryhealth and repairs unstated. Hold until actual storage and condition confirmed.",
         "koko": {
           "supported": null,
@@ -3274,7 +3357,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 21,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1623914312813910",
@@ -3290,7 +3373,7 @@
         "url": "https://www.facebook.com/marketplace/item/1623914312813910/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.099Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:05.101Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3302,7 +3385,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "7weeks;12GB256GB;bill available, bought2026-02-26 and upgradingtoOnePlus15;not established unusednew. KOKO,warrantyremaining,health/repair unstated;Greenware new155000 withKOKO is clearer alternative.",
         "koko": {
           "supported": null,
@@ -3316,7 +3399,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 22,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1052923547333850",
@@ -3332,7 +3415,7 @@
         "url": "https://www.facebook.com/marketplace/item/1052923547333850/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.172Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:05.315Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3344,7 +3427,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "9weeks;16GBRAM128GB;leftbottomscratch;KOKO explicitly accepted but fees,total unknown. Warranty not stated;storage compromise.",
         "koko": {
           "supported": true,
@@ -3358,7 +3441,7 @@
           "evidence": "Exact target ad explicitly mentions KOKO;monthly,fees,all-in total and eligibility not stated."
         },
         "priority": 23,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2594860840951655",
@@ -3395,13 +3478,13 @@
         "areaPriority": false,
         "priority": 24,
         "storageGB": 128,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.316Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:05.490Z",
         "currentSourceEvidence": "5weeks;128GB;noerrors/fullsetsameIMEI sellerclaims;exchangeforS24Ultra;KOKO,warranty unknown. Storage compromise.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Sanura Alwis",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1057398137109323",
@@ -3438,13 +3521,13 @@
         "areaPriority": true,
         "priority": 25,
         "storageGB": 128,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.578Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.013Z",
         "currentSourceEvidence": "5weeks;12GB128GBfullsetbox;KOKOexplicit;brandnewcondition sellerclaim;no warranty/health/cycles;storage compromise.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Sadun Tharaka",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1574436663979359",
@@ -3481,13 +3564,13 @@
         "areaPriority": false,
         "priority": 26,
         "storageGB": null,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.603Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.109Z",
         "currentSourceEvidence": "2weeks;description has no visible public handset detail beyond model/condition. Storage,warranty,KOKO,battery/repairs unknown;research hold.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Isuru Anuranga",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1573212657695965",
@@ -3503,7 +3586,7 @@
         "url": "https://www.facebook.com/marketplace/item/1573212657695965/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.754Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.171Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3515,7 +3598,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Listed17weeksago;title128GB/256GB but only one190000price;body sameIMEIbox and Kottawa. Selected256GBprice,battery,warranty,KOKO not established;hold research until confirmed;no sold-out.",
         "koko": {
           "supported": null,
@@ -3529,7 +3612,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 27,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1890895378566353",
@@ -3545,7 +3628,7 @@
         "url": "https://www.facebook.com/marketplace/item/1890895378566353/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:13.850Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.641Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "94%;312 cycles seller claims",
@@ -3557,7 +3640,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One day;Ultramarine physicalSIMbox/mintcondition;storage not stated. KOKO,warranty/repair history unknown;hold selected256GB eligibility until verified.",
         "koko": {
           "supported": null,
@@ -3571,7 +3654,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 28,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2664570947332571",
@@ -3588,7 +3671,7 @@
         "url": "https://www.facebook.com/marketplace/item/2664570947332571/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.049Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.675Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -3610,11 +3693,11 @@
         },
         "areaPriority": true,
         "priority": 29,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "8weeks;unitonly;some display scratches explicitly disclosed;storage unknown. KOKO/repairhistory not stated;verify cycles and actual coverage. Target page live;no sold-out.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Dulaj Randunu",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1138732061875030",
@@ -3630,7 +3713,7 @@
         "url": "https://www.facebook.com/marketplace/item/1138732061875030/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.242Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.799Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3642,7 +3725,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "4days;8GB256GB6500mAh100Wand7sGen4 sellerclaims;brandnew vs3monthsused conflict;verify exact regional model,camera quality and originaldisplay. KOKO,warranty/health unstated.",
         "koko": {
           "supported": null,
@@ -3656,7 +3739,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 30,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1460845802627564",
@@ -3673,7 +3756,7 @@
         "url": "https://www.facebook.com/marketplace/item/1460845802627564/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.334Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.895Z",
         "stock": "check_failed",
         "koko": {
           "supported": null,
@@ -3695,11 +3778,11 @@
         },
         "areaPriority": true,
         "priority": 31,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "TitleHonor400Pro but body explicitlyModelHonor200Pro12GB512GBfullsetbox;do not shortlist as400Pro;KOKO,warranty unstated.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Kevin de Minion",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2194256351122791",
@@ -3715,7 +3798,7 @@
         "url": "https://www.facebook.com/marketplace/item/2194256351122791/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.390Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:06.997Z",
         "stock": "check_failed",
         "warranty": "6months shop warranty advertised",
         "battery": "Health,cycles and repairs not stated",
@@ -3727,7 +3810,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Title X100Pro12/256 but body X200Pro12/512;100%batteryhealth sellerclaim;model and storage conflict. Hold for correction, not a qualifying offer;KOKO not stated.",
         "koko": {
           "supported": null,
@@ -3741,7 +3824,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 32,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1531874328208753",
@@ -3778,13 +3861,13 @@
         "areaPriority": false,
         "priority": 33,
         "storageGB": 512,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.447Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:07.520Z",
         "currentSourceEvidence": "10weeks;512GB;explicit Bypass Phone;cashonly. Reject activation/bypass risk for normal daily handset;originaldisplay/parts sellerclaims do not resolve this.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Shan Samarajeewa",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2072297583678048",
@@ -3800,7 +3883,7 @@
         "url": "https://www.facebook.com/marketplace/item/2072297583678048/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.808Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:07.588Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "84% seller claim",
@@ -3812,7 +3895,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "8weeks;phone+cable only;128GB84%battery;KOKO/warranty not stated. Battery and storage weak match.",
         "koko": {
           "supported": null,
@@ -3826,7 +3909,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 34,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1444974007606120",
@@ -3863,13 +3946,13 @@
         "areaPriority": false,
         "priority": 35,
         "storageGB": 256,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.867Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:07.871Z",
         "currentSourceEvidence": "2weeks;titlePixel10 but16GBRAM claim needs actual model verification;256GB/alloriginalparts sellerclaims. KOKO,warranty,health unstated;do not assume Pro/ProXL.",
         "staleWarning": "Fresh check failed Nov3: exact Marketplace URL returned cache miss and browser UI provider was unavailable. Previous evidence/date retained; not called sold/unavailable.",
         "seller": "Abu Abdullah",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1610560367509824",
@@ -3885,7 +3968,7 @@
         "url": "https://www.facebook.com/marketplace/item/1610560367509824/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.914Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:07.891Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Health,cycles and repairs not stated",
@@ -3897,7 +3980,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Oneweek;backcamera dust needs cleaning and backglass changed explicitly disclosed;alloriginalparts contradicts replacedbackglass. Camera priority makes poor match;KOKO,warranty,health unknown.",
         "koko": {
           "supported": null,
@@ -3911,7 +3994,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 36,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-905393501967481",
@@ -3927,7 +4010,7 @@
         "url": "https://www.facebook.com/marketplace/item/905393501967481/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:14.968Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.193Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "86% seller claim",
@@ -3939,7 +4022,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "15weeks;phoneonly128GB86%battery;KOKO,warranty not stated;weak storage and battery match.",
         "koko": {
           "supported": null,
@@ -3953,7 +4036,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 37,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-4650271128586159",
@@ -3969,7 +4052,7 @@
         "url": "https://www.facebook.com/marketplace/item/4650271128586159/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.036Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.219Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "82% seller claim",
@@ -3981,7 +4064,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One week;128GB82%battery;originalbox/no replacements or errors sellerclaims;cashonly;exclude as weak battery/storage match;warranty not stated.",
         "koko": {
           "supported": false,
@@ -3995,7 +4078,7 @@
           "evidence": "Exact ad states cash only."
         },
         "priority": 38,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1113522445014456",
@@ -4011,7 +4094,7 @@
         "url": "https://www.facebook.com/marketplace/item/1113522445014456/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.064Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.458Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "89% original seller claim",
@@ -4023,7 +4106,7 @@
           "sources": []
         },
         "areaPriority": true,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Listed4daysago;128GB89%originalbattery fullsetbox. Storage and battery compromises;not exact256GB target;KOKO/warranty not stated.",
         "koko": {
           "supported": null,
@@ -4037,7 +4120,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 39,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1430362205710326",
@@ -4053,7 +4136,7 @@
         "url": "https://www.facebook.com/marketplace/item/1430362205710326/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.467Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.729Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "80% original seller claim",
@@ -4065,7 +4148,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "6weeks;LL/AeSIM128GB;originaldisplay/fullsetmatchingbox/firstowner sellerclaims;KOKO,warranty not stated;weak battery/storage fit.",
         "koko": {
           "supported": null,
@@ -4079,7 +4162,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 40,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1599282425307411",
@@ -4095,7 +4178,7 @@
         "url": "https://www.facebook.com/marketplace/item/1599282425307411/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.519Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.980Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "79% seller claim",
@@ -4107,7 +4190,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "One day;256GBfullsetmatchingbox79%battery;poor battery upgrade;KOKO,warranty unstated.",
         "koko": {
           "supported": null,
@@ -4121,7 +4204,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 41,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2934040063598539",
@@ -4137,7 +4220,7 @@
         "url": "https://www.facebook.com/marketplace/item/2934040063598539/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.550Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:08.992Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "87% seller claim",
@@ -4149,7 +4232,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "18weeks;256GBoriginalparts/noreplacement sellerclaims;198000with87%battery weak upgrade for batteryneed;KOKO/warranty unstated.",
         "koko": {
           "supported": null,
@@ -4163,7 +4246,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 42,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1261192642457180",
@@ -4179,7 +4262,7 @@
         "url": "https://www.facebook.com/marketplace/item/1261192642457180/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.612Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:09.008Z",
         "stock": "check_failed",
         "warranty": "2 weeks checking warranty;1 year software warranty;no long hardware/display warranty established",
         "battery": "80% seller claim;3uTools98% report is not authentication",
@@ -4191,7 +4274,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "24weeks;phoneonly199000/fullset202000overcap;256GB80%battery;KOKO explicit but total/fees unknown. Reject battery fit;do not treat199000 as confirmedKOKOtotal. TrueTone/FaceID working sellerclaims.",
         "koko": {
           "supported": true,
@@ -4205,7 +4288,7 @@
           "evidence": "Exact target ad explicitly mentions KOKO;monthly,fees,all-in total and eligibility not stated."
         },
         "priority": 43,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-2595847504252158",
@@ -4221,7 +4304,7 @@
         "url": "https://www.facebook.com/marketplace/item/2595847504252158/",
         "checkedAt": "2026-11-03T22:43:53.338Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:43:53.338Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.633Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:09.182Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "79% seller claim",
@@ -4233,7 +4316,7 @@
           "sources": []
         },
         "areaPriority": false,
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
         "currentSourceEvidence": "Two days;256GBfullsetmatchingbox79%battery;poor battery fit;different seller/ad from195000, potential duplicate handset not established;KOKO,warranty unstated.",
         "koko": {
           "supported": null,
@@ -4247,7 +4330,7 @@
           "evidence": "KOKO not stated in inspected exact ad; credit-card acceptance alone is not evidence."
         },
         "priority": 44,
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       },
       {
         "id": "fb-1561946258659910",
@@ -4263,7 +4346,7 @@
         "url": "https://www.facebook.com/marketplace/item/1561946258659910/",
         "checkedAt": "2026-11-03T22:47:14.886Z",
         "lastSuccessfulCheckAt": "2026-11-03T22:47:14.886Z",
-        "lastCheckAttemptAt": "2026-11-05T15:49:15.884Z",
+        "lastCheckAttemptAt": "2026-11-06T04:56:09.645Z",
         "stock": "check_failed",
         "warranty": "Not stated",
         "battery": "Battery health,cycles and repair history not stated",
@@ -4287,8 +4370,8 @@
         "areaPriority": false,
         "priority": 45,
         "currentSourceEvidence": "Exact live ad:17weeks old;unit description says8+8GBRAM/128GB,followed by generic16GB/256GB specifications. Do not treat Rs80000 as a confirmed256GB quote. KOKO,warranty,battery health and repairs not stated;hold until exact storage and handset verified.",
-        "inspectionLabel": "STALE: exact Facebook details could not be rechecked today",
-        "checkFailure": "Public HTTP returned title-only/login content; IAB and Chrome browser endpoints were unavailable. Previous successful evidence, price and dates retained."
+        "inspectionLabel": "STALE: latest exact Facebook listing could not be verified",
+        "checkFailure": "Public page did not expose verifiable exact-ad details and Colombo seller location. Prior successful details and date retained."
       }
     ],
     "riskNotes": [
